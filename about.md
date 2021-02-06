@@ -11,12 +11,12 @@ With your help, this growing body of carefully catalogued coffees brings to life
 We share the coffee archive with the local community by hosting coffee cup tasting events for anyone who is interested in participating. If you haven’t been to a coffee cup tasting (or “cupping”) event before, don’t worry: Manchester Coffee Archive events are inclusive of all levels of coffee knowledge and experience. 
 
 ### How Can I Get Involved? 👐
-You can get involved with Manchester Coffee Archive in all sorts of ways, and the most direct way to do so is by submitting a sample (13g or more) of single origin coffee, within 30 days of roast, which will be added to the Archive. You can share your coffees you are enjoying  by post, drop your  samples off in central Manchester, or bring them to the next event.
+The most direct way to get involved is by submitting a sample (13g or more) of single origin coffee, within 30 days of roast, which will be added to the Archive. You can share your coffees you are enjoying by post or bring them to the next event.
 
 # FAQs
 
 ### What happens at a coffee tasting?
-At a coffee tasting - or “cupping” - a selection of coffees are brewed in small bowls, and participants take a spoon and take a little bit of each coffee to compare and enjoy them all side-by-side. If you haven’t done it before, it might sound weird, but It is a low-fuss way of tasting a large number of coffees side by side. Cupping is used in the coffee industry to assess the quality and grade of individual qualities, but MCA events are focussed on tasting for the love of tasting.
+A selection of coffees are brewed in small bowls, and participants take a spoon and take a little bit of each coffee to compare and enjoy them all side-by-side. If you haven’t done it before, it might sound weird, but It is a low-fuss way of tasting a large number of coffees side by side. Cupping is used in the coffee industry to assess the quality and grade of individual qualities, but MCA events are focussed on tasting for the love of tasting.
 
 ### Do I need to know anything about coffee?
 We welcome anyone who is interested in attending and participating in the tasting. There are no right answers; there is no test; we aim to provide a learning exchange inclusive to all levels of knowledge and the Archivists will happily answer any questions you may have along the way.
