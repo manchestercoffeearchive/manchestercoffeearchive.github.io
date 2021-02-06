@@ -41,7 +41,6 @@ social-network-links:
   email: "hello@manchestercoffeearchive.com"
   facebook: manchestercoffeearchive
   instagram: manchestercoffeearchive
-  twitter: mcrcoffeearch
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -86,7 +85,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "coffee,freezing,manchester,cupping,events"
 
 # --- Colours / background image --- #
 
