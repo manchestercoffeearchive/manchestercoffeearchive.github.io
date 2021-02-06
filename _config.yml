@@ -68,6 +68,7 @@ rss-description: Manchester Coffee Archive RSS
 # --- General options --- #
 # -- TF added 6.2.21 --- #
 paginate_path: "/blog/page:num/"
+share-description: "Curating a crowd-sourced frozen archive of coffees to share with the coffee-curious."
 
 # Select which social network share links to show in posts
 share-links-active:
@@ -90,7 +91,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "coffee,freezing,manchester,cupping,events"
+keywords: "coffee,freezing,manchester,tasting,tastings,cupping,cuppings,event,events"
 
 # --- Colours / background image --- #
 
