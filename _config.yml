@@ -14,7 +14,7 @@ author: MCA
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About MCA: "aboutme"
+  About MCA: "about"
 ##  Blog: "blog"
   Resources:
     - What We Know About Freezing Coffee Beans: "https://docs.google.com/document/d/1-PxV4dqVevPhT2uFmOPS2781Vzh1yzLI5rDYTrNs7ik/edit?usp=sharing"
