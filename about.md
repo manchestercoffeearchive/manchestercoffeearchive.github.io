@@ -2,7 +2,7 @@
 layout: page
 title: About MCA
 ---
-
+<div style="text-align: justify">
 ### What is Manchester Coffee Archive? 💾
 Manchester Coffee Archive is a crowd-sourced collection of high quality coffees, vacuum-sealed and frozen to preserve their flavours. Freezing allows us to almost halt the ageing process, enabling us to share curated coffee lineups  at any time - no matter how long ago the coffee was produced or roasted. The driving force of the Archive is our communal curiosity and desire to share. We aim to provide coffee tasting experiences and opportunities for everyone - coffee pros and novices alike - to learn about and discover great coffees. 
 
@@ -36,3 +36,4 @@ All events will be shared via Instagram, so we’ll be sure to tag and credit al
 
 ### Can I bring my own cupping spoon?
 Only if you want to look super-cool. 😎
+</div>
