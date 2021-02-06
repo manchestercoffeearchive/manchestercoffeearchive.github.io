@@ -15,6 +15,7 @@ author: MCA
 
 navbar-links:
   About MCA: "aboutme"
+  Blog: "blog"
   Resources:
     - What We Know About Freezing Coffee Beans: "https://docs.google.com/document/d/1-PxV4dqVevPhT2uFmOPS2781Vzh1yzLI5rDYTrNs7ik/edit?usp=sharing"
   Events: "http://manchestercoffeearchive.eventbrite.com/"
@@ -63,6 +64,8 @@ social-network-links:
 rss-description: Manchester Coffee Archive RSS
 
 # --- General options --- #
+# -- TF added 6.2.21 --- #
+paginate_path: "/blog/page:num/"
 
 # Select which social network share links to show in posts
 share-links-active:
