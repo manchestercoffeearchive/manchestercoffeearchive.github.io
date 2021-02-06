@@ -7,8 +7,8 @@ Manchester Coffee Archive is a crowd-sourced collection of high quality coffees,
 
 With your help, this growing body of carefully catalogued coffees brings to life a whole host of interesting possibilities: from delicious side-by-side tastings and public events, to research projects aimed at specific areas of interest within the coffee community. 
 
-### COFFEE TASTING EVENTS 🥄
+### Coffee Tasting Events 🥄
 We share the coffee archive with the local community by hosting coffee cup tasting events for anyone who is interested in participating. If you haven’t been to a coffee cup tasting (or “cupping”) event before, don’t worry: Manchester Coffee Archive events are inclusive of all levels of coffee knowledge and experience. 
 
-### HOW CAN I GET INVOLVED? 👐
+### How Can I Get Involved? 👐
 You can get involved with Manchester Coffee Archive in all sorts of ways, and the most direct way to do so is by submitting a sample (13g or more) of single origin coffee, within 30 days of roast, which will be added to the Archive. You can share your coffees you are enjoying  by post, drop your  samples off in central Manchester, or bring them to the next event.
