@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 
 ---
 
 ### What is Manchester Coffee Archive? 💾
