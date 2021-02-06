@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: About MCA
 ---
 
 ### What is Manchester Coffee Archive? 💾
