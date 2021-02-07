@@ -425,27 +425,17 @@ Michael Cameron (2017) Freeze Beans not Beans - [https://strivefortone.com/2017/
 
 Botany Coffee (2018) Down the Vacuum Sealing Rabbit Hole - [https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240)
 
-E Uman et al (2016) The effect of bean origin and temperature on grinding roasted coffee
+E Uman et al (2016) The effect of bean origin and temperature on grinding roasted coffee [https://www.nature.com/articles/srep24483](https://www.nature.com/articles/srep24483)
 
-[https://www.nature.com/articles/srep24483](https://www.nature.com/articles/srep24483)
+The Little Black Coffee Cup (2018) Cryogenics & the Benefits of Freezing Green and Roasted Coffee | Interview with Christopher H. Hendon - [https://www.thelittleblackcoffeecup.com/journal/cryogenics](https://www.thelittleblackcoffeecup.com/journal/cryogenics)
 
-The Little Black Coffee Cup (2018) Cryogenics & the Benefits of Freezing Green and Roasted Coffee | Interview with Christopher H. Hendon - 
+Bean Scene (2018) The big freeze: why there’s no longer a barrier to coffee freshness - [https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/](https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/)
 
-[https://www.thelittleblackcoffeecup.com/journal/cryogenics](https://www.thelittleblackcoffeecup.com/journal/cryogenics)
+Ona Coffee (2018) New Sydney cafe to feature frozen coffee beans on menu - [https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/](https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/)
 
-Bean Scene (2018) The big freeze: why there’s no longer a barrier to coffee freshness
+Barista Hustle (2017) The Grinder Paper Explained - [https://baristahustle.com/blog/the-grinder-paper-explained/](https://baristahustle.com/blog/the-grinder-paper-explained/)
 
-[https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/](https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/)
-
-Ona Coffee (2018) New Sydney cafe to feature frozen coffee beans on menu [https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/](https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/)
-
-Barista Hustle (2017) The Grinder Paper Explained
-
-[https://baristahustle.com/blog/the-grinder-paper-explained/](https://baristahustle.com/blog/the-grinder-paper-explained/)
-
-Agoodkeensavage (2012) Why I stopped packaging our coffee in one-way valves - 
-
-[https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/](https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/)
+Agoodkeensavage (2012) Why I stopped packaging our coffee in one-way valves - [https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/](https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/)
 
 M Cameron, M Chapman, R Woodgate, A.G. Mackie, (2019) IG Chat Discussion 13-21/2/2019- @wayfarerbarista, @onacoffee, @angus_gus_mackie, @1914coffeecompany, @strivefortone
 
@@ -471,7 +461,7 @@ Recycle for Greater Manchester (2018) The truth about compostable packaging [htt
 
 Matt Perger (2020) Matt Perger Telegram Channel Chat (discussing vacuum sealing) - 3/2/2020
 
-Mat North (2020) Instagram Story re: freezing 23-3-2020
+Mat North (2020) Instagram Story Re: freezing (23-3-2020)
 
 MOCON Europe (2020) Vacuum Packaging [https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging](https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging)
 
