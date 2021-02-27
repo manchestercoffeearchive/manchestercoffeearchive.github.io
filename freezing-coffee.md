@@ -4,8 +4,6 @@
 
 _Updated: 01/11/2020_
 
-[TOC]
-
  ## Aim
 
 This is an attempt to collate all the currently available information on the topic of “freezing” roasted coffee in order to preserve it for long periods of time. Freezing is the driving force being MCA so it has therefore been crucial that we look into best practices.
@@ -51,15 +49,11 @@ There is a surprising amount of debate about the best way to store coffee but to
  Using a vacuum sealer is very popular, but there are alternatives. With each of these options the main factors to consider are:
 
 ●   How good is the seal?
-
 ●   How much air is in the container?
-
 ●   For how long will the coffee be stored?
 
  Here are a few examples:
-
 ●   **The original bag** - press out as much air/gas as possible and tape up the valve (electrical tape or duct tape works well) or put it in a ziplock bag. If the bag was previously flushed with inert gas, the coffee will preserve particularly well as there will be even less oxygen in the bag. If there's no valve you can try just putting it straight in the freezer or puncturing the bag to press the air/gas out. This may well be the best option if freezing a whole bag of coffee, particularly if the bag has been flushed with inert gas.
-
 ●   **Plastic reusable containers** - make sure the lid has a good seal and use one in an appropriate size for the amount you want to freeze. Also be aware that some type of plastic (e.g. PP - polypropylene) become brittle when stored at freezer temperature and may break.
 
 
