@@ -17,7 +17,7 @@ navbar-links:
   About MCA: "about"
 ##  Blog: "blog"
   Resources:
-    - What We Know About Freezing Coffee Beans: "freezing-coffee"
+ ##   - What We Know About Freezing Coffee Beans: "freezing-coffee"
     - Take a look into the Archive: "https://docs.google.com/spreadsheets/d/1h-0GN0zmmXGBU0HoJ5WAia8nmrwBX-OIMZfCduaj5aA/edit?usp=sharing"
     - Press: "press"
   Contribute: "contribute"
