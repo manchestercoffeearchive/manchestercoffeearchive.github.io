@@ -1,5 +1,7 @@
-# What We Know About Freezing Coffee Beans
-
+---
+layout: page
+title: What We Know About Freezing Coffee Beans
+---
  Tom Finch - Co-founder/Archivist, Manchester Coffee Archive
 
 _Updated: 01/11/2020_
