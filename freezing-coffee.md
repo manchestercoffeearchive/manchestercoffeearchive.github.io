@@ -7,8 +7,7 @@ title: What We Know About Freezing Coffee Beans
 _Updated: 01/11/2020_
 
 
-
- ## Aim
+ ## Aim ##
 
 This is an attempt to collate all the currently available information on the topic of “freezing” roasted coffee in order to preserve it for long periods of time. Freezing is the driving force being MCA so it has therefore been crucial that we look into best practices.
 
@@ -64,6 +63,8 @@ There is a surprising amount of debate about the best way to store coffee but to
 
 ●   **Plastic reusable containers** - make sure the lid has a good seal and use one in an appropriate size for the amount you want to freeze. Also be aware that some type of plastic (e.g. PP - polypropylene) become brittle when stored at freezer temperature and may break.
 
+
+**[[[[[[[[[[  WORK IN PROGRESS - INFO TO BE ADDED! ]]]]]]]]]]]]**
 
 
 ## References
