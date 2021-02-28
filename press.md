@@ -15,6 +15,9 @@ Sometimes people ask us to ramble on about freezing coffee...
 [FREEZING COFFEE AT HOME: EVERYTHING YOU NEED TO KNOW - Umeko Motoyoshi](https://urnex.com/blog/freezing-coffee-at-home-everything-you-need-to-know/)  
 04/04/2020
 
+[Why Everyone is Wrong about Freezing Coffee - Kyle Rowsell](https://youtu.be/5_NOVmzssBI)  
+22/02/2021
+
 ### Interviews ###
 
 [Freezing Coffee - Blossom Coffee Roasters](https://blossomcoffee.co.uk/freezing-coffee/)  
