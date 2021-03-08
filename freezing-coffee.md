@@ -7,7 +7,8 @@ title: What We Know About Freezing Coffee Beans
 _Updated: 08/03/2021_
 
 
- ## Aim
+ ## Aim ##
+
 
 This is an attempt to collate all the currently available information on the topic of “freezing” roasted coffee in order to preserve it for long periods of time. Freezing is the driving force being MCA so it has therefore been crucial that we look into best practices.
 
@@ -17,7 +18,7 @@ I am by no means an expert in freezing coffee: I have researched and learnt from
 
 If you find this guide useful, then feel free to show your appreciation by buying me a coffee. I do drink coffee too occasionally.
 
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V33MU8Z) 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V33MU8Z) 
 
 
 
@@ -50,9 +51,11 @@ Freezing allows you to massively reduce the rate at which coffee stales over tim
 
  
 
-> “... for every 10ºC you cool something down, most of the processes occurring in the bean occur at half the rate. So cooling of coffee should prevent chemical reactions that occur over time (like staling or aging), by making them proceed extremely slowly.” [(Hendon 2018)](#hendon2018)
+> “... for every 10ºC you cool something down, most of the processes occurring in the bean occur at half the rate. So cooling of coffee should prevent chemical reactions that occur over time (like staling or aging), by making them proceed extremely slowly.”
 
- 
+  [(Hendon 2018)](#hendon2018)
+
+
 
 The Arrhenius equation can be used to derive the following, as calculated by Michael Cameron:
 
@@ -123,6 +126,8 @@ There is a surprising amount of debate about the best way to store coffee but to
 
 Reducing temperature reduces how fast the coffee will age, so the freezer takes care of this one. The other two factors are dependent on the storage container. Freezer air can be damp and potentially odorous so it is important to try and keep this out.
 
+
+
 ### Vacuum sealing
 
 Air contains roughly 20% oxygen and this can either be removed by sucking the air out displacing it with an inert gas (such as carbon dioxide or argon). Oxygen causes oxidation, and therefore degradation of coffee, and so ideally needs to be removed as much as possible from the coffee storage. Vacuum sealers are a simple way of removing air from a bag of coffee and then sealing with a permanent seal.
@@ -157,7 +162,7 @@ Displacing air with inert gas (flushing) is a technique used to package coffee b
 
   
 
-These “alternative methods” mean that it may not be necessary to buy a vacuum sealer, especially for shorter term storage, and are low cost options that are available if you want to try freezing some coffee. It would be interesting to know exactly how well these methods perform over time, and I'd like to test these out more to be able to provide better recommendations; however, if you want to preserve coffee for a few months, possibly more, these are all options worth considering. 
+These “alternative methods” mean that it may not be necessary to buy a vacuum sealer, especially for shorter term storage, and are low cost options that are available if you want to try freezing some coffee. It would be interesting to know exactly how well these methods perform over time, and I'd like to test these out more to be able to provide better recommendations; however, if you want to preserve coffee for a few months, possibly more, these are all options worth considering.
 
 There are a few storage methods I don’t recommend: reusable ziplock bags with valves are appealing but I have found that air tends to leak back into these quickly, particularly after being reused. Ryan Woodgate has mentioned having similar experiences with them. Similarly, rigid plastic containers or bottles with vacuum valves have similar issues: the partial vacuum inside the container is essentially trying to suck air in all the time so any imperfections in the seal will cause air to be leaked back into the container. Also, Fellow do not recommend using their Atmos Vacuum Canisters in a freezer due to negative effects on the seal. 
 
@@ -179,15 +184,7 @@ Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack
 
 
 
-
-
-------
-
------
-
-
-
-**Vacuum-sealing Workflow Examples**
+## Vacuum-sealing Workflow Examples
 
 There are two main options when using vacuum-sealed plastic bags:
 
@@ -197,21 +194,17 @@ There are two main options when using vacuum-sealed plastic bags:
 
  
 
-**Vacuum-sealing and resealing with vacuum bags**
+### Vacuum-sealing and resealing with vacuum bags
 
 This is a good method to use if you just want to make one or two cups of coffee at a time and this is therefore what I do with most coffees at home. This method is great for particularly fancy, expensive coffees that you want to hang on to for a while. 
 
- 
+ Most domestic vacuum sealers require **embossed/textured** plastic and will not work with smooth bags. Make sure the plastic roll/bags you buy are suitable before you buy in bulk.
 
-Most domestic vacuum sealers require **embossed/textured** plastic and will not work with smooth bags. Make sure the plastic roll/bags you buy are suitable before you buy in bulk.
-
- 
-
-With a larger bag, you can cut out the original packaging label and put it inside, but I tend to just hold on to these and record all the information on a spreadsheet so I know exactly what I have in the freezer.
+ With a larger bag, you can cut out the original packaging label and put it inside, but I tend to just hold on to these and record all the information on a spreadsheet so I know exactly what I have in the freezer.
 
  
 
-Method:
+#### Method
 
 ●   Coffee is portioned into a prepared bag (cut from a 12cm or 15cm wide roll); I have found 20cm x15cm wide bags work well for 100g portions as it allows the bag to be flattened.
 
@@ -223,7 +216,7 @@ Method:
 
  
 
-Notes:
+#### Notes
 
 ●   With my vacuum sealer, I need to seal approximately 1<2 cm of the bag each time I open it, due to the gap between the vacuum chamber and the heat sealer. When using a 12cm of 15cm roll a 14 dose of coffee and be removed, and the bag re-sealed; however, with a wider roll/bag removing such a small amount may not allow for the vacuum sealer the close, so more coffee will need to be removed.
 
@@ -231,7 +224,8 @@ Notes:
 
 ●   Using this method means the bag itself cannot be reused as it is cut up, but removing entire bags from the freezer could allow the bags to be reused.
 
- 
+
+ ![Resealing an opened bag: the cut edge is just inside the vacuum chamber](/assets/img/wwk_the_gap.jpg)
 
 *Resealing an opened bag: the cut edge is just inside the vacuum chamber. The bag reduces in length by 1.5cm approx between resealing (indicated by arrows on the right)*
 
@@ -257,7 +251,7 @@ This is what we do for all the coffees contributed to MCA for tasting events thr
 
  
 
-![img](file:///C:/Users/tfinc/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+
 
 \-    *Sealing a sample bag with a Crenova vacuum sealer - the coffee would need to be about 1<2cm below the heat sealer to close the lid and seal the bag*
 
@@ -410,14 +404,4 @@ It’s also worth noting that "compostable packaging" (often used for coffee bag
 Biodegradable vacuum sealing plastic is available, although I have not tried it myself. One example is [Eco Pouch](https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/), produced by The Vacuum Pouch Company, based in Bury, UK. Thanks to Ryan Woodgate for the suggestion.
 
  The guidance is that these bags are not suitable for storing liquid, and can be used for up to one year. Unfortunately the manufacturers have stated that Eco Pouch is not suitable for most domestic vacuum sealers, and requires a "snorkel" part which is inserted into the bag when vacuum sealing.
-
-
-
-## References
-
-<a id="hendon2018">Hendon, C. (2018)</a> The Little Black Coffee Cup - Cryogenics & the Benefits of Freezing Green and Roasted Coffee | Interview with Christopher H. Hendon - https://www.thelittleblackcoffeecup.com/journal/cryogenics
-
-<a id="theengineeringtoolbox2020">The Engineering Toolbox (2020)</a> Vacuum Pressure - Units Converter -  https://www.engineeringtoolbox.com/vacuum-converter-d_460.html
-
-## Bibliography
 
