@@ -11,6 +11,6 @@ Events Currently on hold - follow us on [Instagram](https://www.instagram.com/ma
 
 ## Past Events
 
-![MCA#2 - Contributors' Cup](/img/events/mca02poster.jpg)
+![MCA#2 - Contributors' Cup](/assets/img/events/mca02poster.jpg)
 
-![MCA#1 - Ten for Ten Series](/img/events/mca01poster.jpg)
+![MCA#1 - Ten for Ten Series](/assets/img/events/mca01poster.jpg)
