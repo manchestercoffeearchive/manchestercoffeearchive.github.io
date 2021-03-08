@@ -7,7 +7,7 @@ title: What We Know About Freezing Coffee Beans
 _Updated: 08/03/2021_
 
 
-## Aim ##
+## Aim
 
 This is an attempt to collate all the currently available information on the topic of “freezing” roasted coffee in order to preserve it for long periods of time. Freezing is the driving force being MCA so it has therefore been crucial that we look into best practices.
 
@@ -21,6 +21,51 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 
 
 
+------
+
+## Contents
+- [Introduction](#introduction)
+- [Why freeze coffee?](#why-freeze-coffee-)
+  * [Stop the clock](#stop-the-clock)
+  * [Preserve coffee at its peak flavour](#preserve-coffee-at-its-peak-flavour)
+  * [Never run out of coffee](#never-run-out-of-coffee)
+  * [Keep a variety of coffees in stock](#keep-a-variety-of-coffees-in-stock)
+  * [Reduce fear of missing out](#reduce-fear-of-missing-out)
+  * [Improved grind consistency and distribution](#improved-grind-consistency-and-distribution)
+  * [Contribute coffee to MCA](#contribute-coffee-to-mca)
+- [Storage Methods](#storage-methods)
+  * [Vacuum sealing](#vacuum-sealing)
+  * [Alternatives to Vacuum sealing](#alternatives-to-vacuum-sealing)
+  * [What we use at Manchester Coffee Archive](#what-we-use-at-manchester-coffee-archive)
+- [Vacuum-sealing Workflow Examples](#vacuum-sealing-workflow-examples)
+  * [Vacuum-sealing and resealing with vacuum bags](#vacuum-sealing-and-resealing-with-vacuum-bags)
+    + [Method](#method)
+    + [Notes](#notes)
+    + [Single-dose bags](#single-dose-bags)
+- [Grinding from frozen](#grinding-from-frozen)
+- [Removing coffee from the freezer and using at room temperature](#removing-coffee-from-the-freezer-and-using-at-room-temperature)
+- [Freezing in Reusable Containers](#freezing-in-reusable-containers)
+  * [Reusable containers for freezing multiple single doses](#reusable-containers-for-freezing-multiple-single-doses)
+  * [Pressurising with inert gas:](#pressurising-with-inert-gas-)
+- [Guidance Notes](#guidance-notes)
+  * [“Refreezing” Coffee](#-refreezing--coffee)
+  * [The “best” time to freeze roasted coffee](#the--best--time-to-freeze-roasted-coffee)
+  * [How long after vacuum sealing coffee in plastic should the coffee be frozen?](#how-long-after-vacuum-sealing-coffee-in-plastic-should-the-coffee-be-frozen-)
+- [Reuse/Recycling:](#reuse-recycling-)
+  * [Plastic vacuum sealing bags](#plastic-vacuum-sealing-bags)
+  * [Recycling options for PA/PE plastic](#recycling-options-for-pa-pe-plastic)
+  * [Biodegradable Vacuum sealing bags](#biodegradable-vacuum-sealing-bags)
+- [Appendix I - Experiments MCA would like to complete and further areas of research](#appendix-i---experiments-mca-would-like-to-complete-and-further-areas-of-research)
+  * [Experiments we would like to do (in order of preference):](#experiments-we-would-like-to-do--in-order-of-preference--)
+  * [Areas for investigation](#areas-for-investigation)
+- [Appendix II - The effects of storing roasting coffee in a sealed and/or vacuum sealed container at ambient temperature:](#appendix-ii---the-effects-of-storing-roasting-coffee-in-a-sealed-and-or-vacuum-sealed-container-at-ambient-temperature-)
+- [Appendix III - Correspondence from Manchester City Council](#appendix-iii---correspondence-from-manchester-city-council)
+- [Bibliography](#bibliography)
+
+------
+
+
+
 ## Introduction
 
 I started freezing coffee in 2018; my initial aim was to preserve a sample of each coffee so I could taste them all together at a later date, but I later realised that freezing also allowed me to preserve larger portions of coffee so that I always had a good selection available at any time. If I saw a coffee I wanted to try it wouldn’t matter that I already had enough coffee on-the-go, I could just freeze it until I actually needed more coffee. This flexibility totally changed the way I buy coffee for myself, and means I never really waste any at home.
@@ -30,6 +75,8 @@ The collection of coffee samples I amassed over time eventually led, through enc
 It should be noted that coffee does not technically “freeze” (as stated by [Hendon](https://www.thelittleblackcoffeecup.com/journal/cryogenics)) since it is solid at room temperature; “freezing” coffee refers to “cooling of coffee to at least freezer temperatures” and is used as shorthand.
 
 
+
+------
 
 ## Why freeze coffee?
 
@@ -112,6 +159,8 @@ The work of Christopher Hendon at his team, published in [Nature](https://www.na
 
 Freezing allows you to keep hold of the coffee sample until you are able to share it with us at one of our events. More information about how to contribute coffee to MCA can be found [here](https://www.cognitoforms.com/ManchesterCoffeeArchive1/ContributeCoffeeToMCA).
 
+------
+
 
 
 ## Storage Methods
@@ -182,6 +231,8 @@ I tend to buy unbranded 12cm and 15cm wide rolls of vacuum sealing plastic from 
 
 Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack bags found on [Amazon](https://www.amazon.co.uk/10cm-15cm-Vacuum-Sealer-Embossed/dp/B015A7PHDM); however, these can potentially work out more expensively. For small portions I have found that prepared bags from a roll were roughly a third of the cost of individual bags when buying 100.
 
+------
+
 
 
 ## Vacuum-sealing Workflow Examples
@@ -193,7 +244,7 @@ There are two main options when using vacuum-sealed plastic bags:
 - Single-dose bags
 
 
- 
+
 
 ### Vacuum-sealing and resealing with vacuum bags
 
@@ -216,7 +267,7 @@ This is a good method to use if you just want to make one or two cups of coffee 
 4. Grind the coffee frozen and brew.
 
 
- 
+
 
 #### Notes
 
@@ -255,13 +306,17 @@ This is what we do for all the coffees contributed to MCA for tasting events thr
 - Since the coffees are transported offsite, we decant the required amount into a small container and re-seal and freeze the remaining coffee.
 
 
- 
+
 
   ![Sealing a bag - showing 1-2cm gap required](/assets/img/wwk_the_edge.jpg)
 
 *Sealing a sample bag with a Crenova vacuum sealer - the coffee would need to be about 1<2cm below the heat sealer to close the lid and seal the bag*
 
   
+
+------
+
+
 
 ## Grinding from frozen
 
@@ -273,6 +328,10 @@ If you want to use coffee stored in the freezer, there is no need to let it defr
 
   
 
+------
+
+
+
 ## Removing coffee from the freezer and using at room temperature
 
 Allowing the coffee to come to room temperature (e.g. if using the coffee over the course of a day/week) means the potential benefits of grinding from frozen are lost, but this may be more practical if you know you will be using the coffee over a relatively short period of time. Mat North (Raw Material) and others have noticed that coffee seems to age faster when removed from the freezer, so I'd recommend only taking out what you will use in the next day or so. I'm not sure what would cause this accelerated aging: it could be due to the vacuuming process (if used) or the temperature change itself, but I'd be interested to hear of any experiments that have been done to investigate this.
@@ -280,6 +339,10 @@ Allowing the coffee to come to room temperature (e.g. if using the coffee over t
 Originally I was under the impression that a package of coffee removed from the freezer should be allowed to reach room temperature before opening the package and storing at room temperature for any length of time due to concerns over condensation forming on the beans and accelerating oxidation; however, as mentioned above, from speaking to Michael Cameron about this concern and doing my own tests it doesn’t seem to be an issue: condensation forms on the packing packaging but not on the beans themselves.
 
  
+
+------
+
+
 
 ## Freezing in Reusable Containers
 
@@ -303,6 +366,8 @@ The [method](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b43114124
 ### Pressurising with inert gas:
 
 Matt Perger has suggested reusable valved containers, pressurised with inert gas as a potential alternative to vacuum sealed plastic in discussions on his [Telegram Channel](https://t.me/s/pergfect). This sounds very promising...
+
+------
 
 
 
@@ -360,6 +425,10 @@ This is an area that I'd like to gather more data on; however, for now the syste
 
  
 
+------
+
+
+
 ## Reuse/Recycling:
 
  
@@ -397,6 +466,8 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 
  The guidance is that these bags are not suitable for storing liquid, and can be used for up to one year. Unfortunately the manufacturers have stated that Eco Pouch is not suitable for most domestic vacuum sealers, and requires a "snorkel" part which is inserted into the bag when vacuum sealing.
 
+------
+
 
 
 ## Appendix I - Experiments MCA would like to complete and further areas of research
@@ -426,7 +497,7 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 - Using inert gas and removal of only headspace in sealed packages.
 
 
- 
+
 
 ### Areas for investigation
 
@@ -439,7 +510,11 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 - Is cleaning out vac seal bags practical and effective? Does it need to not have any previous coffee odour at all? Also applies to normal coffee packaging, how clean does it need to be? Drying both of these seems tricky… (applies to reuse of coffee packaging in general but particularly relevant here since single use plastic is quite prevalent in coffee freezing)
 
 
- 
+
+
+------
+
+
 
 ## Appendix II - The effects of storing roasting coffee in a sealed and/or vacuum sealed container at ambient temperature:
 
@@ -455,6 +530,10 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 
  
 
+------
+
+
+
 ## Appendix III - Correspondence from Manchester City Council
 
 > *“The collection points in some supermarkets for plastic bags are only for polythene packaging like salad bags and bread bags etc. I’m not aware of any recycling facility for household PA. In Greater Manchester, the only type of plastic that can be recycled in the recycling bins at home is plastic bottles (all types including HDPE, PET and PVC).*
@@ -467,6 +546,8 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 >
 > \-  Manchester City Council (2018)
 >
+
+------
 
 
 
