@@ -52,7 +52,7 @@ Freezing allows you to massively reduce the rate at which coffee stales over tim
 
 > *“... for every 10ºC you cool something down, most of the processes occurring in the bean occur at half the rate. So cooling of coffee should prevent chemical reactions that occur over time (like staling or aging), by making them proceed extremely slowly.”*
 >
->  Christopher Hendon - interview with [The Little Black Coffee Cup](https://www.thelittleblackcoffeecup.com/journal/cryogenics)
+> \-  Christopher Hendon - interview with [The Little Black Coffee Cup](https://www.thelittleblackcoffeecup.com/journal/cryogenics)
 
 
 
@@ -207,13 +207,13 @@ This is a good method to use if you just want to make one or two cups of coffee 
 
 #### Method
 
-- Coffee is portioned into a prepared bag (cut from a 12cm or 15cm wide roll); I have found 20cm x15cm wide bags work well for 100g portions as it allows the bag to be flattened.
+1. Coffee is portioned into a prepared bag (cut from a 12cm or 15cm wide roll); I have found 20cm x15cm wide bags work well for 100g portions as it allows the bag to be flattened.
 
-- If only removing 12-15g portion at a time a 12cm wide bag may be more appropriate since the empty section after removing this amount may not be sufficient to reseal (in which case you will need either remove more coffee or re-bag the whole lot)
+2. If only removing 12-15g portion at a time a 12cm wide bag may be more appropriate since the empty section after removing this amount may not be sufficient to reseal (in which case you will need either remove more coffee or re-bag the whole lot)
 
-- Remove the package from the freezer, cut a small incision just before the seal so I can portion out the dose (usually 12<15g) and immediately reseal the bag and return to the freezer. I reseal and freeze at this point to avoid storing the beans at room temperature as much as possible, and it is good to get it out of the way. 
+3. Remove the package from the freezer, cut a small incision just before the seal so I can portion out the dose (usually 12<15g) and immediately reseal the bag and return to the freezer. I reseal and freeze at this point to avoid storing the beans at room temperature as much as possible, and it is good to get it out of the way. 
 
-- Grind the coffee frozen and brew.
+4. Grind the coffee frozen and brew.
 
 
  
@@ -295,7 +295,7 @@ The [method](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b43114124
 
 > *"Coffees in a freezer for longer than 3 months tend to lose their seal. The biggest indicator is that there is less resistance to the lid opening when the seal is compromised. Our freezers only go to -25C generally and are opened frequently hourly. I imagine that could affect the longevity of the seal"*
 >
-> Aaron Clark - 12/5/2019
+> \-  Aaron Clark - 12/5/2019
 >
 
  
@@ -304,11 +304,13 @@ The [method](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b43114124
 
 Matt Perger has suggested reusable valved containers, pressurised with inert gas as a potential alternative to vacuum sealed plastic in discussions on his [Telegram Channel](https://t.me/s/pergfect). This sounds very promising...
 
-Guidance Notes
+
+
+## Guidance Notes
 
  
 
-## “Refreezing” Coffee
+### “Refreezing” Coffee
 
 This has long thought to have a negative impact on coffee, but current advice is that refreezing of roasted coffee does not appear to have any significant negative effects. Michael Cameron has advised this is not something to worry about:
 
@@ -316,7 +318,7 @@ This has long thought to have a negative impact on coffee, but current advice is
 
 >  *“this ain’t chicken, you can re-freeze”*
 >
->  Michael Cameron - [Freeze Beans not Peas](https://strivefortone.com/2017/01/03/freeze-beans-not-peas/)
+>  \-  Michael Cameron - [Freeze Beans not Peas](https://strivefortone.com/2017/01/03/freeze-beans-not-peas/)
 
  
 
@@ -326,7 +328,7 @@ MCA conducted an [experiment](https://www.instagram.com/p/B2Tw5zcBtnI/?utm_sourc
 
  
 
-## The “best” time to freeze roasted coffee
+### The “best” time to freeze roasted coffee
 
 Since freezing essentially stops the clock: freezing at the time the coffee tastes best appears to be the best option. If the coffee is 30 days past roast, freezing still seems worth doing to preserve the remaining freshness as long as possible. At MCA we freeze on day 7 for consistency when possible.
 
@@ -334,11 +336,11 @@ Since freezing essentially stops the clock: freezing at the time the coffee tast
 
 > *"There’s a bunch of literature on degassing effects, and how to test it, but so much is dependent on a) the bean and b) how it was roasted. 7-10 days is the window for \*most\* coffees being fully degassed. I wait 9 days, in a temp controlled environment, bag open, then vac seal and freeze"*
 >
-> Michael Cameron
+> \-  Michael Cameron
 
 
 
-## How long after vacuum sealing coffee in plastic should the coffee be frozen?
+### How long after vacuum sealing coffee in plastic should the coffee be frozen?
 
 It is recommended to freeze coffee as soon as possible after vacuum sealing. This is based on advice from Angus Mackie (of Ona Coffee), who has suggested that the vacuum-sealed environment can potentially have a negative effect on the coffee:
 
@@ -346,7 +348,7 @@ It is recommended to freeze coffee as soon as possible after vacuum sealing. Thi
 
 >  *“When coffee is still 'awake' and ageing, having in a vacuumed environment is not healthy”*
 >
->  Angus Mackie
+>  \-  Angus Mackie
 
  
 
@@ -463,59 +465,57 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 >
 >  *You might find more information on the British Plastic federation website:* [*http://www.bpf.co.uk/”*](http://www.bpf.co.uk/)
 >
-> \-    Manchester City Council (2018)
+> \-  Manchester City Council (2018)
 >
 
 
 
 ## Bibliography
 
-Agoodkeensavage (2012) Why I stopped packaging our coffee in one-way valves - https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/
+Agoodkeensavage (2012) Why I stopped packaging our coffee in one-way valves - [https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/](https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/)
 
-Barista Hustle (2017) The Grinder Paper Explained https://baristahustle.com/blog/the-grinder-paper-explained/
+Barista Hustle (2017) The Grinder Paper Explained [https://baristahustle.com/blog/the-grinder-paper-explained/](https://baristahustle.com/blog/the-grinder-paper-explained/)
 
-Bean Scene (2018) The big freeze: why there’s no longer a barrier to coffee freshness https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/
+Bean Scene (2018) The big freeze: why there’s no longer a barrier to coffee freshness [https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/](https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/)
 
-Botany Coffee (2018) Down the Vacuum Sealing Rabbit Hole - https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240
+Botany Coffee (2018) Down the Vacuum Sealing Rabbit Hole - [https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240)
 
-Cameron, M. (2017) Freeze Beans not Beans - https://strivefortone.com/2017/01/03/freeze-beans-not-peas/
+Cameron, M. (2017) Freeze Beans not Beans - [https://strivefortone.com/2017/01/03/freeze-beans-not-peas/](https://strivefortone.com/2017/01/03/freeze-beans-not-peas/)
 
 Cameron, M., Chapman, M., Woodgate R., Mackie, A.G. (2019) IG Chat Discussion 13-21/2/2019- @wayfarerbarista, @onacoffee, @angus_gus_mackie, @1914coffeecompany, @strivefortone
 
 Clark, A. (Botany Coffee) (2019) - Instagram Chat - May 2019
 
-Gagné, J. (2019) Some Strategies to Keep Your Coffee Fresh https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/
+Gagné, J. (2019) Some Strategies to Keep Your Coffee Fresh [https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/](https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/)
 
-Hoffman, J. (2019) Weird Coffee Science: Microwave Your Coffee Beans - https://www.youtube.com/watch?v=yXCboVCDHLw
+Hoffman, J. (2019) Weird Coffee Science: Microwave Your Coffee Beans - [https://www.youtube.com/watch?v=yXCboVCDHLw](https://www.youtube.com/watch?v=yXCboVCDHLw)
 
-Hoffmann, J. (2020) The Best Coffee Storage Canister https://www.youtube.com/watch?v=K0JWuhE8a-w
+Hoffmann, J. (2020) The Best Coffee Storage Canister [https://www.youtube.com/watch?v=K0JWuhE8a-w](https://www.youtube.com/watch?v=K0JWuhE8a-w)
 
-Mills, A. (2019) Light vs Dark Roast Coffee - A case for longer shelf life https://alexandermills.ca/blog/light-vs-dark-roast
+Mills, A. (2019) Light vs Dark Roast Coffee - A case for longer shelf life [https://alexandermills.ca/blog/light-vs-dark-roast](https://alexandermills.ca/blog/light-vs-dark-roast)
 
-MOCON Europe (2020) Vacuum Packaging https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging
+MOCON Europe (2020) Vacuum Packaging [https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging](https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging)
 
 Motoyoshi, U. (2019) The @wastingcoffee Guide to Not Wasting Coffee 
 
 North, M. (2020) Instagram Story re: freezing 23-3-2020
 
-Ona Coffee (2018) New Sydney cafe to feature frozen coffee beans on menu https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/
+Ona Coffee (2018) New Sydney cafe to feature frozen coffee beans on menu [https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/](https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/)
 
 Perger, M. (2019) Coffee Ad Astra Chat
 
 Perger, P. (2020) Matt Perger Telegram Channel Chat (discussing vacuum sealing) - 3/2/2020
 
-Recycle for Greater Manchester (2018) The truth about compostable packaging https://recycleforgreatermanchester.com/blog/the-truth-about-compostable-packaging/
+Recycle for Greater Manchester (2018) The truth about compostable packaging [https://recycleforgreatermanchester.com/blog/the-truth-about-compostable-packaging/](https://recycleforgreatermanchester.com/blog/the-truth-about-compostable-packaging/)
 
-Souter, T. (2019) How to Freeze Coffee - https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe
+Souter, T. (2019) How to Freeze Coffee - [https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe](https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe)
 
-The Engineering Toolbox (2020) Vaccum Pressure - Units Converter https://www.engineeringtoolbox.com/vacuum-converter-d_460.html
+The Engineering Toolbox (2020) Vaccum Pressure - Units Converter [https://www.engineeringtoolbox.com/vacuum-converter-d_460.html](https://www.engineeringtoolbox.com/vacuum-converter-d_460.html)
 
-The Little Black Coffee Cup (2018) Cryogenics & the Benefits of Freezing Green and Roasted Coffee | Interview with Christopher H. Hendon - https://www.thelittleblackcoffeecup.com/journal/cryogenics
+The Little Black Coffee Cup (2018) Cryogenics & the Benefits of Freezing Green and Roasted Coffee | Interview with Christopher H. Hendon - [https://www.thelittleblackcoffeecup.com/journal/cryogenics](https://www.thelittleblackcoffeecup.com/journal/cryogenics)
 
-The Vacuum Pouch Company Ltd (2019) Eco Pouch https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/
+The Vacuum Pouch Company Ltd (2019) Eco Pouch [https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/](https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/)
 
-Uman, E. et al (2016) The effect of bean origin and temperature on grinding roasted coffee https://www.nature.com/articles/srep24483
+Uman, E. et al (2016) The effect of bean origin and temperature on grinding roasted coffee [https://www.nature.com/articles/srep24483](https://www.nature.com/articles/srep24483)
 
-Wikipedia (2019) Arrhenius equation - https://en.wikipedia.org/wiki/Arrhenius_equation
-
-James Hoffmann (2020) The Best Coffee Storage Canister https://www.youtube.com/watch?v=K0JWuhE8a-w
+Wikipedia (2019) Arrhenius equation - [https://en.wikipedia.org/wiki/Arrhenius_equation](https://en.wikipedia.org/wiki/Arrhenius_equation)
