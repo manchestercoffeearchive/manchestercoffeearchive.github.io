@@ -21,13 +21,13 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 
 
 
-## Introduction ##
+## Introduction
 
 I started freezing coffee in 2018; my initial aim was to preserve a sample of each coffee so I could taste them all together at a later date, but I later realised that freezing also allowed me to preserve larger portions of coffee so that I always had a good selection available at any time. If I saw a coffee I wanted to try it wouldn’t matter that I already had enough coffee on-the-go, I could just freeze it until I actually needed more coffee. This flexibility totally changed the way I buy coffee for myself, and means I never really waste any at home.
 
 The collection of coffee samples I amassed over time eventually led, through encouragement from the rest of the Archivists, to the formation of Manchester Coffee Archive. Anyone could do the same if they wanted to… but be prepared for a lot of admin and spreadsheets.
 
-It should be noted that coffee does not technically “freeze” [(Hendon 2018)](#hendon2018) since it is solid at room temperature; “freezing” coffee refers to “cooling of coffee to at least freezer temperatures” and is used as shorthand.
+It should be noted that coffee does not technically “freeze” (as stated by [Hendon](https://www.thelittleblackcoffeecup.com/journal/cryogenics)) since it is solid at room temperature; “freezing” coffee refers to “cooling of coffee to at least freezer temperatures” and is used as shorthand.
 
 
 
@@ -50,7 +50,9 @@ Freezing allows you to massively reduce the rate at which coffee stales over tim
 
  
 
-> “... for every 10ºC you cool something down, most of the processes occurring in the bean occur at half the rate. So cooling of coffee should prevent chemical reactions that occur over time (like staling or aging), by making them proceed extremely slowly.” -   [(Hendon 2018)](#hendon2018)
+> *“... for every 10ºC you cool something down, most of the processes occurring in the bean occur at half the rate. So cooling of coffee should prevent chemical reactions that occur over time (like staling or aging), by making them proceed extremely slowly.”*
+>
+>  Christopher Hendon - interview with [The Little Black Coffee Cup](https://www.thelittleblackcoffeecup.com/journal/cryogenics)
 
 
 
@@ -63,9 +65,10 @@ The Arrhenius equation can be used to derive the following, as calculated by Mic
 
 This shows how much the shelf life of coffee can be extended by freezing, and this can be applied at any point. For example, when only taking temperature into account:
 
-●   Coffee frozen on **Day 7** past roast will take **2070 days (5 years 8 months approximately)** (23 x 90) to reach the same point in the aging process as the same coffee left at an ambient temperature of 25ºc for 30 days
+- Coffee frozen on **Day 7** past roast will take **2070 days (5 years 8 months approximately)** (23 x 90) to reach the same point in the aging process as the same coffee left at an ambient temperature of 25ºc for 30 days
 
-●   Coffee frozen on **Day 25** past roast will take **450 days** (5 x 90) to reach the same point in the aging process as the same coffee left at an ambient temperature of 25ºc for 30 days
+- Coffee frozen on **Day 25** past roast will take **450 days** (5 x 90) to reach the same point in the aging process as the same coffee left at an ambient temperature of 25ºc for 30 days
+
 
 This is an oversimplification, but it gives an idea of how long coffee can be preserved with even a normal domestic freezer. Freezing has potentially massive benefits for those wishing to preserve coffee at its peak flavour.
 
@@ -129,7 +132,7 @@ Reducing temperature reduces how fast the coffee will age, so the freezer takes 
 
 Air contains roughly 20% oxygen and this can either be removed by sucking the air out displacing it with an inert gas (such as carbon dioxide or argon). Oxygen causes oxidation, and therefore degradation of coffee, and so ideally needs to be removed as much as possible from the coffee storage. Vacuum sealers are a simple way of removing air from a bag of coffee and then sealing with a permanent seal.
 
- Vacuum sealers vary in their performance, and some will pull a more complete vacuum than others. This is indicated by the kPa rating, which is usually between 70-85kPa for domestic vacuum sealers. When vacuum sealing coffee, the plastic wraps tightly around the beans, reducing the amount of air inside the package; however, air will still remain in the gaps that remain in the package. The amount of oxygen remaining in these gaps depends on the kPa rating of the vacuum sealer, but may be ~80% atmospheric levels [(The Engineering Toolbox 2020)](#theengineeringtoolbox2020).  More heavy-duty chamber vacuum sealers can pull out closer to a ~99% vacuum but are much more expensive. 
+ Vacuum sealers vary in their performance, and some will pull a more complete vacuum than others. This is indicated by the kPa rating, which is usually between 70-85kPa for domestic vacuum sealers. When vacuum sealing coffee, the plastic wraps tightly around the beans, reducing the amount of air inside the package; however, air will still remain in the gaps that remain in the package. The amount of oxygen remaining in these gaps depends on the kPa rating of the vacuum sealer, but may be ~80% atmospheric levels: this can be calculated using the formula and conversion table on The Engineering Toolbox ([link](https://www.engineeringtoolbox.com/vacuum-converter-d_460.html)). More heavy-duty chamber vacuum sealers can pull out closer to a ~99% vacuum but are much more expensive. 
 
 Displacing air with inert gas (flushing) is a technique used to package coffee bags and can be very effective at removing oxygen without the need to create a vacuum inside the bag: however, I haven’t found an easy way to use this technique at home yet. If anyone has developed any easy method to use to repackage small amounts of coffee with inert gas I would love to hear about it!
 
@@ -167,13 +170,13 @@ There are a few storage methods I don’t recommend: reusable ziplock bags with 
 
 ### What we use at Manchester Coffee Archive
 
-●   Aicok Vacuum Sealer - [£39.99 via Amazon](https://www.amazon.co.uk/Aicok-Automatic-One-Touch-Sealing-Packing/dp/B06XR5RZ83)
+- Aicok Vacuum Sealer - [£39.99 via Amazon](https://www.amazon.co.uk/Aicok-Automatic-One-Touch-Sealing-Packing/dp/B06XR5RZ83)
 
-●   12cm and 15cm wide rolls of vacuum sealing plastic - embossed/textured plastic suitable for domestic vacuum sealers (various prices on eBay/Amazon)
+- 12cm and 15cm wide rolls of vacuum sealing plastic - embossed/textured plastic suitable for domestic vacuum sealers (various prices on eBay/Amazon)
+- Permanent marker - to label the bags
 
-●   Permanent marker - to label the bags
+- Chest freezer (only used for coffee)
 
-●   Chest freezer (only used for coffee)
 
 I tend to buy unbranded 12cm and 15cm wide rolls of vacuum sealing plastic from eBay sellers, normally buying 5 rolls at a time. Local and online availability may vary depending on where you are located, but search “12/15cm vacuum roll” and you should see a few options.
 
@@ -185,9 +188,10 @@ Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack
 
 There are two main options when using vacuum-sealed plastic bags:
 
-●   Vacuum-sealing and resealing bags
+- Vacuum-sealing and resealing bags
 
-●   Single-dose bags
+- Single-dose bags
+
 
  
 
@@ -203,28 +207,33 @@ This is a good method to use if you just want to make one or two cups of coffee 
 
 #### Method
 
-●   Coffee is portioned into a prepared bag (cut from a 12cm or 15cm wide roll); I have found 20cm x15cm wide bags work well for 100g portions as it allows the bag to be flattened.
+- Coffee is portioned into a prepared bag (cut from a 12cm or 15cm wide roll); I have found 20cm x15cm wide bags work well for 100g portions as it allows the bag to be flattened.
 
-●   If only removing 12-15g portion at a time a 12cm wide bag may be more appropriate since the empty section after removing this amount may not be sufficient to reseal (in which case you will need either remove more coffee or re-bag the whole lot)
+- If only removing 12-15g portion at a time a 12cm wide bag may be more appropriate since the empty section after removing this amount may not be sufficient to reseal (in which case you will need either remove more coffee or re-bag the whole lot)
 
-●   Remove the package from the freezer, cut a small incision just before the seal so I can portion out the dose (usually 12<15g) and immediately reseal the bag and return to the freezer. I reseal and freeze at this point to avoid storing the beans at room temperature as much as possible, and it is good to get it out of the way. 
+- Remove the package from the freezer, cut a small incision just before the seal so I can portion out the dose (usually 12<15g) and immediately reseal the bag and return to the freezer. I reseal and freeze at this point to avoid storing the beans at room temperature as much as possible, and it is good to get it out of the way. 
 
-●   Grind the coffee frozen and brew.
+- Grind the coffee frozen and brew.
+
 
  
 
-##### Notes
+#### Notes
 
-●   With my vacuum sealer, I need to seal approximately 1<2 cm of the bag each time I open it, due to the gap between the vacuum chamber and the heat sealer. When using a 12cm of 15cm roll a 14 dose of coffee and be removed, and the bag re-sealed; however, with a wider roll/bag removing such a small amount may not allow for the vacuum sealer the close, so more coffee will need to be removed.
+With my vacuum sealer, I need to seal approximately 1<2 cm of the bag each time I open it, due to the gap between the vacuum chamber and the heat sealer. When using a 12cm of 15cm roll a 14 dose of coffee and be removed, and the bag re-sealed; however, with a wider roll/bag removing such a small amount may not allow for the vacuum sealer the close, so more coffee will need to be removed.
 
-●   As I work my way through the bag I end up with 1<2 cm strips of plastic as each re-seal point. 
+As I work my way through the bag I end up with 1<2 cm strips of plastic as each re-seal point. 
 
-●   Using this method means the bag itself cannot be reused as it is cut up, but removing entire bags from the freezer could allow the bags to be reused.
+Using this method means the bag itself cannot be reused as it is cut up, but removing entire bags from the freezer could allow the bags to be reused.
+
+
 
 
  ![Resealing an opened bag: the cut edge is just inside the vacuum chamber](/assets/img/wwk_the_gap.jpg)
 
 *Resealing an opened bag: the cut edge is just inside the vacuum chamber. The bag reduces in length by 1.5cm approx between resealing (indicated by arrows on the right)*
+
+
 
   ![Resealed bag - showing two seal points](/assets/img/wwk_resealedbag.jpg)
 
@@ -232,19 +241,19 @@ This is a good method to use if you just want to make one or two cups of coffee 
 
  
 
-##### Single-dose bags
+#### Single-dose bags
 
 This is what we do for all the coffees contributed to MCA for tasting events throughout the year. The same process could be used for preparing single-dose bags for espresso or filter coffee.
 
  
 
-●   13g/26g portions of coffee in 10.5cmx12cm prepared bags (cut from a 12cm roll of vacuum sealing plastic)
+- 13g/26g portions of coffee in 10.5cmx12cm prepared bags (cut from a 12cm roll of vacuum sealing plastic)
+- Frozen at around 10 days past roast, where possible.
 
-●   Frozen at around 10 days past roast, where possible.
+- Labelled with freeze dates, plus basic information about the coffee (the rest is on a spreadsheet)
 
-●   Labelled with freeze dates, plus basic information about the coffee (the rest is on a spreadsheet)
+- Since the coffees are transported offsite, we decant the required amount into a small container and re-seal and freeze the remaining coffee.
 
-●   Since the coffees are transported offsite, we decant the required amount into a small container and re-seal and freeze the remaining coffee.
 
  
 
@@ -284,9 +293,9 @@ The [method](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b43114124
 
  
 
-> "Coffees in a freezer for longer than 3 months tend to lose their seal. The biggest indicator is that there is less resistance to the lid opening when the seal is compromised. Our freezers only go to -25C generally and are opened frequently hourly. I imagine that could affect the longevity of the seal"
+> *"Coffees in a freezer for longer than 3 months tend to lose their seal. The biggest indicator is that there is less resistance to the lid opening when the seal is compromised. Our freezers only go to -25C generally and are opened frequently hourly. I imagine that could affect the longevity of the seal"*
 >
-> \-    Aaron Clark - 12/5/19
+> Aaron Clark - 12/5/2019
 >
 
  
@@ -305,13 +314,15 @@ This has long thought to have a negative impact on coffee, but current advice is
 
 
 
->  *“this ain’t chicken, you can re-freeze” -* Michael Cameron ([link](https://strivefortone.com/2017/01/03/freeze-beans-not-peas/))
+>  *“this ain’t chicken, you can re-freeze”*
+>
+>  Michael Cameron - [Freeze Beans not Peas](https://strivefortone.com/2017/01/03/freeze-beans-not-peas/)
 
  
 
-MCA conducted an [experiment](https://www.instagram.com/p/B2Tw5zcBtnI/?utm_source=ig_web_copy_link) to determine if there was any difference in flavour between coffee that had been frozen once, and coffee that had been frozen and defrosted seven times. Two cups of the single-frozen coffee and one cup of the refrozen coffee were prepared and participants were asked to pick the odd one out. There was no trend towards picking the refrozen coffee as the odd one out, which suggests there was no noticeable difference in flavour.⁠ This suggests that refreezing is not something to worry about. If you would like to try the experiment yourself, the method we used is [here](https://docs.google.com/document/d/1d_ziURYkeNp1gWAwS3ihn1eKJyyBwCMrhiVTX_HRfXo/edit).
+MCA conducted an [experiment](https://www.instagram.com/p/B2Tw5zcBtnI/?utm_source=ig_web_copy_link) to determine if there was any difference in flavour between coffee that had been frozen once, and coffee that had been frozen and defrosted seven times. Two cups of the single-frozen coffee and one cup of the refrozen coffee were prepared and participants were asked to pick the odd one out. There was no trend towards picking the refrozen coffee as the odd one out, which suggests there was no noticeable difference in flavour.⁠ This suggests that refreezing may not something to worry about. 
 
- One issue to point out though: while refreezing seems fine, *resealing* may have some negative effects on the coffee. Matt Perger has suggested that vacuum sealed coffee stales quickly if re-vacuumed, essentially acting as a “sponge” for oxygen being sucked back into the container. Whether or not this is counteracted by the freezing process is something that needs more investigation.
+ One issue to point out though: while refreezing seems like it may be fine, *resealing* may have some negative effects on the coffee. Matt Perger has suggested that vacuum sealed coffee stales quickly if re-vacuumed, essentially acting as a “sponge” for oxygen being sucked back into the container. Whether or not this is counteracted by the freezing process is something that needs more investigation.
 
  
 
@@ -319,9 +330,11 @@ MCA conducted an [experiment](https://www.instagram.com/p/B2Tw5zcBtnI/?utm_sourc
 
 Since freezing essentially stops the clock: freezing at the time the coffee tastes best appears to be the best option. If the coffee is 30 days past roast, freezing still seems worth doing to preserve the remaining freshness as long as possible. At MCA we freeze on day 7 for consistency when possible.
 
-There’s a bunch of literature on degassing effects, and how to test it, but so much is dependent on a) the bean and b) how it was roasted. 7-10 days is the window for \*most\* coffees being fully degassed. I wait 9 days, in a temp controlled environment, bag open, then vac seal and freeze
 
- @strivefortone
+
+> *"There’s a bunch of literature on degassing effects, and how to test it, but so much is dependent on a) the bean and b) how it was roasted. 7-10 days is the window for \*most\* coffees being fully degassed. I wait 9 days, in a temp controlled environment, bag open, then vac seal and freeze"*
+>
+> Michael Cameron
 
 
 
@@ -331,8 +344,9 @@ It is recommended to freeze coffee as soon as possible after vacuum sealing. Thi
 
  
 
->  *“When coffee is still 'awake' and ageing, having in a vacuumed environment is not healthy” -* Angus Mackie
+>  *“When coffee is still 'awake' and ageing, having in a vacuumed environment is not healthy”*
 >
+>  Angus Mackie
 
  
 
@@ -389,37 +403,39 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 
 ### Experiments we would like to do (in order of preference):
 
-●   Freezer storage: vacuum-sealed plastic vs. sealed plastic
+- Freezer storage: vacuum-sealed plastic vs. sealed plastic
 
-●   Room temperature: vacuum-sealed plastic vs. sealed plastic
+- Room temperature: vacuum-sealed plastic vs. sealed plastic
 
-●   Vacuum sealed frozen coffee portion, removed from the freezer to be transported at room temperature: keeping in original vac-sealed packaging vs. re-sealing without vacuum
+- Vacuum sealed frozen coffee portion, removed from the freezer to be transported at room temperature: keeping in original vac-sealed packaging vs. re-sealing without vacuum
 
-●   Portion of vacuum sealed frozen coffee removed from larger package to be transported at room temperature: vacuum-sealed plastic vs. sealed plastic
+- Portion of vacuum sealed frozen coffee removed from larger package to be transported at room temperature: vacuum-sealed plastic vs. sealed plastic
 
-●   Portion of vacuum sealed frozen coffee removed from larger package to be transported at room temperature: flushing with inert gas vs. sealed plastic
+- Portion of vacuum sealed frozen coffee removed from larger package to be transported at room temperature: flushing with inert gas vs. sealed plastic
 
-●   Comparing reusable frozen storage containers with vacuum sealed bags over time - at what point is the difference noticeable?
+- Comparing reusable frozen storage containers with vacuum sealed bags over time - at what point is the difference noticeable?
 
-●   Comparing room temperature storage methods - at what point is the difference noticeable?
+- Comparing room temperature storage methods - at what point is the difference noticeable?
 
-●   Investigate the use of oxygen scavenger sachets, silica sachets, carbon dioxide flush and nitrogen flush methods
+- Investigate the use of oxygen scavenger sachets, silica sachets, carbon dioxide flush and nitrogen flush methods
 
-●   How well do biodegradable plastic vacuum bags perform in a freezer? How long do they last before the seals fail?
+- How well do biodegradable plastic vacuum bags perform in a freezer? How long do they last before the seals fail?
 
-●   Using inert gas and removal of only headspace in sealed packages.
+- Using inert gas and removal of only headspace in sealed packages.
+
 
  
 
 ### Areas for investigation
 
-●   If a coffee is frozen on day 0 or day 7 for example, will it continue to age at the same rate after being defrosted? e.g. Would a coffee frozen on day 7 and defrosted then left at room temperature for 2 weeks taste as good as a coffee aged normally for 3 weeks?
+- If a coffee is frozen on day 0 or day 7 for example, will it continue to age at the same rate after being defrosted? e.g. Would a coffee frozen on day 7 and defrosted then left at room temperature for 2 weeks taste as good as a coffee aged normally for 3 weeks?
 
-●   Similarly, in order to facilitate a long-distance trade (thinking 7<10 day postal delivery) from several local sources, could a number of coffees be frozen on Day 0, saved up until a collection had been built, and then all removed from the freezer at the same day and be sent thawed? Would this effectively deliver all samples at approximately 7<10 day past roast performance? If coffees prepared in this way were received at MCA we would freeze the coffee again upon receipt so this raised the issue of re-freezing effects again...
+- Similarly, in order to facilitate a long-distance trade (thinking 7<10 day postal delivery) from several local sources, could a number of coffees be frozen on Day 0, saved up until a collection had been built, and then all removed from the freezer at the same day and be sent thawed? Would this effectively deliver all samples at approximately 7<10 day past roast performance? If coffees prepared in this way were received at MCA we would freeze the coffee again upon receipt so this raised the issue of re-freezing effects again...
 
-●   Are freeze temps below -16 necessary for preserving coffee? Or are v low temps only beneficial for grind consistency?
+- Are freeze temps below -16 necessary for preserving coffee? Or are v low temps only beneficial for grind consistency?
 
-●   Is cleaning out vac seal bags practical and effective? Does it need to not have any previous coffee odour at all? Also applies to normal coffee packaging, how clean does it need to be? Drying both of these seems tricky… (applies to reuse of coffee packaging in general but particularly relevant here since single use plastic is quite prevalent in coffee freezing)
+- Is cleaning out vac seal bags practical and effective? Does it need to not have any previous coffee odour at all? Also applies to normal coffee packaging, how clean does it need to be? Drying both of these seems tricky… (applies to reuse of coffee packaging in general but particularly relevant here since single use plastic is quite prevalent in coffee freezing)
+
 
  
 
@@ -429,89 +445,77 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 
  Angus in reference to sealed packaging:
 
-*"Have been tasting same coffee packaged in vac sealed bags (not frozen) vs valved bags. Also with storage containers such as Illy tin vs valved bag. And coffee that is still quite young in air scape containers vs bags. And found quite similar patterns with how coffees tasted. **When in a completely sealed environment at room temp, coffee had less sweetness, noticeably higher dryness, and quite a consistent savoury flavour that was not in those coffees in the 'regular' packaged environment**"*
+> *"Have been tasting same coffee packaged in vac sealed bags (not frozen) vs valved bags. Also with storage containers such as Illy tin vs valved bag. And coffee that is still quite young in air scape containers vs bags. And found quite similar patterns with how coffees tasted. **When in a completely sealed environment at room temp, coffee had less sweetness, noticeably higher dryness, and quite a consistent savoury flavour that was not in those coffees in the 'regular' packaged environment**"*
 
  Angus in reference to the [article](https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/) by agoodcleansavage re: sealed packaging:
 
-*"This conclusion is a result of many different experiments, involving different coffees, roast approach, ages and times in these environments. And one of the big consistencies was pattern of taste. Reading this **article** does make me curious. I would not like to rule out what they say so my first main query is did they have good results vacuuming their coffee straight after roast. As in my testing, vacuuming or packaging into air tight/no valve environments, the range of times after roast I've done have been between 22 hours after roast and intermittently between 5-30 days after roast. Anytime when this happened, and **anytime coffee was taken from a valved environment into a completely sealed environment between 5-30 days, or straight into vacuuming and not freezing, similar taste degradation occurred"***
+> *"This conclusion is a result of many different experiments, involving different coffees, roast approach, ages and times in these environments. And one of the big consistencies was pattern of taste. Reading this **article** does make me curious. I would not like to rule out what they say so my first main query is did they have good results vacuuming their coffee straight after roast. As in my testing, vacuuming or packaging into air tight/no valve environments, the range of times after roast I've done have been between 22 hours after roast and intermittently between 5-30 days after roast. Anytime when this happened, and **anytime coffee was taken from a valved environment into a completely sealed environment between 5-30 days, or straight into vacuuming and not freezing, similar taste degradation occurred"***
 
  
 
 ## Appendix III - Correspondence from Manchester City Council
 
-*“The collection points in some supermarkets for plastic bags are only for polythene packaging like salad bags and bread bags etc. I’m not aware of any recycling facility for household PA. In Greater Manchester, the only type of plastic that can be recycled in the recycling bins at home is plastic bottles (all types including HDPE, PET and PVC).*
-
- *Business waste is dealt with separately. Business must pay for the disposal and recycling of their waste and can approach any waste collection contractor such as Viridor, Biffa, Suez, Veolia, Cleanaway etc, they will all have their own plastic recycling collections and they will vary depending on the recycling processor that they take the material to.*
-
- *In terms of PA, it’s not really down to guidance, it’s about whether there are any facilities that are capable of recycling the PA and whether there’s enough PA to make it economically feasible to develop the technology to recycle it. Any plastic that can’t be recycled will generally be sent to an Energy from waste facility and used to generate electricity.*
-
- *You might find more information on the British Plastic federation website:* [*http://www.bpf.co.uk/”*](http://www.bpf.co.uk/)
-
-\-    Manchester City Council (2018)
-
-
-
-## References
-
-
-
-<a id="hendon2018">Hendon, C. (2018)</a> The Little Black Coffee Cup - Cryogenics & the Benefits of Freezing Green and Roasted Coffee | Interview with Christopher H. Hendon - https://www.thelittleblackcoffeecup.com/journal/cryogenics
-
-<a id="theengineeringtoolbox2020">The Engineering Toolbox (2020)</a> Vacuum Pressure - Units Converter -  https://www.engineeringtoolbox.com/vacuum-converter-d_460.html
+> *“The collection points in some supermarkets for plastic bags are only for polythene packaging like salad bags and bread bags etc. I’m not aware of any recycling facility for household PA. In Greater Manchester, the only type of plastic that can be recycled in the recycling bins at home is plastic bottles (all types including HDPE, PET and PVC).*
+>
+>  *Business waste is dealt with separately. Business must pay for the disposal and recycling of their waste and can approach any waste collection contractor such as Viridor, Biffa, Suez, Veolia, Cleanaway etc, they will all have their own plastic recycling collections and they will vary depending on the recycling processor that they take the material to.*
+>
+>  *In terms of PA, it’s not really down to guidance, it’s about whether there are any facilities that are capable of recycling the PA and whether there’s enough PA to make it economically feasible to develop the technology to recycle it. Any plastic that can’t be recycled will generally be sent to an Energy from waste facility and used to generate electricity.*
+>
+>  *You might find more information on the British Plastic federation website:* [*http://www.bpf.co.uk/”*](http://www.bpf.co.uk/)
+>
+> \-    Manchester City Council (2018)
+>
 
 
 
 ## Bibliography
 
-Michael Cameron (2017) Freeze Beans not Beans - https://strivefortone.com/2017/01/03/freeze-beans-not-peas/
+Agoodkeensavage (2012) Why I stopped packaging our coffee in one-way valves - https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/
+
+Barista Hustle (2017) The Grinder Paper Explained https://baristahustle.com/blog/the-grinder-paper-explained/
+
+Bean Scene (2018) The big freeze: why there’s no longer a barrier to coffee freshness https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/
 
 Botany Coffee (2018) Down the Vacuum Sealing Rabbit Hole - https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240
 
-E Uman et al (2016) The effect of bean origin and temperature on grinding roasted coffee
-https://www.nature.com/articles/srep24483
+Cameron, M. (2017) Freeze Beans not Beans - https://strivefortone.com/2017/01/03/freeze-beans-not-peas/
 
-The Little Black Coffee Cup (2018) Cryogenics & the Benefits of Freezing Green and Roasted Coffee | Interview with Christopher H. Hendon - 
-https://www.thelittleblackcoffeecup.com/journal/cryogenics
+Cameron, M., Chapman, M., Woodgate R., Mackie, A.G. (2019) IG Chat Discussion 13-21/2/2019- @wayfarerbarista, @onacoffee, @angus_gus_mackie, @1914coffeecompany, @strivefortone
 
-Bean Scene (2018) The big freeze: why there’s no longer a barrier to coffee freshness
-https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/
+Clark, A. (Botany Coffee) (2019) - Instagram Chat - May 2019
 
-Ona Coffee (2018) New Sydney cafe to feature frozen coffee beans on menu https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/
+Gagné, J. (2019) Some Strategies to Keep Your Coffee Fresh https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/
 
-Barista Hustle (2017) The Grinder Paper Explained
-https://baristahustle.com/blog/the-grinder-paper-explained/
+Hoffman, J. (2019) Weird Coffee Science: Microwave Your Coffee Beans - https://www.youtube.com/watch?v=yXCboVCDHLw
 
-Agoodkeensavage (2012) Why I stopped packaging our coffee in one-way valves - 
-https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/
+Hoffmann, J. (2020) The Best Coffee Storage Canister https://www.youtube.com/watch?v=K0JWuhE8a-w
 
-M Cameron, M Chapman, R Woodgate, A.G. Mackie, (2019) IG Chat Discussion 13-21/2/2019- @wayfarerbarista, @onacoffee, @angus_gus_mackie, @1914coffeecompany, @strivefortone
-
-Aaron Clark  (Botany Coffee) (2019) - Instagram Chat - May 2019
-
-Wikipedia (2019) Arrhenius equation - https://en.wikipedia.org/wiki/Arrhenius_equation
-
-Umeko Motoyoshi (2019) The @wastingcoffee Guide to Not Wasting Coffee 
-
-Alexander Mills (2019) Light vs Dark Roast Coffee - A case for longer shelf life https://alexandermills.ca/blog/light-vs-dark-roast
-
-Todd Souter (2019) How to Freeze Coffee - https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe
-
-James Hoffman (2019) Weird Coffee Science: Microwave Your Coffee Beans - https://www.youtube.com/watch?v=yXCboVCDHLw
-
-Matt Perger (2019) Coffee Ad Astra Chat
-
-Coffee Ad Astra (2019) Some Strategies to Keep Your Coffee Fresh https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/
-
-The Vacuum Pouch Company Ltd (2019) Eco Pouch https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/
-
-Recycle for Greater Manchester (2018) The truth about compostable packaging https://recycleforgreatermanchester.com/blog/the-truth-about-compostable-packaging/
-
-Matt Perger (2020) Matt Perger Telegram Channel Chat (discussing vacuum sealing) - 3/2/2020
-
-Mat North (2020) Instagram Story re: freezing 23-3-2020
+Mills, A. (2019) Light vs Dark Roast Coffee - A case for longer shelf life https://alexandermills.ca/blog/light-vs-dark-roast
 
 MOCON Europe (2020) Vacuum Packaging https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging
 
+Motoyoshi, U. (2019) The @wastingcoffee Guide to Not Wasting Coffee 
+
+North, M. (2020) Instagram Story re: freezing 23-3-2020
+
+Ona Coffee (2018) New Sydney cafe to feature frozen coffee beans on menu https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/
+
+Perger, M. (2019) Coffee Ad Astra Chat
+
+Perger, P. (2020) Matt Perger Telegram Channel Chat (discussing vacuum sealing) - 3/2/2020
+
+Recycle for Greater Manchester (2018) The truth about compostable packaging https://recycleforgreatermanchester.com/blog/the-truth-about-compostable-packaging/
+
+Souter, T. (2019) How to Freeze Coffee - https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe
+
 The Engineering Toolbox (2020) Vaccum Pressure - Units Converter https://www.engineeringtoolbox.com/vacuum-converter-d_460.html
+
+The Little Black Coffee Cup (2018) Cryogenics & the Benefits of Freezing Green and Roasted Coffee | Interview with Christopher H. Hendon - https://www.thelittleblackcoffeecup.com/journal/cryogenics
+
+The Vacuum Pouch Company Ltd (2019) Eco Pouch https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/
+
+Uman, E. et al (2016) The effect of bean origin and temperature on grinding roasted coffee https://www.nature.com/articles/srep24483
+
+Wikipedia (2019) Arrhenius equation - https://en.wikipedia.org/wiki/Arrhenius_equation
 
 James Hoffmann (2020) The Best Coffee Storage Canister https://www.youtube.com/watch?v=K0JWuhE8a-w
