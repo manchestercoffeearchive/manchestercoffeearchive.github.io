@@ -395,7 +395,7 @@ MCA conducted an [experiment](https://www.instagram.com/p/B2Tw5zcBtnI/?utm_sourc
 
 ### The “best” time to freeze roasted coffee
 
-Since freezing essentially stops the clock: freezing at the time the coffee tastes best appears to be the best option. If the coffee is 30 days past roast, freezing still seems worth doing to preserve the remaining freshness as long as possible. At MCA we freeze on day 7 for consistency when possible.
+Since freezing essentially stops the clock: freezing at the time the coffee tastes best appears to be the best option. If the coffee is 30 days past roast, freezing still seems worth doing to preserve the remaining freshness as long as possible. At MCA we freeze on day 7-10 for consistency when possible.
 
 
 
@@ -591,9 +591,9 @@ Recycle for Greater Manchester (2018) The truth about compostable packaging [htt
 
 Souter, T. (2019) How to Freeze Coffee - [https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe](https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe)
 
-The Engineering Toolbox (2020) Vaccum Pressure - Units Converter [https://www.engineeringtoolbox.com/vacuum-converter-d_460.html](https://www.engineeringtoolbox.com/vacuum-converter-d_460.html)
+The Engineering Toolbox (2020) Vacuum Pressure Units Converter [https://www.engineeringtoolbox.com/vacuum-converter-d_460.html](https://www.engineeringtoolbox.com/vacuum-converter-d_460.html)
 
-The Little Black Coffee Cup (2018) Cryogenics & the Benefits of Freezing Green and Roasted Coffee | Interview with Christopher H. Hendon - [https://www.thelittleblackcoffeecup.com/journal/cryogenics](https://www.thelittleblackcoffeecup.com/journal/cryogenics)
+The Little Black Coffee Cup (2018) Cryogenics & the Benefits of Freezing Green and Roasted Coffee - Interview with Christopher H. Hendon - [https://www.thelittleblackcoffeecup.com/journal/cryogenics](https://www.thelittleblackcoffeecup.com/journal/cryogenics)
 
 The Vacuum Pouch Company Ltd (2019) Eco Pouch [https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/](https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/)
 
