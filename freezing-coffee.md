@@ -203,12 +203,9 @@ Displacing air with inert gas (flushing) is a technique used to package coffee b
 ### What we use at Manchester Coffee Archive
 
 - Aicok Vacuum Sealer - [£39.99 via Amazon](https://www.amazon.co.uk/Aicok-Automatic-One-Touch-Sealing-Packing/dp/B06XR5RZ83)
-
 - 12cm and 15cm wide rolls of vacuum sealing plastic - embossed/textured plastic suitable for domestic vacuum sealers (various prices on eBay/Amazon)
 - Permanent marker - to label the bags
-
 - Chest freezer (only used for coffee)
-
 
 I tend to buy unbranded 12cm and 15cm wide rolls of vacuum sealing plastic from eBay sellers, normally buying 5 rolls at a time. Local and online availability may vary depending on where you are located, but search “12/15cm vacuum roll” and you should see a few options.
 
@@ -266,16 +263,10 @@ Matt Perger has suggested reusable valved containers, pressurised with inert gas
 There are other storage method that can be considered when freezing coffee:
 
 - **The original bag** - press out as much air/gas as possible and tape up the valve (electrical tape or duct tape works well) or put it in a ziplock bag. If the bag was previously flushed with inert gas, the coffee will preserve particularly well as there will be even less oxygen in the bag. If there's no valve you can try just putting it straight in the freezer or puncturing the bag to press the air/gas out. This may well be the best option if freezing a whole bag of coffee, particularly if the bag has been flushed with inert gas.
-
 - **Ziplock bags** - bags with a double seal are a good option, available from IKEA and other places. Press out the air, or use a straw to suck out the air if you like, and seal the bag. 
-
 - **Glass bottles** - silicone stoppers can create a good seal.
-
 - **Glass jars** - make sure it has a tight-fitting lid.
-
 - **Tied-up plastic freezer bag** - low cost and takes up very little space. Press out the air and tie it up tightly.
-
-  
 
 These are some are low cost options that are available if you want to try freezing some coffee. It would be interesting to know exactly how well these methods perform over time, and I'd like to test these out more to be able to provide better recommendations; however, if you want to preserve coffee for a few months, possibly more, these are all options worth considering.
 
@@ -345,9 +336,9 @@ This is what we do for all the coffees contributed to MCA for tasting events thr
 
  
 
-- 13g/26g portions of coffee in 10.5cm x 12cm prepared bags (cut from a 12cm roll of vacuum sealing plastic)
+- 13g/26g portions of coffee in 10.5cm x 12cm prepared bags (cut from a 12cm roll of vacuum sealing plastic) 
 - Frozen at around 10 days past roast, where possible.
-- Labelled with freeze dates, plus basic information about the coffee (the rest is on a spreadsheet)
+- Labelled with freeze dates, plus basic information about the coffee (the rest is on a spreadsheet) 
 - Since the coffees are transported offsite, we decant the required amount into a small container and re-seal and freeze the remaining coffee.
 
 
