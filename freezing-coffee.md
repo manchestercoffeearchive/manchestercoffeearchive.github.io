@@ -159,12 +159,11 @@ The work of Christopher Hendon at his team, published in [Nature](https://www.na
 
 Freezing allows you to keep hold of the coffee sample until you are able to share it with us at one of our events. More information about how to contribute coffee to MCA can be found [here](https://www.cognitoforms.com/ManchesterCoffeeArchive1/ContributeCoffeeToMCA).
 
-------
 
 
 
 ## Storage Methods
-
+------
 There are lots of ways to store coffee, in or out of the freezer. It can be difficult to know which method is best, and this will vary depending upon how long the coffee is being stored. Vacuum sealing with plastic bags currently seems to be the best available option for long term freezer storage, which is why we use it to archive coffees for MCA. However, if you want to give freezing a try, there are alternatives as simple as just putting the unopened bag in the freezer - I have explored some of these options below.
 
 There is a surprising amount of debate about the best way to store coffee but to simplify, it is easiest to consider three main factors that affect how quickly coffee will deteriorate:
@@ -231,12 +230,11 @@ I tend to buy unbranded 12cm and 15cm wide rolls of vacuum sealing plastic from 
 
 Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack bags found on [Amazon](https://www.amazon.co.uk/10cm-15cm-Vacuum-Sealer-Embossed/dp/B015A7PHDM); however, these can potentially work out more expensively. For small portions I have found that prepared bags from a roll were roughly a third of the cost of individual bags when buying 100.
 
-------
 
 
 
 ## Vacuum-sealing Workflow Examples
-
+------
 There are two main options when using vacuum-sealed plastic bags:
 
 - Vacuum-sealing and resealing bags
@@ -312,40 +310,31 @@ This is what we do for all the coffees contributed to MCA for tasting events thr
 
 *Sealing a sample bag with a Crenova vacuum sealer - the coffee would need to be about 1<2cm below the heat sealer to close the lid and seal the bag*
 
-  
-
-------
 
 
 
 ## Grinding from frozen
-
+------
 If you want to use coffee stored in the freezer, there is no need to let it defrost: you can use it straight away. Frozen coffee beans have been found to produce a narrower spread of particle and a finer grind size, so you may need to adjust your grinder to a coarser setting depending on how you are making coffee.
 
  Todd Souter mentions this in his [guide](https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe) to using frozen coffee beans: he suggests a setting 2-notches coarser on an EK43 for espresso. This adjustment will vary depending on grinder though, so it is worth testing it out and making a note of the adjustment needed. 
 
  Other brew methods, such as v60 or Aeropress, are more forgiving to grind-size so there may not be any noticeable difference when using the same setting used for room temperature. It might be worth trying a slightly coarser setting too though, if only to compare any difference in taste.
 
-  
-
-------
 
 
 
 ## Removing coffee from the freezer and using at room temperature
-
+------
 Allowing the coffee to come to room temperature (e.g. if using the coffee over the course of a day/week) means the potential benefits of grinding from frozen are lost, but this may be more practical if you know you will be using the coffee over a relatively short period of time. Mat North (Raw Material) and others have noticed that coffee seems to age faster when removed from the freezer, so I'd recommend only taking out what you will use in the next day or so. I'm not sure what would cause this accelerated aging: it could be due to the vacuuming process (if used) or the temperature change itself, but I'd be interested to hear of any experiments that have been done to investigate this.
 
 Originally I was under the impression that a package of coffee removed from the freezer should be allowed to reach room temperature before opening the package and storing at room temperature for any length of time due to concerns over condensation forming on the beans and accelerating oxidation; however, as mentioned above, from speaking to Michael Cameron about this concern and doing my own tests it doesn’t seem to be an issue: condensation forms on the packing packaging but not on the beans themselves.
 
- 
-
-------
 
 
 
 ## Freezing in Reusable Containers
-
+------
 Use of reusable, vacuum valved containers for coffee storage in the freezer is promising but not without its problems. It has the benefit of reducing plastic waste, but it is important to note that the effectiveness of this storage will be dependent on how well the seal maintains the vacuum within the container over time.
 
  
@@ -367,12 +356,11 @@ The [method](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b43114124
 
 Matt Perger has suggested reusable valved containers, pressurised with inert gas as a potential alternative to vacuum sealed plastic in discussions on his [Telegram Channel](https://t.me/s/pergfect). This sounds very promising...
 
-------
 
 
 
 ## Guidance Notes
-
+------
  
 
 ### “Refreezing” Coffee
@@ -423,14 +411,11 @@ Todd Souter recommends freezing coffee within 10 minutes of vacuum sealing, stat
 
 This is an area that I'd like to gather more data on; however, for now the system I am following is to only vacuum seal when I am ready to put coffee in the freezer. *[See Appendix II for more information]*
 
- 
-
-------
 
 
 
 ## Reuse/Recycling:
-
+------
  
 
 ### Plastic vacuum sealing bags
@@ -466,12 +451,11 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 
  The guidance is that these bags are not suitable for storing liquid, and can be used for up to one year. Unfortunately the manufacturers have stated that Eco Pouch is not suitable for most domestic vacuum sealers, and requires a "snorkel" part which is inserted into the bag when vacuum sealing.
 
-------
 
 
 
 ## Appendix I - Experiments MCA would like to complete and further areas of research
-
+------
  
 
 ### Experiments we would like to do (in order of preference):
@@ -512,12 +496,8 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 
 
 
-------
-
-
-
 ## Appendix II - The effects of storing roasting coffee in a sealed and/or vacuum sealed container at ambient temperature:
-
+------
  Angus Mackie has provided some very interesting information on this topic, and this is an area that would appear to not be fully agreed within the coffee community. While I do not fully understand this area, I am currently only vacuum sealing coffee until ready to freeze and not sorting it vacuum sealed at room temperature.
 
  Angus in reference to sealed packaging:
@@ -528,14 +508,11 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 
 > *"This conclusion is a result of many different experiments, involving different coffees, roast approach, ages and times in these environments. And one of the big consistencies was pattern of taste. Reading this **article** does make me curious. I would not like to rule out what they say so my first main query is did they have good results vacuuming their coffee straight after roast. As in my testing, vacuuming or packaging into air tight/no valve environments, the range of times after roast I've done have been between 22 hours after roast and intermittently between 5-30 days after roast. Anytime when this happened, and **anytime coffee was taken from a valved environment into a completely sealed environment between 5-30 days, or straight into vacuuming and not freezing, similar taste degradation occurred"***
 
- 
-
-------
 
 
 
 ## Appendix III - Correspondence from Manchester City Council
-
+------
 > *“The collection points in some supermarkets for plastic bags are only for polythene packaging like salad bags and bread bags etc. I’m not aware of any recycling facility for household PA. In Greater Manchester, the only type of plastic that can be recycled in the recycling bins at home is plastic bottles (all types including HDPE, PET and PVC).*
 >
 >  *Business waste is dealt with separately. Business must pay for the disposal and recycling of their waste and can approach any waste collection contractor such as Viridor, Biffa, Suez, Veolia, Cleanaway etc, they will all have their own plastic recycling collections and they will vary depending on the recycling processor that they take the material to.*
@@ -547,12 +524,11 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 > \-  Manchester City Council (2018)
 >
 
-------
 
 
 
 ## Bibliography
-
+------
 Agoodkeensavage (2012) Why I stopped packaging our coffee in one-way valves - [https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/](https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/)
 
 Barista Hustle (2017) The Grinder Paper Explained [https://baristahustle.com/blog/the-grinder-paper-explained/](https://baristahustle.com/blog/the-grinder-paper-explained/)
@@ -600,3 +576,4 @@ The Vacuum Pouch Company Ltd (2019) Eco Pouch [https://www.thevacuumpouch.co.uk/
 Uman, E. et al (2016) The effect of bean origin and temperature on grinding roasted coffee [https://www.nature.com/articles/srep24483](https://www.nature.com/articles/srep24483)
 
 Wikipedia (2019) Arrhenius equation - [https://en.wikipedia.org/wiki/Arrhenius_equation](https://en.wikipedia.org/wiki/Arrhenius_equation)
+
