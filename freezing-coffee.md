@@ -4,7 +4,8 @@ title: What We Know About Freezing Coffee Beans
 ---
  Tom Finch - Co-founder/Archivist, Manchester Coffee Archive
 
-_Updated: 08/03/2021_
+_Updated: 09/03/2021_
+
 
 
 
@@ -19,6 +20,7 @@ I am by no means an expert in freezing coffee: I have researched and learnt from
 If you find this guide useful, then feel free to show your appreciation by buying me a coffee. I do drink coffee too occasionally.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V33MU8Z) 
+
 
 
 
@@ -64,6 +66,7 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 
 
 
+
 ## Introduction
 ------
 I started freezing coffee in 2018; my initial aim was to preserve a sample of each coffee so I could taste them all together at a later date, but I later realised that freezing also allowed me to preserve larger portions of coffee so that I always had a good selection available at any time. If I saw a coffee I wanted to try it wouldn’t matter that I already had enough coffee on-the-go, I could just freeze it until I actually needed more coffee. This flexibility totally changed the way I buy coffee for myself, and means I never really waste any at home.
@@ -71,6 +74,7 @@ I started freezing coffee in 2018; my initial aim was to preserve a sample of ea
 The collection of coffee samples I amassed over time eventually led, through encouragement from the rest of the Archivists, to the formation of Manchester Coffee Archive. Anyone could do the same if they wanted to… but be prepared for a lot of admin and spreadsheets.
 
 It should be noted that coffee does not technically “freeze” (as stated by [Hendon](https://www.thelittleblackcoffeecup.com/journal/cryogenics)) since it is solid at room temperature; “freezing” coffee refers to “cooling of coffee to at least freezer temperatures” and is used as shorthand.
+
 
 
 
