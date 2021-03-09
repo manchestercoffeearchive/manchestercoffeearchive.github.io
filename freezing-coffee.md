@@ -1,6 +1,8 @@
 ---
 layout: page
 title: What We Know About Freezing Coffee Beans
+share-img: "/assets/img/mca_wwk_freezertop_2000px.jpg"
+share-description: This is an attempt to collate all the currently available information on the topic of freezing roasted coffee in order to preserve it for long periods of time. Freezing allows MCA to exist, so it has therefore been important for us to investigate best practices.
 ---
  Tom Finch - Co-founder/Archivist, Manchester Coffee Archive
 
@@ -13,7 +15,7 @@ _Updated: 09/03/2021_
 
 ## Aim
 ------
-This is an attempt to collate all the currently available information on the topic of “freezing” roasted coffee in order to preserve it for long periods of time. Freezing is the driving force being MCA so it has therefore been crucial that we look into best practices.
+This is an attempt to collate all the currently available information on the topic of freezing roasted coffee in order to preserve it for long periods of time. Freezing allows MCA to exist, so it has therefore been important for us to investigate best practices.
 
 I will focus on my own experience as a home enthusiast and MCA Archivist; however, I welcome collaboration from anyone willing to share their experiences, either at home or in a coffee shop.
 
@@ -30,11 +32,8 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 
 ## Contents
 ------
-
-
-
 - [Introduction](#introduction)
-- [Why freeze coffee?](#why-freeze-coffee-)
+- [Why freeze coffee&#63;](#why-freeze-coffee--63-)
   * [Stop the clock](#stop-the-clock)
   * [Preserve coffee at its peak flavour](#preserve-coffee-at-its-peak-flavour)
   * [Never run out of coffee](#never-run-out-of-coffee)
@@ -46,18 +45,18 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 - [Vacuum sealing and freezing](#vacuum-sealing-and-freezing)
   * [What we use at Manchester Coffee Archive](#what-we-use-at-manchester-coffee-archive)
 - [Freezing in reusable containers](#freezing-in-reusable-containers)
-  * [Reusable containers (no vacuum)](#reusable-containers--no-vacuum-)
-  * [Reusable containers (with vacuum)](#reusable-containers--with-vacuum-)
-  * [Pressurising with inert gas:](#pressurising-with-inert-gas-)
+  * [Reusable containers - no vacuum](#reusable-containers---no-vacuum)
+  * [Reusable containers - with vacuum](#reusable-containers---with-vacuum)
+  * [Pressurising with inert gas](#pressurising-with-inert-gas)
 - [Other freezer storage methods](#other-freezer-storage-methods)
-- [Vacuum-sealing workflow examples](#vacuum-sealing-workflow-examples)
-  * [Vacuum-sealing and resealing with vacuum bags](#vacuum-sealing-and-resealing-with-vacuum-bags)
+- [Vacuum sealing workflow examples](#vacuum-sealing-workflow-examples)
+  * [Vacuum sealing and resealing with vacuum bags](#vacuum-sealing-and-resealing-with-vacuum-bags)
     + [Method](#method)
     + [Notes](#notes)
-    + [Single-dose bags](#single-dose-bags)
+    + [Single dose bags](#single-dose-bags)
 - [Guidance notes](#guidance-notes)
-  * [“Refreezing” coffee](#-refreezing--coffee)
-  * [The “best” time to freeze coffee](#the--best--time-to-freeze-coffee)
+  * [Refreezing coffee](#refreezing-coffee)
+  * [The best time to freeze coffee](#the-best-time-to-freeze-coffee)
   * [Grinding from frozen](#grinding-from-frozen)
   * [Removing coffee from the freezer and using at room temperature](#removing-coffee-from-the-freezer-and-using-at-room-temperature)
   * [Storing vacuum sealed coffee at room temperature](#storing-vacuum-sealed-coffee-at-room-temperature)
@@ -85,7 +84,7 @@ It should be noted that coffee does not technically “freeze” (as stated by [
 
 
 
-## Why freeze coffee?
+## Why freeze coffee&#63;
 ------
 The benefits of freezing coffee apply to both the home enthusiast and coffee professionals. Some may be more important than others:
 
@@ -225,7 +224,7 @@ Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack
 
 By using reusable containers instead of vacuum sealing plastic it is possible to avoid generating plastic waste while enjoying the benefits of freezing. This is an area that I would like to investigate further before making any firm conclusions on the longevity of coffee stored in this way.
 
-### Reusable containers (no vacuum) 
+### Reusable containers - no vacuum 
 
 Small reusable plastic containers can be used in place of vacuum sealing plastic. Centrifuge tubes (50ml) have seen widespread use across the world as they hold up to 20g of coffee, making them ideally suited for espresso doses. Specimen containers (widely available on eBay and through laboratory suppliers) are available in a range of sizes, with the approximate capacities shown below.
 
@@ -239,7 +238,7 @@ I would like to test reusable containers further, to see how they compare to vac
 
 One thing to note when choosing a reusable container: be aware that some type of plastic (e.g. PP - polypropylene) may become brittle when stored at freezer temperature and may therefore crack.
 
-### Reusable containers (with vacuum)
+### Reusable containers - with vacuum
 
 Reusable containers with valves for attaching a vacuum sealer may appear promising but they are not without issues. The effectiveness of these contained will be dependent on how well the seal and valve maintains the vacuum within the container over time. When I have tried zip-lock bags with valves I have found that air sometimes leaks back into the bag within a few days, particularly if the bag has been reused.
 
@@ -253,7 +252,7 @@ The [method](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b43114124
 
  
 
-### Pressurising with inert gas:
+### Pressurising with inert gas
 
 Matt Perger has suggested reusable valved containers, pressurised with inert gas as a potential alternative to vacuum sealed plastic in discussions on his [Telegram Channel](https://t.me/s/pergfect). This sounds very promising, but the necessary equipment may be difficult for many to obtain. I would be interested to hear about anyone successfully implementing this technique.
 
@@ -287,7 +286,7 @@ There are a few storage methods I don’t recommend: reusable ziplock bags with 
 
 
 
-## Vacuum-sealing workflow examples
+## Vacuum sealing workflow examples
 ------
 There are two main options when using vacuum-sealed plastic bags:
 
@@ -297,7 +296,7 @@ There are two main options when using vacuum-sealed plastic bags:
 
 
 
-### Vacuum-sealing and resealing with vacuum bags
+### Vacuum sealing and resealing with vacuum bags
 
 This is a good method to use if you just want to make one or two cups of coffee at a time and this is therefore what I do with most coffees at home. This method is great for particularly fancy, expensive coffees that you want to hang on to for a while. 
 
@@ -340,13 +339,13 @@ Using this method means the bag itself cannot be reused as it is cut up, but rem
 
  
 
-#### Single-dose bags
+#### Single dose bags
 
 This is what we do for all the coffees contributed to MCA for tasting events throughout the year. The same process could be used for preparing single-dose bags for espresso or filter coffee.
 
  
 
-- 13g/26g portions of coffee in 10.5cmx12cm prepared bags (cut from a 12cm roll of vacuum sealing plastic)
+- 13g/26g portions of coffee in 10.5cm x 12cm prepared bags (cut from a 12cm roll of vacuum sealing plastic)
 - Frozen at around 10 days past roast, where possible.
 - Labelled with freeze dates, plus basic information about the coffee (the rest is on a spreadsheet)
 - Since the coffees are transported offsite, we decant the required amount into a small container and re-seal and freeze the remaining coffee.
@@ -366,7 +365,7 @@ This is what we do for all the coffees contributed to MCA for tasting events thr
 
 
 
-### “Refreezing” coffee
+### Refreezing coffee
 
 This has long thought to have a negative impact on coffee, but current advice is that refreezing of roasted coffee does not appear to have any significant negative effects. Michael Cameron has advised this is not something to worry about:
 
@@ -384,7 +383,7 @@ One issue to point out though: while refreezing seems like it may be fine, *rese
 
  
 
-### The “best” time to freeze coffee
+### The best time to freeze coffee
 
 Since freezing essentially stops the clock: freezing at the time the coffee tastes best appears to be the best option. If the coffee is 30 days past roast, freezing still seems worth doing to preserve the remaining freshness as long as possible. At MCA we freeze on day 7-10 for consistency when possible.
 
@@ -580,4 +579,3 @@ The Vacuum Pouch Company Ltd (2019) Eco Pouch [https://www.thevacuumpouch.co.uk/
 Uman, E. et al (2016) The effect of bean origin and temperature on grinding roasted coffee [https://www.nature.com/articles/srep24483](https://www.nature.com/articles/srep24483)
 
 Wikipedia (2019) Arrhenius equation - [https://en.wikipedia.org/wiki/Arrhenius_equation](https://en.wikipedia.org/wiki/Arrhenius_equation)
-
