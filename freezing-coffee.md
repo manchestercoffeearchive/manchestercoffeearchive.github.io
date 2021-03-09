@@ -7,7 +7,7 @@ title: What We Know About Freezing Coffee Beans
 _Updated: 09/03/2021_
 
 
-
+![MCA Freezer - several vacuum sealed bags of coffee](/assets/img/mca_wwk_freezertop_2000px.jpg)
 
 
 
