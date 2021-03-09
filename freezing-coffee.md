@@ -33,7 +33,7 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 ## Contents
 ------
 - [Introduction](#introduction)
-- [Why freeze coffee&#63;](#why-freeze-coffee&#63;)
+- [The benefits of freezing coffee](#the-benefits-of-freezing-coffee)
   * [Stop the clock](#stop-the-clock)
   * [Preserve coffee at its peak flavour](#preserve-coffee-at-its-peak-flavour)
   * [Never run out of coffee](#never-run-out-of-coffee)
@@ -84,7 +84,7 @@ It should be noted that coffee does not technically “freeze” (as stated by [
 
 
 
-## Why freeze coffee&#63;
+## The benefits of freezing coffee
 ------
 The benefits of freezing coffee apply to both the home enthusiast and coffee professionals. Some may be more important than others:
 
