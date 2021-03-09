@@ -523,51 +523,51 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 
 ## Bibliography
 ------
-Agoodkeensavage (2012) [https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/](Why I stopped packaging our coffee in one-way valves)  
 
-Barista Hustle (2017) [https://baristahustle.com/blog/the-grinder-paper-explained/](The Grinder Paper Explained)
+Agoodkeensavage (2012)  - [Why I stopped packaging our coffee in one-way valves](https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/)
 
-Bean Scene (2018) [https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/](The big freeze: why there’s no longer a barrier to coffee freshness)
+Barista Hustle (2017)  [The Grinder Paper Explained](https://baristahustle.com/blog/the-grinder-paper-explained/)
 
-Botany Coffee (2018) [https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240](Down the Vacuum Sealing Rabbit Hole)
+Bean Scene (2018)  [The big freeze: why there’s no longer a barrier to coffee freshness](https://www.beanscenemag.com.au/big-freeze-theres-no-longer-barrier-coffee-freshness/)
 
-Cameron, M. (2017) [https://strivefortone.com/2017/01/03/freeze-beans-not-peas/](Freeze Beans not Beans)
+Botany Coffee (2018)  - [Down the Vacuum Sealing Rabbit Hole](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240)
+
+Cameron, M. (2017)  [Freeze Beans not Beans](https://strivefortone.com/2017/01/03/freeze-beans-not-peas/)
 
 Cameron, M., Chapman, M., Woodgate R., Mackie, A.G. (2019) IG Chat Discussion 13-21/2/2019- @wayfarerbarista, @onacoffee, @angus_gus_mackie, @1914coffeecompany, @strivefortone
 
 Clark, A. (Botany Coffee) (2019) - Instagram Chat - May 2019
 
-Gagné, J. (2019) [https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/](Some Strategies to Keep Your Coffee Fresh) 
+Gagné, J. (2019)  [Some Strategies to Keep Your Coffee Fresh](https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/)
 
-Hoffman, J. (2019) [https://www.youtube.com/watch?v=yXCboVCDHLw](Weird Coffee Science: Microwave Your Coffee Beans) 
+Hoffman, J. (2019) [Weird Coffee Science: Microwave Your Coffee Beans](https://www.youtube.com/watch?v=yXCboVCDHLw)
 
-Hoffmann, J. (2020) [https://www.youtube.com/watch?v=K0JWuhE8a-w](The Best Coffee Storage Canister) 
+Hoffmann, J. (2020)  [The Best Coffee Storage Canister](https://www.youtube.com/watch?v=K0JWuhE8a-w)
 
-Mills, A. (2019) [https://alexandermills.ca/blog/light-vs-dark-roast](Light vs Dark Roast Coffee - A case for longer shelf life) 
+Mills, A. (2019) [Light vs Dark Roast Coffee - A case for longer shelf life](https://alexandermills.ca/blog/light-vs-dark-roast)
 
-MOCON Europe (2020) [https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging](Vacuum Packaging) 
+MOCON Europe (2020) [Vacuum Packaging](https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging)
 
 Motoyoshi, U. (2019) The @wastingcoffee Guide to Not Wasting Coffee 
 
 North, M. (2020) Instagram Story re: freezing 23-3-2020
 
-Ona Coffee (2018) [https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/](New Sydney cafe to feature frozen coffee beans on menu) 
+Ona Coffee (2018)  [New Sydney cafe to feature frozen coffee beans on menu](https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/)
 
 Perger, M. (2019) Coffee Ad Astra Chat
 
 Perger, P. (2020) Matt Perger Telegram Channel Chat (discussing vacuum sealing) - 3/2/2020
 
-Recycle for Greater Manchester (2018) [https://recycleforgreatermanchester.com/blog/the-truth-about-compostable-packaging/](The truth about compostable packaging) 
+Recycle for Greater Manchester (2018) [The truth about compostable packaging](https://recycleforgreatermanchester.com/blog/the-truth-about-compostable-packaging/)
 
-Souter, T. (2019) [https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe](How to Freeze Coffee) 
+Souter, T. (2019) [How to Freeze Coffee](https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe)
 
-The Engineering Toolbox (2020)[https://www.engineeringtoolbox.com/vacuum-converter-d_460.html]( Vacuum Pressure Units Converter) 
+The Engineering Toolbox (2020) [Vacuum Pressure Units Converter](https://www.engineeringtoolbox.com/vacuum-converter-d_460.html)
 
-The Little Black Coffee Cup (2018) [https://www.thelittleblackcoffeecup.com/journal/cryogenics](Cryogenics & the Benefits of Freezing Green and Roasted Coffee - 
-Interview with Christopher H. Hendon) 
+The Little Black Coffee Cup (2018) [Cryogenics & the Benefits of Freezing Green and Roasted Coffee - Interview with Christopher H. Hendon](https://www.thelittleblackcoffeecup.com/journal/cryogenics)
 
-The Vacuum Pouch Company Ltd (2019) [https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/](Eco Pouch) 
+The Vacuum Pouch Company Ltd (2019) [Eco Pouch](https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/)
 
-Uman, E. et al (2016) [https://www.nature.com/articles/srep24483](The effect of bean origin and temperature on grinding roasted coffee) 
+Uman, E. et al (2016) [The effect of bean origin and temperature on grinding roasted coffee](https://www.nature.com/articles/srep24483)
 
-Wikipedia (2019) [https://en.wikipedia.org/wiki/Arrhenius_equation](Arrhenius equation) 
+Wikipedia (2019) [Arrhenius equation](https://en.wikipedia.org/wiki/Arrhenius_equation)
