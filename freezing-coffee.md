@@ -33,7 +33,7 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 ## Contents
 ------
 - [Introduction](#introduction)
-- [Why freeze coffee&#63;](#why-freeze-coffee--63-)
+- [Why freeze coffee&#63;](#why-freeze-coffee&#63;)
   * [Stop the clock](#stop-the-clock)
   * [Preserve coffee at its peak flavour](#preserve-coffee-at-its-peak-flavour)
   * [Never run out of coffee](#never-run-out-of-coffee)
