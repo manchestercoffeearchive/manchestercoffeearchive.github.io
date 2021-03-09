@@ -7,8 +7,9 @@ title: What We Know About Freezing Coffee Beans
 _Updated: 08/03/2021_
 
 
-## Aim
 
+## Aim
+------
 This is an attempt to collate all the currently available information on the topic of “freezing” roasted coffee in order to preserve it for long periods of time. Freezing is the driving force being MCA so it has therefore been crucial that we look into best practices.
 
 I will focus on my own experience as a home enthusiast and MCA Archivist; however, I welcome collaboration from anyone willing to share their experiences, either at home or in a coffee shop.
@@ -21,9 +22,8 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 
 
 
-------
-
 ## Contents
+------
 - [Introduction](#introduction)
 - [Why freeze coffee?](#why-freeze-coffee-)
   * [Stop the clock](#stop-the-clock)
@@ -62,12 +62,10 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 - [Appendix III - Correspondence from Manchester City Council](#appendix-iii---correspondence-from-manchester-city-council)
 - [Bibliography](#bibliography)
 
-------
-
 
 
 ## Introduction
-
+------
 I started freezing coffee in 2018; my initial aim was to preserve a sample of each coffee so I could taste them all together at a later date, but I later realised that freezing also allowed me to preserve larger portions of coffee so that I always had a good selection available at any time. If I saw a coffee I wanted to try it wouldn’t matter that I already had enough coffee on-the-go, I could just freeze it until I actually needed more coffee. This flexibility totally changed the way I buy coffee for myself, and means I never really waste any at home.
 
 The collection of coffee samples I amassed over time eventually led, through encouragement from the rest of the Archivists, to the formation of Manchester Coffee Archive. Anyone could do the same if they wanted to… but be prepared for a lot of admin and spreadsheets.
@@ -76,10 +74,8 @@ It should be noted that coffee does not technically “freeze” (as stated by [
 
 
 
-------
-
 ## Why freeze coffee?
-
+------
 The benefits of freezing coffee apply to both the home enthusiast and coffee professionals. Some may be more important than others:
 
 - Stop the clock
