@@ -9,6 +9,8 @@ _Updated: 09/03/2021_
 
 
 
+
+
 ## Aim
 ------
 This is an attempt to collate all the currently available information on the topic of “freezing” roasted coffee in order to preserve it for long periods of time. Freezing is the driving force being MCA so it has therefore been crucial that we look into best practices.
@@ -20,6 +22,8 @@ I am by no means an expert in freezing coffee: I have researched and learnt from
 If you find this guide useful, then feel free to show your appreciation by buying me a coffee. I do drink coffee too occasionally.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V33MU8Z) 
+
+
 
 
 
@@ -67,6 +71,8 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 
 
 
+
+
 ## Introduction
 ------
 I started freezing coffee in 2018; my initial aim was to preserve a sample of each coffee so I could taste them all together at a later date, but I later realised that freezing also allowed me to preserve larger portions of coffee so that I always had a good selection available at any time. If I saw a coffee I wanted to try it wouldn’t matter that I already had enough coffee on-the-go, I could just freeze it until I actually needed more coffee. This flexibility totally changed the way I buy coffee for myself, and means I never really waste any at home.
@@ -74,6 +80,8 @@ I started freezing coffee in 2018; my initial aim was to preserve a sample of ea
 The collection of coffee samples I amassed over time eventually led, through encouragement from the rest of the Archivists, to the formation of Manchester Coffee Archive. Anyone could do the same if they wanted to… but be prepared for a lot of admin and spreadsheets.
 
 It should be noted that coffee does not technically “freeze” (as stated by [Hendon](https://www.thelittleblackcoffeecup.com/journal/cryogenics)) since it is solid at room temperature; “freezing” coffee refers to “cooling of coffee to at least freezer temperatures” and is used as shorthand.
+
+
 
 
 
@@ -162,6 +170,8 @@ Freezing allows you to keep hold of the coffee sample until you are able to shar
 
 
 
+
+
 ## Storage Methods
 ------
 There are lots of ways to store coffee, in or out of the freezer. It can be difficult to know which method is best, and this will vary depending upon how long the coffee is being stored. Vacuum sealing with plastic bags currently seems to be the best available option for long term freezer storage, which is why we use it to archive coffees for MCA. However, if you want to give freezing a try, there are alternatives as simple as just putting the unopened bag in the freezer - I have explored some of these options below.
@@ -229,6 +239,8 @@ There are a few storage methods I don’t recommend: reusable ziplock bags with 
 I tend to buy unbranded 12cm and 15cm wide rolls of vacuum sealing plastic from eBay sellers, normally buying 5 rolls at a time. Local and online availability may vary depending on where you are located, but search “12/15cm vacuum roll” and you should see a few options.
 
 Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack bags found on [Amazon](https://www.amazon.co.uk/10cm-15cm-Vacuum-Sealer-Embossed/dp/B015A7PHDM); however, these can potentially work out more expensively. For small portions I have found that prepared bags from a roll were roughly a third of the cost of individual bags when buying 100.
+
+
 
 
 
@@ -313,6 +325,8 @@ This is what we do for all the coffees contributed to MCA for tasting events thr
 
 
 
+
+
 ## Grinding from frozen
 ------
 If you want to use coffee stored in the freezer, there is no need to let it defrost: you can use it straight away. Frozen coffee beans have been found to produce a narrower spread of particle and a finer grind size, so you may need to adjust your grinder to a coarser setting depending on how you are making coffee.
@@ -324,11 +338,15 @@ If you want to use coffee stored in the freezer, there is no need to let it defr
 
 
 
+
+
 ## Removing coffee from the freezer and using at room temperature
 ------
 Allowing the coffee to come to room temperature (e.g. if using the coffee over the course of a day/week) means the potential benefits of grinding from frozen are lost, but this may be more practical if you know you will be using the coffee over a relatively short period of time. Mat North (Raw Material) and others have noticed that coffee seems to age faster when removed from the freezer, so I'd recommend only taking out what you will use in the next day or so. I'm not sure what would cause this accelerated aging: it could be due to the vacuuming process (if used) or the temperature change itself, but I'd be interested to hear of any experiments that have been done to investigate this.
 
 Originally I was under the impression that a package of coffee removed from the freezer should be allowed to reach room temperature before opening the package and storing at room temperature for any length of time due to concerns over condensation forming on the beans and accelerating oxidation; however, as mentioned above, from speaking to Michael Cameron about this concern and doing my own tests it doesn’t seem to be an issue: condensation forms on the packing packaging but not on the beans themselves.
+
+
 
 
 
@@ -359,9 +377,11 @@ Matt Perger has suggested reusable valved containers, pressurised with inert gas
 
 
 
+
+
 ## Guidance Notes
 ------
- 
+
 
 ### “Refreezing” Coffee
 
@@ -414,9 +434,11 @@ This is an area that I'd like to gather more data on; however, for now the syste
 
 
 
+
+
 ## Reuse/Recycling:
 ------
- 
+
 
 ### Plastic vacuum sealing bags
 
@@ -454,9 +476,11 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 
 
 
+
+
 ## Appendix I - Experiments MCA would like to complete and further areas of research
 ------
- 
+
 
 ### Experiments we would like to do (in order of preference):
 
@@ -496,6 +520,8 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 
 
 
+
+
 ## Appendix II - The effects of storing roasting coffee in a sealed and/or vacuum sealed container at ambient temperature:
 ------
  Angus Mackie has provided some very interesting information on this topic, and this is an area that would appear to not be fully agreed within the coffee community. While I do not fully understand this area, I am currently only vacuum sealing coffee until ready to freeze and not sorting it vacuum sealed at room temperature.
@@ -507,6 +533,8 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
  Angus in reference to the [article](https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/) by agoodcleansavage re: sealed packaging:
 
 > *"This conclusion is a result of many different experiments, involving different coffees, roast approach, ages and times in these environments. And one of the big consistencies was pattern of taste. Reading this **article** does make me curious. I would not like to rule out what they say so my first main query is did they have good results vacuuming their coffee straight after roast. As in my testing, vacuuming or packaging into air tight/no valve environments, the range of times after roast I've done have been between 22 hours after roast and intermittently between 5-30 days after roast. Anytime when this happened, and **anytime coffee was taken from a valved environment into a completely sealed environment between 5-30 days, or straight into vacuuming and not freezing, similar taste degradation occurred"***
+
+
 
 
 
@@ -523,6 +551,8 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 >
 > \-  Manchester City Council (2018)
 >
+
+
 
 
 
