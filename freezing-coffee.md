@@ -524,7 +524,8 @@ Biodegradable vacuum sealing plastic is available, although I have not tried it 
 ## Bibliography
 ------
 Agoodkeensavage (2012) Why I stopped packaging our coffee in one-way valves  
-[https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/](https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/)
+[https://agoodkeensavage.wordpress.com/2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/](https://agoodkeensavage.wordpress.com/ 
+2012/01/17/why-i-stopped-packaging-our-coffee-in-one-way-valves/)
 
 Barista Hustle (2017) The Grinder Paper Explained
 [https://baristahustle.com/blog/the-grinder-paper-explained/](https://baristahustle.com/blog/the-grinder-paper-explained/)
@@ -543,7 +544,8 @@ Cameron, M., Chapman, M., Woodgate R., Mackie, A.G. (2019) IG Chat Discussion 13
 Clark, A. (Botany Coffee) (2019) - Instagram Chat - May 2019
 
 Gagné, J. (2019) Some Strategies to Keep Your Coffee Fresh 
-[https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/](https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/)
+[https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/](https://coffeeadastra.com/2019/03/26/ 
+some-strategies-to-keep-your-coffee-fresh/amp/)
 
 Hoffman, J. (2019) Weird Coffee Science: Microwave Your Coffee Beans 
 [https://www.youtube.com/watch?v=yXCboVCDHLw](https://www.youtube.com/watch?v=yXCboVCDHLw)
@@ -555,7 +557,8 @@ Mills, A. (2019) Light vs Dark Roast Coffee - A case for longer shelf life
 [https://alexandermills.ca/blog/light-vs-dark-roast](https://alexandermills.ca/blog/light-vs-dark-roast)
 
 MOCON Europe (2020) Vacuum Packaging 
-[https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging](https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging)
+[https://www.modifiedatmospherepackaging.com/modified-atmosphere-packaging-resources/vacuum-packaging](https://www.modifiedatmospherepackaging.com/ 
+modified-atmosphere-packaging-resources/vacuum-packaging)
 
 Motoyoshi, U. (2019) The @wastingcoffee Guide to Not Wasting Coffee 
 
@@ -579,10 +582,12 @@ The Engineering Toolbox (2020) Vacuum Pressure Units Converter
 
 The Little Black Coffee Cup (2018) Cryogenics & the Benefits of Freezing Green and Roasted Coffee - 
 Interview with Christopher H. Hendon 
-[https://www.thelittleblackcoffeecup.com/journal/cryogenics](https://www.thelittleblackcoffeecup.com/journal/cryogenics)
+[https://www.thelittleblackcoffeecup.com/journal/cryogenics](https://www.thelittleblackcoffeecup.com/ 
+journal/cryogenics)
 
 The Vacuum Pouch Company Ltd (2019) Eco Pouch 
-[https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/](https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/)
+[https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/](https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/ 
+biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/)
 
 Uman, E. et al (2016) The effect of bean origin and temperature on grinding roasted coffee 
 [https://www.nature.com/articles/srep24483](https://www.nature.com/articles/srep24483)
