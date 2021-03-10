@@ -3,7 +3,7 @@ layout: page
 title: Support
 ---
 
-The best way to support MCA is by submitting a coffee sample for the Archive, more info [here](https://manchestercoffeearchive.github.io/contribute/).
+The best way to support MCA is by submitting a coffee sample for the Archive, more info [here](./contribute/).
 
 
 You can also support us on Ko-fi:
