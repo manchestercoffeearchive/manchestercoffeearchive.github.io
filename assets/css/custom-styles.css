@@ -2,10 +2,9 @@
 layout: null
 ---
 
-<head>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
-<style>
-.navbar-custom {
+@import url('https://fonts.googleapis.com/css?family=Sofia')
+  
+  .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
   font-family: 'Sofia', sans-serif;
@@ -17,5 +16,3 @@ layout: null
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
 }
-</style>
-</head>
