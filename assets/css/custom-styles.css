@@ -7,8 +7,8 @@ layout: null
 /* --- General --- */
 
 @font-face {
-  font-family: Visitor;
-  src: url(visitor2.ttf);
+  font-family: 'Goblin One';
+  src: url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
 }
 
 html {
@@ -31,7 +31,7 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: Visitor, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Goblin One', cursive;
   font-weight: 800;
   line-height: 1.1;
 }
@@ -129,7 +129,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
-  font-family: Visitor, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Goblin One', cursive;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
