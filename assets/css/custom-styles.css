@@ -2,11 +2,13 @@
 ---
 
 // Site specific customisations
+
 @import url("pygment_highlights.css");
 
 @font-face {
   font-family: Visitor;
   src: url(visitor2.ttf);
+}
 
 body {
   font-size: 1rem;
