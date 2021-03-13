@@ -4,19 +4,14 @@
 // Site specific customisations
 
 @font-face {
-  font-family: Visitor;
-  src: url(visitor2.ttf);
-}
-
-@font-face {
-  font-family: Pinscher;
-  src: url('SHPinscher-Regular.otf');
+  font-family: Nunito;
+  src: url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap');
 }
 
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
-  font-family: Pinscher;
+  font-family: 'Nunito', sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
