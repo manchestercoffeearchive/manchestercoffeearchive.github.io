@@ -2,6 +2,7 @@
 ---
 
 // Site specific customisations
+@import url("pygment_highlights.css");
 
 @font-face {
   font-family: Visitor;
