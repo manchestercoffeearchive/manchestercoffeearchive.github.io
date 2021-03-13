@@ -10,7 +10,7 @@ layout: null
 }
 
 @font-face {
-  font-family: 'Asap';
+  font-family: Asap;
   font-style: normal;
   font-weight: 400;
   src: local('Asap'), local('Asap-Regular'), url(http://themes.googleusercontent.com/static/fonts/asap/v1/-KZsao_xwBpcExaHoPH8_w.ttf) format('truetype');
