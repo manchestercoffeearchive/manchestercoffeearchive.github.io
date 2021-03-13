@@ -8,19 +8,15 @@
   src: url('Nunito-Black.ttf');
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: normal;
-  font-family: Nunito;
-  text-transform: uppercase;
-  // line-height: 1.5;
-}
-
 .navbar-custom {
-  font-weight: normal;
-  font-family: Nunito;
-  }
+  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
+  border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
+  font-family: Nunito, sans-serif;
+  {% if site.navbar-img %}
+    background-image: url({{ site.navbar-img | relative_url }});
+    background-attachment: fixed;
+  {% endif %}
+  -webkit-transition: padding .5s ease-in-out;
+  -moz-transition: padding .5s ease-in-out;
+  transition: padding .5s ease-in-out;
+}
