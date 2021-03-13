@@ -4,14 +4,14 @@
 // Site specific customisations
 
 @font-face {
-  font-family: Pacifico;
-  src: url('//fonts.googleapis.com/css2?family=Pacifico&display=swap');
+  font-family: Visitor;
+  src: url(visitor2.ttf);
 }
 
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
-  font-family: Pacifico, sans-serif;
+  font-family: Visitor, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
@@ -23,7 +23,7 @@
 
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: Pacifico, sans-serif;
+  font-family: Visitor, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
