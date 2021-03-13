@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: Nunito;
-  src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400&display=swap');
+  src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
 }
 
 .navbar-custom {
@@ -19,4 +19,26 @@
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
+}
+
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: Nunito, sans-serif;
+  font-weight: 800;
+  line-height: 1.1;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.875rem;
+}
+h3 {
+  font-size: 1.5rem;
+}
+h4 {
+  font-size: 1.125rem;
+}
+h1, h2, h3, h4 {
+  margin-top: 1.25rem;
 }
