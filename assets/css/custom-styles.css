@@ -9,6 +9,13 @@ layout: null
   src: url(visitor2.ttf);
 }
 
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Asap'), local('Asap-Regular'), url(http://themes.googleusercontent.com/static/fonts/asap/v1/-KZsao_xwBpcExaHoPH8_w.ttf) format('truetype');
+}
+
 /* --- General --- */
 
 html {
@@ -77,7 +84,7 @@ hr.small {
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
-  font-family: Visitor;
+  font-family: Asap;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
