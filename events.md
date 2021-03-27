@@ -44,6 +44,7 @@ Poster by [Wonder Room Studio](https://wwwonderroom.com/)
 
 
 
-![MCA#1 - Ten for Ten Series](/assets/img/events/mca01poster.jpg)
+![MCA#1 - Ten for Ten Series](/assets/img/events/mca01poster.jpg) 
+Poster by [Mike Lowe Illustration](https://mike-lowe.co.uk/)
 
 
