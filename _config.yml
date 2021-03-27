@@ -20,9 +20,9 @@ navbar-links:
     - What We Know About Freezing Coffee Beans: "freezing-coffee"
     - Take a look into the Archive: "the-archive"
     - Press: "press"
-  Contribute Coffee: "contribute"
-  Support: "support"
-  Events: "events"
+#  Contribute Coffee: "contribute"
+#  Support: "support"
+#  Events: "events"
 
 # --- Logo --- #
 
