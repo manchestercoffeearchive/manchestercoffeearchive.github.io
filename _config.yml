@@ -11,7 +11,7 @@ title: Manchester Coffee Archive
 # Your name to show in the footer
 author: MCA
 
-# --- List of links in the navigation bar --- #
+### --- List of links in the navigation bar --- #
 
 navbar-links:
   About MCA: "about"
