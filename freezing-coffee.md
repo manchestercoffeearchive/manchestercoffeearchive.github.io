@@ -62,13 +62,13 @@ If you find this guide useful, then feel free to show your appreciation by buyin
   * [Storing vacuum sealed coffee at room temperature](#storing-vacuum-sealed-coffee-at-room-temperature)
 - [Reuse and recycling](#reuse-and-recycling)
   * [Plastic vacuum sealing bags](#plastic-vacuum-sealing-bags)
-  * [Recycling options for PA/PE plastic](#recycling-options-for-pa-pe-plastic)
+  * [Recycling options for vacuum sealing plastic](#recycling-options-for-vacuum-sealing-plastic)
   * [Biodegradable vacuum sealing bags](#biodegradable-vacuum-sealing-bags)
 - [Appendix I - Areas for further research](#appendix-i---areas-for-further-research)
   * [Experiments MCA would like to do](#experiments-mca-would-like-to-do)
   * [Areas for further research](#areas-for-further-research)
 - [Bibliography](#bibliography)
-
+- [Changelog](#changelog)
 
 
 ## Introduction
@@ -156,7 +156,7 @@ Freezing makes fear of missing out on limited-run coffees a thing of the past. I
 
 ### Improved grind consistency and distribution
 
-The work of Christopher Hendon at his team, published in [Nature](https://www.nature.com/articles/srep24483) goes into great detail about the effect of temperature upon grind particle distribution and grind consistency. An [explanation](https://baristahustle.com/blog/the-grinder-paper-explained/) of the findings was posted on Barista Hustle, which makes some recommendations based on the paper. This is a complicated area, and not something I fully understand, but the benefits of grind consistency may be more applicable to espresso. I only brew filter coffee at home so haven’t experienced this benefit myself, but those who use frozen coffee for espresso might be and to advise further on this benefit.
+The work of Christopher Hendon at his team, published in [Nature](https://www.nature.com/articles/srep24483) goes into great detail about the effect of temperature upon grind particle distribution and grind consistency. An [explanation](https://baristahustle.com/blog/the-grinder-paper-explained/) of the findings was posted on Barista Hustle, which makes some recommendations based on the paper. This is a complicated area, and not something I fully understand, but the benefits of grind consistency may be more applicable to espresso. I only brew filter coffee at home so haven’t experienced this benefit myself, but those who use frozen coffee for espresso might be and to advise further on this potential benefit.
 
  
 
@@ -222,14 +222,21 @@ Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack
 By using reusable containers instead of vacuum sealing plastic it is possible to avoid generating plastic waste while enjoying the benefits of freezing. This is an area that I would like to investigate further before making any firm conclusions on the longevity of coffee stored in this way.
 
 ### Reusable containers - no vacuum 
+ ![60ml and 40ml reusable containers](/assets/img/wwk_the_gap.jpg)
 
-Small reusable plastic containers can be used in place of vacuum sealing plastic. Centrifuge tubes (50ml) have seen widespread use across the world as they hold up to 20g of coffee, making them ideally suited for espresso doses. Specimen containers (widely available on eBay and through laboratory suppliers) are available in a range of sizes, with the approximate capacities shown below.
+Small reusable plastic containers can be used in place of vacuum sealing plastic. Centrifuge tubes have seen widespread use across the world as they generally hold up to 20g of coffee, making them ideally suited for espresso doses. 
 
-| Size | Approximate Capacity (Pacamara Coffee - Big Beans!) |
+Specimen containers are available in a range of sizes through laboratory supplies, eBay and Alibaba: the most useful sizes for single doses of coffee will be 40ml, 60ml and 90ml. Laboratory supplies will often have a high minimum order quantity (usually 100 units), so eBay may be the easiest way to obtain a few for home use: search for "specimen" or "histology" containers and the appropriate size to find the available options. 
+
+Roasted coffee beans vary widely in density and shape, meaning the capacity of a reusable container will vary depending upon the bean. From testing out various beans and storage containers I have found that 1ml of storage can *generally* hold 0.41-0.45g of light/medium roasted coffee, but this can vary between different container shapes. Sub-Zero Coffee's [packs](https://subzerocoffee.com/collections/shop/products/50ml-test-tubes-pack-of-x25-tubes) of centrifuge tubes have a suggested capacity of 20-22g; I have tested various light-medium roast coffees with 40, 60 and 90ml containers. Based on this information I have compiled the table below which may use useful in selecting an appropriate container size. I would recommend selecting based on the lowest listed capacity to avoid buying containers that will end up being too small at some point: for example, when attempting to fit 20g of a Pacamara variety into a 40ml container.
+
+
+| Container | Approximate Capacity |
 | ---- | --------------------------------------------------- |
-| 40ml | 17g                                                 |
-| 60ml | 25g                                                 |
-| 90ml | 33g                                                 |
+| 40ml specimen container | 16-20g                                      |
+| 50ml centrifuge tube | 20-22g                                            |
+| 60ml specimen container | 25-29g                                              |
+| 90ml specimen container | 33-41g               |
 
 I would like to test reusable containers further, to see how they compare to vacuum sealing in the long term. I have heard of several people using reusable containers for both filter and espresso beans, and have tried it myself with positive results, but am yet to gather sufficient data to make any reliable conclusions.
 
@@ -336,9 +343,9 @@ This is what we do for all the coffees contributed to MCA for tasting events thr
 
  
 
-- 13g/26g portions of coffee in 10.5cm x 12cm prepared bags (cut from a 12cm roll of vacuum sealing plastic) 
+- 13g/26g portions of coffee in 10.5cm x 12cm prepared bags (cut from a 12cm roll of vacuum sealing plastic)
 - Frozen at around 10 days past roast, where possible.
-- Labelled with freeze dates, plus basic information about the coffee (the rest is on a spreadsheet) 
+- Labelled with freeze dates, plus basic information about the coffee (the rest is on a spreadsheet)
 - Since the coffees are transported offsite, we decant the required amount into a small container and re-seal and freeze the remaining coffee.
 
 
@@ -358,7 +365,7 @@ This is what we do for all the coffees contributed to MCA for tasting events thr
 
 ### Refreezing coffee
 
-This has long thought to have a negative impact on coffee, but current advice is that refreezing of roasted coffee does not appear to have any significant negative effects. Michael Cameron has advised this is not something to worry about:
+This has long thought to have a negative impact on coffee, but current advice is that refreezing of roasted coffee does not appear to have any significant negative effects. This may be due to the extremely low water-content of roasted coffee. Michael Cameron has advised that re-freezing is not something to worry about:
 
 
 
@@ -366,11 +373,9 @@ This has long thought to have a negative impact on coffee, but current advice is
 >
 >  \-  Michael Cameron - [Freeze Beans not Peas](https://strivefortone.com/2017/01/03/freeze-beans-not-peas/)
 
- 
 
-MCA conducted an [experiment](https://www.instagram.com/p/B2Tw5zcBtnI/?utm_source=ig_web_copy_link) to determine if there was any difference in flavour between coffee that had been frozen once, and coffee that had been frozen and defrosted seven times. Two cups of the single-frozen coffee and one cup of the refrozen coffee were prepared and participants were asked to pick the odd one out. There was no trend towards picking the refrozen coffee as the odd one out, which suggests there was no noticeable difference in flavour.⁠ This suggests that refreezing may not something to worry about. 
 
-One issue to point out though: while refreezing seems like it may be fine, *resealing* may have some negative effects on the coffee. Matt Perger has suggested that vacuum sealed coffee stales quickly if re-vacuumed, essentially acting as a “sponge” for oxygen being sucked back into the container. Whether or not this is counteracted by the freezing process is something that needs more investigation.
+One issue to point out though: the *vacuuming* process will remove any inert gases surround the beans and held within them are removed to some degree. Matt Perger has suggested that vacuum sealed coffee stales quickly if re-vacuumed, essentially acting as a “sponge” for oxygen being sucked back into the container. Whether or not this is counteracted by the freezing process is something that could be investigated further.
 
  
 
@@ -449,14 +454,13 @@ The bag will need to be cut down when reusing, so larger bags have more potentia
 Vacuum sealing bags appear to be mostly comprised of PA and PA/PE plastic: the recycling options for this vary on location.
 
  Vacuum sealing bags seem to be mostly PA and PA/PE plastic:
-
 - PA - polyamide (nylon)
 - PE - polyethylene
 
 
 
 
-### Recycling options for PA/PE plastic
+### Recycling options for vacuum sealing plastic
 
 [1914 Coffee Company ](https://www.instagram.com/1914coffeecompany/)have advised that vacuum sealer plastic can be recycled in “soft plastic” collections in Canada.
 
@@ -554,9 +558,9 @@ North, M. (2020) Instagram Story re: freezing 23-3-2020
 
 Ona Coffee (2018)  [New Sydney cafe to feature frozen coffee beans on menu](https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/)
 
-Perger, M. (2019) Coffee Ad Astra Chat
+Perger, M. (2019) [Coffee Ad Astra Telegram Channel Chat](https://t.me/s/coffeeadastra)
 
-Perger, P. (2020) Matt Perger Telegram Channel Chat (discussing vacuum sealing) - 3/2/2020
+Perger, P. (2020) [Matt Perger Telegram Channel Chat](https://t.me/s/pergfect) (discussing vacuum sealing) - 3/2/2020
 
 Recycle for Greater Manchester (2018) [The truth about compostable packaging](https://recycleforgreatermanchester.com/blog/the-truth-about-compostable-packaging/)
 
@@ -571,3 +575,9 @@ The Vacuum Pouch Company Ltd (2019) [Eco Pouch](https://www.thevacuumpouch.co.uk
 Uman, E. et al (2016) [The effect of bean origin and temperature on grinding roasted coffee](https://www.nature.com/articles/srep24483)
 
 Wikipedia (2019) [Arrhenius equation](https://en.wikipedia.org/wiki/Arrhenius_equation)
+
+
+## Changelog
+------
+
+25/04/2021 - Major update, lots of small changes - more detail relating to reusable containers
