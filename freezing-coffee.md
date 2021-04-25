@@ -6,7 +6,7 @@ share-description: This is an attempt to collate all the currently available inf
 ---
  Tom Finch - Co-founder/Archivist, Manchester Coffee Archive
 
-_Updated: 09/03/2021_
+_Updated: 25/04/2021_
 
 
 ![MCA Freezer - several vacuum sealed bags of coffee](/assets/img/mca_wwk_freezertop_2000px.jpg)
@@ -222,7 +222,7 @@ Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack
 By using reusable containers instead of vacuum sealing plastic it is possible to avoid generating plastic waste while enjoying the benefits of freezing. This is an area that I would like to investigate further before making any firm conclusions on the longevity of coffee stored in this way.
 
 ### Reusable containers - no vacuum 
- ![60ml and 40ml reusable containers](/assets/img/wwk_the_gap.jpg)
+ ![60ml and 40ml reusable containers](/assets/img/reusable_64crop.jpg)
 
 Small reusable plastic containers can be used in place of vacuum sealing plastic. Centrifuge tubes have seen widespread use across the world as they generally hold up to 20g of coffee, making them ideally suited for espresso doses. 
 
