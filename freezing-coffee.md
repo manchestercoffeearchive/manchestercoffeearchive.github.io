@@ -17,11 +17,11 @@ _Updated: 25/04/2021_
 ------
 This is an attempt to collate all the currently available information on the topic of freezing roasted coffee in order to preserve it for long periods of time. Freezing allows MCA to exist, so it has therefore been important for us to investigate best practices.
 
-I will focus on my own experience as a home enthusiast and MCA Archivist; however, I welcome collaboration from anyone willing to share their experiences, either at home or in a coffee shop.
+I will focus on my own experience as a home enthusiast and MCA Archivist; however, I welcome input from anyone willing to share their experiences, either at home or in a coffee shop.
 
 I am by no means an expert in freezing coffee: I have researched and learnt from the work of some much better qualified individuals, referenced in this guide. I think there is still much that could be explored in the world of coffee freezing, so if you would like to get in touch to share your own findings, or if you spot any inaccuracies, please drop me an [email](mailto:tom@manchestercoffeearchive.com) or a [DM](https://www.instagram.com/manchestercoffeearchive).
 
-If you find this guide useful, then feel free to show your appreciation by buying me a coffee. I do drink coffee too occasionally.
+If you find this guide useful, then feel free to show your appreciation by buying me a coffee. I do drink coffee too, occasionally.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V33MU8Z) 
 
@@ -47,6 +47,7 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 - [Freezing in reusable containers](#freezing-in-reusable-containers)
   * [Reusable containers - no vacuum](#reusable-containers---no-vacuum)
   * [Reusable containers - with vacuum](#reusable-containers---with-vacuum)
+  * [Flushing with inert gas](#flushing-with-inert-gas)
   * [Pressurising with inert gas](#pressurising-with-inert-gas)
 - [Other freezer storage methods](#other-freezer-storage-methods)
 - [Vacuum sealing workflow examples](#vacuum-sealing-workflow-examples)
@@ -75,7 +76,7 @@ If you find this guide useful, then feel free to show your appreciation by buyin
 ------
 I started freezing coffee in 2018; my initial aim was to preserve a sample of each coffee so I could taste them all together at a later date, but I later realised that freezing also allowed me to preserve larger portions of coffee so that I always had a good selection available at any time. If I saw a coffee I wanted to try it wouldn’t matter that I already had enough coffee on-the-go, I could just freeze it until I actually needed more coffee. This flexibility totally changed the way I buy coffee for myself, and means I never really waste any at home.
 
-The collection of coffee samples I amassed over time eventually led, through encouragement from the rest of the Archivists, to the formation of Manchester Coffee Archive. Anyone could do the same if they wanted to… but be prepared for a lot of admin and spreadsheets.
+The collection of coffee samples I amassed over time eventually led, through encouragement from the rest of the Archivists, to the founding of Manchester Coffee Archive. Anyone could do the same if they wanted to… but be prepared for a lot of admin and data entry.
 
 It should be noted that coffee does not technically “freeze” (as stated by [Hendon](https://www.thelittleblackcoffeecup.com/journal/cryogenics)) since it is solid at room temperature; “freezing” coffee refers to “cooling of coffee to at least freezer temperatures” and is used as shorthand.
 
@@ -122,7 +123,7 @@ This shows how much the shelf life of coffee can be extended by freezing, and th
 - Coffee frozen on **Day 25** past roast will take **450 days** (5 x 90) to reach the same point in the aging process as the same coffee left at an ambient temperature of 25ºc for 30 days
 
 
-This is an oversimplification, but it gives an idea of how long coffee can be preserved with even a normal domestic freezer. Freezing has potentially massive benefits for those wishing to preserve coffee at its peak flavour.
+This is an oversimplification, but it gives an indication for how long coffee can be preserved with even a normal domestic freezer. Freezing has potentially massive benefits for those wishing to preserve coffee at its peak flavour.
 
 It should be noted, these estimates are only taking storage temperature into account and other variables may have a negative effect on flavour during the storage time. One important consideration is the storage method in the freezer: at some point, coffee stored in a non-airtight bag will most likely not taste as good as coffee stored in a vacuum sealed bag, although the point at which the storage method becomes an issue is not something I have been able to figure out yet.
 
@@ -130,7 +131,7 @@ It should be noted, these estimates are only taking storage temperature into acc
 
 ### Preserve coffee at its peak flavour
 
-Freezing avoids the issue of coffee going stale. If you know you won’t use a full bag within the peak window of flavour, freezing allows you to continue to enjoy the coffee at its optimum taste. For consistency, at MCA we aim to freeze coffee at 7-10 days past roast, which means that when the coffee is used it should taste approximately the same as when it was initially frozen. 
+Freezing avoids the issue of coffee going stale. If you know you won’t use a full bag within the peak window of flavour, freezing allows you to continue to enjoy the coffee at its optimum taste. For consistency, at MCA we aim to freeze coffee at ~10 days past roast, effectively capturing the flavour of the coffee at that point in time.
 
 However, finding the optimum time to freeze coffee will depend on the optimum rest period for the specific coffee, and this can vary considerably. Lighter roasts in particular may taste best 2, 3 or more weeks after roast and it is worth considering this when choosing when to freeze a particular coffee. Roasters with a lighter roasting style such as Lüna, La Cabra and Talormade have noted that their coffees can taste good up to 3 months past roast, and the peak flavour may be several weeks past roast. Alexander Mills has written about this in more detail in his [blog](https://alexandermills.ca/blog/light-vs-dark-roast).
 
@@ -138,7 +139,7 @@ However, finding the optimum time to freeze coffee will depend on the optimum re
 
 ### Never run out of coffee
 
-This process can be as simple as freezing half of each bag of coffee you buy at home, or buying two bags instead of one when visiting a coffee shop. Freezing means you can keep as much coffee in stock as you like.
+This process can be as simple as freezing half of each bag of coffee you buy at home, or buying two bags instead of one when visiting a coffee shop. Freezing means you can keep as much coffee in stock as you like and you are limited only by the amount of room on your freezer that you want to devote to coffee storage.
 
  
 
@@ -156,13 +157,19 @@ Freezing makes fear of missing out on limited-run coffees a thing of the past. I
 
 ### Improved grind consistency and distribution
 
-The work of Christopher Hendon at his team, published in [Nature](https://www.nature.com/articles/srep24483) goes into great detail about the effect of temperature upon grind particle distribution and grind consistency. An [explanation](https://baristahustle.com/blog/the-grinder-paper-explained/) of the findings was posted on Barista Hustle, which makes some recommendations based on the paper. This is a complicated area, and not something I fully understand, but the benefits of grind consistency may be more applicable to espresso. I only brew filter coffee at home so haven’t experienced this benefit myself, but those who use frozen coffee for espresso might be and to advise further on this potential benefit.
+The work of Christopher Hendon at his team, published in [Nature](https://www.nature.com/articles/srep24483) goes into great detail about the effect of temperature upon grind particle distribution and grind consistency. An [explanation](https://baristahustle.com/blog/the-grinder-paper-explained/) of the findings was posted on Barista Hustle, which makes some recommendations based on the paper.
+
+I generally only brew filter coffee, and haven't noticed any particular difference in flavour when using frozen beans; however, it may be that these difference are more noticeable with espresso... or people with a more refined palate may notice a differences that I have not experienced. With a well organised blind tasting it would be possible to investigate this effect further, but for now I  mainly use freezing as a way to extend the lifespan of coffee, rather than to necessarily attempt to improve it.
+
+I would be very interested to hear of any experiments carried out to investigate this area, please get in contact if you have any data you are able to share!
 
  
 
 ### Contribute coffee to MCA
 
-Freezing allows you to keep hold of the coffee sample until you are able to share it with us at one of our events. More information about how to contribute coffee to MCA can be found [here](https://www.cognitoforms.com/ManchesterCoffeeArchive1/ContributeCoffeeToMCA).
+Freezing allows you to keep hold of the coffee sample until you are able to share it with us at one of our events.
+
+More information about how to contribute coffee to MCA can be found [here](https://www.cognitoforms.com/ManchesterCoffeeArchive1/ContributeCoffeeToMCA). ❤️
 
 
 
@@ -173,9 +180,9 @@ Freezing allows you to keep hold of the coffee sample until you are able to shar
 ------
 There are lots of ways to store coffee, in or out of the freezer. It can be difficult to know which method is best, and this will vary depending upon how long the coffee is being stored. Vacuum sealing with plastic bags currently seems to be the best available option for long term freezer storage, which is why we use it to archive coffees for MCA. However, if you want to give freezing a try, there are alternatives as simple as just putting the unopened bag in the freezer - I have explored some of these options below.
 
-There is a surprising amount of debate about the best way to store coffee but to simplify, it is easiest to consider three main factors that affect how quickly coffee will deteriorate:
+There is a surprising amount of debate about the best way to store coffee, but there three main factors that affect how quickly coffee will deteriorate:
 
-1. Amount of oxygen in the container
+1. Amount of air in the container
 2. Amount of air getting into the container
 3. Temperature
 
@@ -190,19 +197,11 @@ Air contains roughly 20% oxygen and this can either be removed by sucking the ai
 
  Vacuum sealers vary in their performance, and some will pull a more complete vacuum than others. This is indicated by the kPa rating, which is usually between 70-85kPa for domestic vacuum sealers. When vacuum sealing coffee, the plastic wraps tightly around the beans, reducing the amount of air inside the package; however, air will still remain in the gaps that remain in the package. The amount of oxygen remaining in these gaps depends on the kPa rating of the vacuum sealer, but may be ~80% atmospheric levels: this can be calculated using the formula and conversion table on The Engineering Toolbox ([link](https://www.engineeringtoolbox.com/vacuum-converter-d_460.html)). More heavy-duty chamber vacuum sealers can pull out closer to a ~99% vacuum but are much more expensive. 
 
-Displacing air with inert gas (flushing) is a technique used to package coffee bags and can be very effective at removing oxygen without the need to create a vacuum inside the bag: however, I haven’t found an easy way to use this technique at home yet. If anyone has developed any easy method to use to repackage small amounts of coffee with inert gas I would love to hear about it!
-
- Using a vacuum sealer is very popular, but there are alternatives. With each of these options the main factors to consider are:
-
-- How good is the seal?
-- How much air is in the container?
-- For how long will the coffee be stored?
-
 
 
 ### What we use at Manchester Coffee Archive
 
-- Aicok Vacuum Sealer - [£39.99 via Amazon](https://www.amazon.co.uk/Aicok-Automatic-One-Touch-Sealing-Packing/dp/B06XR5RZ83)
+- Aicok Vacuum Sealer - from [Amazon](https://www.amazon.co.uk/Aicok-Automatic-One-Touch-Sealing-Packing/dp/B06XR5RZ83) (£40 - may now be unavailable, but there are many similar models)
 - 12cm and 15cm wide rolls of vacuum sealing plastic - embossed/textured plastic suitable for domestic vacuum sealers (various prices on eBay/Amazon)
 - Permanent marker - to label the bags
 - Chest freezer (only used for coffee)
@@ -219,19 +218,29 @@ Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack
 ## Freezing in reusable containers
 ------
 
-By using reusable containers instead of vacuum sealing plastic it is possible to avoid generating plastic waste while enjoying the benefits of freezing. This is an area that I would like to investigate further before making any firm conclusions on the longevity of coffee stored in this way.
+Vacuum sealing is a very popular option for freezing coffee, but there are alternatives. With each of these options the main factors to consider are:
+
+- How good is the seal (i.e. how much air is likely to leak into the container)?
+- How much excess air is in the container (referred to as headspace)?
+- For how long will the coffee be stored?
+
+By using reusable containers instead of vacuum sealing it is possible to avoid generating plastic waste while enjoying the benefits of freezing. Todd Souter has [suggested](https://www.instagram.com/p/CMNuuMIhY7a/?igshid=4whwqmwkyxkp) that reusable containers (in this case centrifuge tubes) are only suitable for espresso doses, and not filter coffee, but I have not seen the data that supports this and would argue that the suitability could depend on a number of factors, such the duration of freezer storage. 
+
+This is an area that I would like to investigate further before making any firm conclusions on the longevity of coffee stored in this way. In 2020-2021 I have been using 60ml reusable containers routinely to freeze 25g doses for filter coffee and have really enjoyed the flexibility this provides and the quality of the brews.  In the absence of any further research, for now I would cautiously recommend trying reusable containers if you would like to avoid plastic waste and even potentially speed up your freezing workflow.
 
 ### Reusable containers - no vacuum 
  ![60ml and 40ml reusable containers](/assets/img/reusable_64crop.jpg)
 
 Small reusable plastic containers can be used in place of vacuum sealing plastic. Centrifuge tubes have seen widespread use across the world as they generally hold up to 20g of coffee, making them ideally suited for espresso doses. 
 
-Specimen containers are available in a range of sizes through laboratory supplies, eBay and Alibaba: the most useful sizes for single doses of coffee will be 40ml, 60ml and 90ml. Laboratory supplies will often have a high minimum order quantity (usually 100 units), so eBay may be the easiest way to obtain a few for home use: search for "specimen" or "histology" containers and the appropriate size to find the available options. 
+Specimen containers are available in a range of sizes through laboratory supplies, eBay and Alibaba: the most useful sizes for single doses of coffee will be 40ml, 60ml and 90ml. Laboratory supplies will often have a high minimum order quantity (usually 100 units), so eBay may be the easiest way to obtain a few for home use: search for "specimen" or "histology" containers and the appropriate size to find the available options. So far, my favourite containers are [Leakbuster](https://starplexscientific.com/products/specimen.asp) containers from Starplex (very high quality lids) and [these](https://www.globalscientific.co.uk/60ml-histology-containers-biopsy-pots.html) green-lid histology containers (widely available on eBay/Alibaba).
 
-Roasted coffee beans vary widely in density and shape, meaning the capacity of a reusable container will vary depending upon the bean. From testing out various beans and storage containers I have found that 1ml of storage can *generally* hold 0.41-0.45g of light/medium roasted coffee, but this can vary between different container shapes. Sub-Zero Coffee's [packs](https://subzerocoffee.com/collections/shop/products/50ml-test-tubes-pack-of-x25-tubes) of centrifuge tubes have a suggested capacity of 20-22g, and I have tested various light-medium roast coffees with 40, 60 and 90ml containers. Based on this information I have compiled the table below which may use useful in selecting an appropriate container size. I would recommend selecting based on the lowest listed capacity to avoid buying containers that may end up being too small at some point (e.g. when attempting to fit 20g of a Pacamara variety into a 40ml container), but also please note that these capacities could be lower for darker roasts.
+Coffee beans vary widely in density and shape, meaning the capacity of a reusable container will vary depending upon the bean. The roast level also affects capacity: a darker roast will occupy more space than a lighter roast of the same coffee. From testing out various beans and storage containers I have found that 1ml of storage can *generally* hold 0.41-0.45g of light/medium roasted coffee, but this can vary between different container shapes: a long, thin container may hold less than a wider container, particularly for larger beans. 
+
+Sub-Zero Coffee's [packs](https://subzerocoffee.com/collections/shop/products/50ml-test-tubes-pack-of-x25-tubes) of centrifuge tubes have a suggested capacity of 20-22g, and I have tested various light-medium roast coffees with 40, 60 and 90ml containers. Based on this information I have compiled the table below which may use useful in selecting an appropriate container size. I would recommend selecting based on the <u>lowest</u> listed capacity to avoid buying containers that may end up being too small at some point (e.g. when attempting to fit 20g of a Pacamara variety into a 40ml container).
 
 
-| Container | Approximate Capacity |
+| Container | Approximate Capacity (Light-Medium Roast) |
 | ---- | --------------------------------------------------- |
 | 40ml specimen container | 16-20g                                      |
 | 50ml centrifuge tube | 20-22g                                            |
@@ -254,7 +263,14 @@ The [method](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b43114124
 >
 > \-  Aaron Clark - 12/5/2019
 
- 
+
+
+### Flushing with inert gas
+Displacing air in the container with inert gas (flushing) is a technique used widely in retail coffee packaging and can be very effective at removing oxygen without the need to create a vacuum inside the bag: however, I haven’t found an easy way to use this technique at home yet. 
+
+If anyone has developed an inexpensive method to flush small reusable containers  with inert gas I would love to hear about it!
+
+
 
 ### Pressurising with inert gas
 
@@ -397,7 +413,7 @@ If you want to use coffee stored in the freezer, there is no need to let it defr
 
 Todd Souter mentions this in his [guide](https://www.instagram.com/p/Byc3eztBWhY/?igshid=1me8e5orm93qe) to using frozen coffee beans: he suggests a setting 2-notches coarser on an EK43 for espresso. This adjustment will vary depending on grinder though, so it is worth testing it out and making a note of the adjustment needed. 
 
-Other brew methods, such as v60 or Aeropress, are more forgiving to grind-size so there may not be any noticeable difference when using the same setting used for room temperature. It might be worth trying a slightly coarser setting too though, if only to compare any difference in taste.
+Other brew methods, such as v60 or Aeropress, are more forgiving to grind size variation so there may not be any noticeable difference when using the same setting used for room temperature. [Zaparz Mnie](https://www.instagram.com/zaparzmnie) have suggested to me that using a 20 micron coarser grind setting is required (using a Mazzer ZM) when grinding from frozen for filter brewing. Personally, I have not tested this enough to make any firm conclusions: I tend to just use the same grind setting for room temperature or frozen beans when using  a Lagom P64 grinder. 
 
 
 
@@ -480,17 +496,19 @@ Here in Manchester, the local recycling collection does not recycle PA or PA/PE 
 
 
 
-It’s also worth noting that "compostable packaging" (often used for coffee bags) may also not be suitable for green waste collection, so it is always worth checking with local guidelines before attempting to recycle any packaging.
+It is frustrating that vacuum sealing plastic is not more widely recycled, but it is better to be aware of this issue that fall victim to "wishcycling", a term I first heard of from [Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=Fiu9GSOmt8E).
 
  
 
 ### Biodegradable vacuum sealing bags
 
-Biodegradable vacuum sealing plastic is available, although I have not tried it myself. One example is [Eco Pouch](https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/), produced by The Vacuum Pouch Company, based in Bury, UK. Thanks to Ryan Woodgate for the suggestion.
+Biodegradable vacuum sealing bags are available, although I have not tried these myself. One example is [Eco Pouch](https://www.thevacuumpouch.co.uk/shop/vacuum-pouches-packaging-bags/biodegradable-vacuum-pouch/eco-pouch-300x300mm-biodegradable-vacuum-pouches/), produced by The Vacuum Pouch Company, based in Bury, UK. Thanks to Ryan Woodgate for the suggestion.
 
- The guidance is that these bags are not suitable for storing liquid, and can be used for up to one year. Unfortunately the manufacturers have stated that Eco Pouch is not suitable for most domestic vacuum sealers, and requires a "snorkel" part which is inserted into the bag when vacuum sealing.
+ The guidance is that these bags are not suitable for storing liquid, and can be used for up to one year. Unfortunately the manufacturers have stated that Eco Pouch is not suitable for most domestic vacuum sealers, and requires a "snorkel" part which is inserted into the bag when vacuum sealing. 
 
+Vacuum sealers with a "snorkel" can be difficult to find, and I have never used one, but the [SINBO DZ-280](https://www.sealersales.com/sinbo-vacuum-sealer) is an example. In addition to biodegradable bags, this attachment also allows you to use non-embossed plastic, which opens up the opportunity to use a wider variety of packaging material.
 
+When disposing of "biodegradable" packaging, it is important to check your local recycling guidance thoroughly as many items purported to be biodegradable may in fact not be suitable for local composting facilities. For example, Recycle for Greater Manchester ([2018](https://recycleforgreatermanchester.com/blog/the-truth-about-compostable-packaging/)) advise that <u>only</u> packaging marked with the [EN13432 seedling logo](https://docs.european-bioplastics.org/2016/publications/EUBP_Guidelines_Seedling_logo.pdf) is suitable for local composting facilities, and is the only type of biodegradable packaging that should be put in green waste bins.
 
 
 
@@ -544,6 +562,10 @@ Clark, A. (Botany Coffee) (2019) - Instagram Chat - May 2019
 
 Gagné, J. (2019)  [Some Strategies to Keep Your Coffee Fresh](https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/)
 
+HBO (2021) [Plastics: Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=Fiu9GSOmt8E)
+
+Hive Coffee Project (2020) [Hive Coffee Project: YouTube Channel](https://www.youtube.com/channel/UCXe2_BmOtntzp2fUK3d4GPA)
+
 Hoffman, J. (2019) [Weird Coffee Science: Microwave Your Coffee Beans](https://www.youtube.com/watch?v=yXCboVCDHLw)
 
 Hoffmann, J. (2020)  [The Best Coffee Storage Canister](https://www.youtube.com/watch?v=K0JWuhE8a-w)
@@ -557,6 +579,8 @@ Motoyoshi, U. (2019) The @wastingcoffee Guide to Not Wasting Coffee
 North, M. (2020) Instagram Story re: freezing 23-3-2020
 
 Ona Coffee (2018)  [New Sydney cafe to feature frozen coffee beans on menu](https://onacoffee.com.au/news/new-sydney-cafe-to-feature-frozen-coffee-beans-on-menu/)
+
+Ona Coffee (2020) [Frozen Coffee Guide – ONA](https://onacoffee.com.au/frozen-coffee/)
 
 Perger, M. (2019) [Coffee Ad Astra Telegram Channel Chat](https://t.me/s/coffeeadastra)
 
@@ -576,8 +600,14 @@ Uman, E. et al (2016) [The effect of bean origin and temperature on grinding roa
 
 Wikipedia (2019) [Arrhenius equation](https://en.wikipedia.org/wiki/Arrhenius_equation)
 
+Zaparz Mnie (2021) [Zaparz Mnie](https://www.instagram.com/zaparzmnie)
+
+
 
 ## Changelog
+
 ------
+
+08/05/2021 - Small updates, added info re: reusable containers, grind settings and PSD benefits etc.
 
 25/04/2021 - Major update, lots of small changes - more detail relating to reusable containers
