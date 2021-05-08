@@ -6,7 +6,7 @@ share-description: This is an attempt to collate all the currently available inf
 ---
  Tom Finch - Co-founder/Archivist, Manchester Coffee Archive
 
-_Updated: 25/04/2021_
+_Updated: 08/05/2021_
 
 
 ![MCA Freezer - several vacuum sealed bags of coffee](/assets/img/mca_wwk_freezertop_2000px.jpg)
@@ -65,7 +65,7 @@ If you find this guide useful, then feel free to show your appreciation by buyin
   * [Plastic vacuum sealing bags](#plastic-vacuum-sealing-bags)
   * [Recycling options for vacuum sealing plastic](#recycling-options-for-vacuum-sealing-plastic)
   * [Biodegradable vacuum sealing bags](#biodegradable-vacuum-sealing-bags)
-- [Appendix I - Areas for further research](#appendix-i---areas-for-further-research)
+- [Appendix - Areas for further research](#appendix---areas-for-further-research)
   * [Experiments MCA would like to do](#experiments-mca-would-like-to-do)
   * [Areas for further research](#areas-for-further-research)
 - [Bibliography](#bibliography)
@@ -233,7 +233,7 @@ This is an area that I would like to investigate further before making any firm 
 
 Small reusable plastic containers can be used in place of vacuum sealing plastic. Centrifuge tubes have seen widespread use across the world as they generally hold up to 20g of coffee, making them ideally suited for espresso doses. Single dose containers  designed specifically for coffee (including freezer storage) are also produced by manufacturers such as [Weber Workshops.](https://www.instagram.com/p/CM_ukt6hbEL/?igshid=iabj96xk6j5s)
 
-Specimen containers are widely available in a range of sizes through laboratory supplies, eBay and Alibaba: the most useful sizes for single doses of coffee will be 40ml, 60ml and 90ml. Laboratory supplies will often have a high minimum order quantity (usually 100 units), but the unit cost is very low. eBay may be the easiest way to obtain a few for home use: search for "specimen" or "histology" containers and the appropriate size to find the available options. So far, my favourite containers are [Leakbuster](https://starplexscientific.com/products/specimen.asp) containers from Starplex (very high quality lids) and [these](https://www.globalscientific.co.uk/60ml-histology-containers-biopsy-pots.html) green-lid histology containers (available on eBay/Alibaba).
+Specimen containers are widely available in a range of sizes through laboratory supplies, eBay and Alibaba: the most useful sizes for single doses of coffee will be 40ml, 60ml and 90ml. Laboratory supplies will often have a high minimum order quantity (usually 100 units), but the unit cost is very low. eBay may be the easiest way to obtain a few for home use: search for "specimen" or "histology" containers and the appropriate size to find the available options. So far, my favourite containers are [Leakbuster](https://starplexscientific.com/products/specimen.asp) containers from Starplex (very high quality lids) and [these](https://www.globalscientific.co.uk/60ml-histology-containers-biopsy-pots.html) green-lid histology containers (available on eBay/Alibaba) - see above.
 
 Coffee beans vary widely in density and shape, meaning the capacity of a reusable container will vary depending upon the bean. The roast level also affects capacity: a darker roast will occupy more space than a lighter roast of the same coffee. From testing out various beans and storage containers I have found that 1ml of storage can *generally* hold 0.41-0.45g of light/medium roasted coffee, but this can vary between different container shapes: a long, thin container may hold less than a wider container, particularly for larger beans. 
 
@@ -255,7 +255,7 @@ One thing to note when choosing a reusable container: be aware that some type of
 
 Reusable containers with valves for attaching a vacuum sealer may appear promising but they are not without issues. The effectiveness of these contained will be dependent on how well the seal and valve maintains the vacuum within the container over time. When I have tried zip-lock bags with valves I have found that air sometimes leaks back into the bag within a few days, particularly if the bag has been reused.
 
-The [method](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240) used by Aaron Clark at Botany Coffee is a promising solution for cafes and avoids the use of disposable plastic. A vacuum degassing chamber and small glass jars are used to freeze individual doses of coffee. Aaron Clark has stated that the vacuum appears to be maintained for around **3 months** using this method, which could therefore be viewed as an appropriate timeframe to used this storage method:
+The [method](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240) used by Aaron Clark at Botany Coffee is a promising solution for cafes and avoids the use of disposable plastic. A vacuum degassing chamber and small glass jars are used to freeze individual doses of coffee. Aaron Clark has stated that the vacuum appears to be maintained for around 3 months using this method, which could therefore be viewed as an appropriate timeframe to used this storage method:
 
  
 
@@ -450,7 +450,7 @@ Todd Souter (Barista Trainer) recommends freezing coffee within 10 minutes of va
 
  
 
-This is an area that I'd like to gather more data on; however, for now the system I am following is to only vacuum seal when I am ready to put coffee in the freezer. 
+This is an area where opinions vary, and I have not investigated this myself: for now, I tend to only vacuum seal when I am going to then put the coffee in the freezer, but wouldn't be too concerned about temporarily storing the coffee at room temperature once sealed. As ever, I would be very interested to hear of any experiments that may have conducted to investigate this issue.
 
 
 
@@ -513,7 +513,7 @@ When disposing of "biodegradable" packaging, it is important to check your local
 
 
 
-## Appendix I - Areas for further research
+## Appendix - Areas for further research
 ------
 
 
