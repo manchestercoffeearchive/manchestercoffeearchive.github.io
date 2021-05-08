@@ -169,7 +169,7 @@ I would be very interested to hear of any experiments carried out to investigate
 
 Freezing allows you to keep hold of the coffee sample until you are able to share it with us at one of our events.
 
-More information about how to contribute coffee to MCA can be found [here](../contribute/index.html). ❤️
+More information about how to contribute coffee to MCA can be found [here](./contribute/index.html). ❤️
 
 
 
