@@ -231,9 +231,9 @@ This is an area that I would like to investigate further before making any firm 
 ### Reusable containers - no vacuum 
  ![60ml and 40ml reusable containers](/assets/img/reusable_64crop.jpg)
 
-Small reusable plastic containers can be used in place of vacuum sealing plastic. Centrifuge tubes have seen widespread use across the world as they generally hold up to 20g of coffee, making them ideally suited for espresso doses. 
+Small reusable plastic containers can be used in place of vacuum sealing plastic. Centrifuge tubes have seen widespread use across the world as they generally hold up to 20g of coffee, making them ideally suited for espresso doses. Single dose containers  designed specifically for coffee (including freezer storage) are also produced by manufacturers such as [Weber Workshops.](https://www.instagram.com/p/CM_ukt6hbEL/?igshid=iabj96xk6j5s)
 
-Specimen containers are available in a range of sizes through laboratory supplies, eBay and Alibaba: the most useful sizes for single doses of coffee will be 40ml, 60ml and 90ml. Laboratory supplies will often have a high minimum order quantity (usually 100 units), so eBay may be the easiest way to obtain a few for home use: search for "specimen" or "histology" containers and the appropriate size to find the available options. So far, my favourite containers are [Leakbuster](https://starplexscientific.com/products/specimen.asp) containers from Starplex (very high quality lids) and [these](https://www.globalscientific.co.uk/60ml-histology-containers-biopsy-pots.html) green-lid histology containers (widely available on eBay/Alibaba).
+Specimen containers are widely available in a range of sizes through laboratory supplies, eBay and Alibaba: the most useful sizes for single doses of coffee will be 40ml, 60ml and 90ml. Laboratory supplies will often have a high minimum order quantity (usually 100 units), but the unit cost is very low. eBay may be the easiest way to obtain a few for home use: search for "specimen" or "histology" containers and the appropriate size to find the available options. So far, my favourite containers are [Leakbuster](https://starplexscientific.com/products/specimen.asp) containers from Starplex (very high quality lids) and [these](https://www.globalscientific.co.uk/60ml-histology-containers-biopsy-pots.html) green-lid histology containers (available on eBay/Alibaba).
 
 Coffee beans vary widely in density and shape, meaning the capacity of a reusable container will vary depending upon the bean. The roast level also affects capacity: a darker roast will occupy more space than a lighter roast of the same coffee. From testing out various beans and storage containers I have found that 1ml of storage can *generally* hold 0.41-0.45g of light/medium roasted coffee, but this can vary between different container shapes: a long, thin container may hold less than a wider container, particularly for larger beans. 
 
@@ -559,6 +559,8 @@ Cameron, M. (2017)  [Freeze Beans not Beans](https://strivefortone.com/2017/01/0
 Cameron, M., Chapman, M., Woodgate R., Mackie, A.G. (2019) IG Chat Discussion 13-21/2/2019- @wayfarerbarista, @onacoffee, @angus_gus_mackie, @1914coffeecompany, @strivefortone
 
 Clark, A. (Botany Coffee) (2019) - Instagram Chat - May 2019
+
+Colonna-Dashwood, Maxwell (2021) [Benefits of Freezing Coffee. Research and tips](https://www.youtube.com/watch?v=C1ebtejILZs)
 
 Gagné, J. (2019)  [Some Strategies to Keep Your Coffee Fresh](https://coffeeadastra.com/2019/03/26/some-strategies-to-keep-your-coffee-fresh/amp/)
 
