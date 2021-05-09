@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What We Know About Freezing Coffee Beans
-share-img: "/assets/img/mca_wwk_freezertop_2000px.jpg"
+share-img: /assets/img/mca_wwk_freezertop_2000px.jpg
 share-description: This is an attempt to collate all the currently available information on the topic of freezing roasted coffee in order to preserve it for long periods of time. Freezing allows MCA to exist, so it has therefore been important for us to investigate best practices.
 ---
  Tom Finch - Co-founder/Archivist, Manchester Coffee Archive
