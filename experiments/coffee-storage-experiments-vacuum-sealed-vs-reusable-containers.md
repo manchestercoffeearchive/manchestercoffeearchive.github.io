@@ -1,4 +1,11 @@
-# Coffee Storage Experiments: Vacuum Sealed Packages vs. Reusable Containers
+---
+layout: page
+title: Coffee Storage Experiments: Vacuum Sealed Packages vs. Reusable Containers
+share-img: /assets/img/mca_wwk_freezertop_2000px.jpg
+share-description: An experiment to compare freezer-stored vacuum sealed coffee with coffee stored in a similarly sized, sealed container.
+---
+
+# 
 
 
 
@@ -10,7 +17,7 @@
 
 ### Aim
 
-To determine if there is any perceptible difference in flavour between vacuum sealed coffee, and coffee stored in a similarly sized, sealed container. The eventual aim is to determine if reusable containers can be used as an alternative to vacuum-sealing for storing coffee in a freezer for long periods of time.
+To determine if there is any perceptible difference in flavour between vacuum sealed coffee and coffee stored in a similarly sized, sealed container, where both are stored in a freezer for a period of 6 months. The eventual aim is to determine if reusable containers can be used as an alternative to vacuum-sealing for storing coffee in a freezer for long periods of time.
 
  Note: the experiment method can be easily adapted to test another variable in coffee storage, by changing how Coffee A and B are defined.
 
