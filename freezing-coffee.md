@@ -234,7 +234,7 @@ This is an area that I would like to investigate further before making any firm 
 ### Reusable containers - no vacuum 
  ![60ml and 40ml reusable containers](/assets/img/reusable_64crop.jpg)
 
-Small reusable plastic containers can be used in place of vacuum sealing plastic. Centrifuge tubes have seen widespread use across the world as they generally hold up to 20g of coffee, making them ideally suited for espresso doses. Single dose containers  designed specifically for coffee (including freezer storage) are also produced by manufacturers such as [Weber Workshops.](https://www.instagram.com/p/CM_ukt6hbEL/?igshid=iabj96xk6j5s)
+Small reusable plastic containers can be used in place of vacuum sealing plastic. Centrifuge tubes have seen widespread use across the world as they generally hold up to 20g of coffee, making them ideally suited for espresso doses. Single dose containers  designed specifically for coffee (including freezer storage) are also produced by manufacturers such as Weber Workshops, who sell [Bean Cellars](https://weberworkshops.com/products/bean-cellar-commercial) with 22-30g capacity (plastic version) and 18-22g capacity (glass version).
 
 Specimen containers are widely available in a range of sizes through laboratory supplies, eBay and Alibaba: the most useful sizes for single doses of coffee will be 40ml, 60ml and 90ml. Laboratory supplies will often have a high minimum order quantity (usually 100 units), but the unit cost is very low. eBay may be the easiest way to obtain a few for home use: search for "specimen" or "histology" containers and the appropriate size to find the available options. So far, my favourite containers are [Leakbuster](https://starplexscientific.com/products/specimen.asp) containers from Starplex (very high quality lids) and [these](https://www.globalscientific.co.uk/60ml-histology-containers-biopsy-pots.html) green-lid histology containers (available on eBay/Alibaba) - see above.
 
@@ -610,6 +610,7 @@ Zaparz Mnie (2021) [Zaparz Mnie](https://www.instagram.com/zaparzmnie)
 ## Changelog
 
 ------
+14/05/2021 - Weber Workshops bean cellar info added.
 
 08/05/2021 - Small updates, added info re: reusable containers, grind settings and PSD benefits etc.
 
