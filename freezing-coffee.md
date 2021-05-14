@@ -6,7 +6,7 @@ share-description: MCA presents a summary of the benefits of freezing coffee, wo
 ---
  Tom Finch - Co-founder/Archivist, Manchester Coffee Archive
 
-_Updated: 09/05/2021_
+_Updated: 14/05/2021_
 
 
 ![MCA Freezer - several vacuum sealed bags of coffee](/assets/img/mca_wwk_freezertop_2000px.jpg)
