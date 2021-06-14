@@ -8,12 +8,6 @@ share-img: /assets/img/reusable_64crop.jpg
 tags: [experiment, storage]
 ---
 
----
-layout: page
-title: Coffee Storage Experiments: Vacuum Sealed Packages vs. Reusable Containers
-share-img: /assets/img/mca_wwk_freezertop_2000px.jpg
-share-description: An experiment to compare freezer-stored vacuum sealed coffee with coffee stored in a similarly sized, sealed container.
----
 Tom Finch, Co-founder/Archivist - Manchester Coffee Archive
 
 
