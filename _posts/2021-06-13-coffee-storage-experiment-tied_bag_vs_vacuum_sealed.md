@@ -45,8 +45,10 @@ Taster 2 (Amy) - 2/6 Coffee B sampled correctly identified
 
 ## Discussion
 
-In order to interpret the results, I used the Coffee Ad Astra's Wolfram|Alpha Cupping Widget, featured on his ["Statistics and Blind Tasting"](https://coffeeadastra.com/2019/01/17/statistics-and-blind-tasting/) blog post, to generate the N-sigma significance for each result. This was then converted to a confidence value.<br/>
+In order to interpret the results, I used the Coffee Ad Astra's Wolfram|Alpha Cupping Widget, featured on his ["Statistics and Blind Tasting"](https://coffeeadastra.com/2019/01/17/statistics-and-blind-tasting/) blog post, to generate the N-sigma significance for each result. This was then converted to a confidence value.  
 
+
+#### Statistical Significance of Results:
 
 | **Number of  Intruder Cups Identified** | **Number of  “Failures”** | **N-sigma  significance (via Coffee Ad Astra)** | **Equivalent  Confidence Value** | **What this  means...**                                      |
 | --------------------------------------- | ------------------------- | :---------------------------------------------: | :------------------------------: | ------------------------------------------------------------ |
