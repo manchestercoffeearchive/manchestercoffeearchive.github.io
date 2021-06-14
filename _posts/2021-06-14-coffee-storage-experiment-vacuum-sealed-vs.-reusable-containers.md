@@ -191,9 +191,7 @@ An example result sheet is shown below, and there is a blank version [here](/upl
 | **Intruder Coffee  Identified?**                     | *Y*            | *Y*            | *Y*            | *N*          | *N*            | *Y*          |
 | **Total Number of Intruder Coffees Identified:** 4/6 |                |                |                |              |                |              |
 
-
-< /br>
- ### Results ###
+### Results
 
 Once all three rounds of tastings have been completed, combine the results to give a total "number of intruder cups identified". The significance of this value can then be interpreted.
 
