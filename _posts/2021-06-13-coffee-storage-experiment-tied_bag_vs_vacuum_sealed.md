@@ -47,6 +47,7 @@ Taster 2 (Amy) - 2/6 Coffee B sampled correctly identified
 
 In order to interpret the results, I used the Coffee Ad Astra's Wolfram|Alpha Cupping Widget, featured on his ["Statistics and Blind Tasting"](https://coffeeadastra.com/2019/01/17/statistics-and-blind-tasting/) blog post, to generate the N-sigma significance for each result. This was then converted to a confidence value.
 
+
 | **Number of  Intruder Cups Identified** | **Number of  “Failures”** | **N-sigma  significance (via Coffee Ad Astra)** | **Equivalent  Confidence Value** | **What this  means...**                                      |
 | --------------------------------------- | ------------------------- | :---------------------------------------------: | :------------------------------: | ------------------------------------------------------------ |
 | 0                                       | 6                         |                        0                        |                0%                | No significant support for  the hypothesis that Coffee A tastes different to Coffee B. Would expect up to  2/6 from chance alone (1/3 chance for each triangle test) |
