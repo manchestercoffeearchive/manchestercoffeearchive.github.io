@@ -6,7 +6,7 @@ share-description: MCA presents a summary of the benefits of freezing coffee, wo
 ---
  Tom Finch - Co-founder/Archivist, Manchester Coffee Archive
 
-_Updated: 14/05/2021_
+_Updated: 15/06/2021_
 
 
 ![MCA Freezer - several vacuum sealed bags of coffee](/assets/img/mca_wwk_freezertop_2000px.jpg)
@@ -209,13 +209,7 @@ Air contains roughly 20% oxygen and this can either be removed by sucking the ai
 - Permanent marker - to label the bags
 - Chest freezer (only used for coffee)
 
-I tend to buy unbranded 12cm and 15cm wide rolls of vacuum sealing plastic from eBay sellers, normally buying 5 rolls at a time. Local and online availability may vary depending on where you are located, but search “12/15cm vacuum roll” and you should see a few options.
-
-Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack bags found on [Amazon](https://www.amazon.co.uk/10cm-15cm-Vacuum-Sealer-Embossed/dp/B015A7PHDM); however, these can potentially work out more expensively. For small portions of coffee I have found that preparing bags from a roll myself was roughly a third of the cost compared to purchasing individual bags (when buying 100).
-
-
-
-
+Coffees are frozen at around 10 days past roast, where possible. Samples are labelled with the freeze date and basic information about the coffee (the rest is on a spreadsheet). Since the coffees are transported offsite, we decant the required amount into a small container and re-seal and freeze the remaining coffee. 
 
 
 ## Freezing in reusable containers
@@ -359,14 +353,11 @@ Using this method means the bag itself cannot be reused as it is cut up, but rem
 
 This is what we do for all the coffees contributed to MCA for tasting events throughout the year. The same process could be used for preparing single-dose bags for espresso or filter coffee.
 
- 
+I tend to buy unbranded 12cm and 15cm wide rolls of vacuum sealing plastic from eBay sellers, normally buying 5 rolls at a time. Local and online availability may vary depending on where you are located, but search “12/15cm vacuum roll” and you should see a few options.
 
-- 13g/26g portions of coffee in 10.5cm x 12cm prepared bags (cut from a 12cm roll of vacuum sealing plastic)
-- Frozen at around 10 days past roast, where possible.
-- Labelled with freeze dates, plus basic information about the coffee (the rest is on a spreadsheet)
-- Since the coffees are transported offsite, we decant the required amount into a small container and re-seal and freeze the remaining coffee.
+Alternatively, individual bags can be purchased, such as the 10x15cm Fresherpack bags found on [Amazon](https://www.amazon.co.uk/10cm-15cm-Vacuum-Sealer-Embossed/dp/B015A7PHDM); however, these can potentially work out more expensively. For small portions of coffee I have found that preparing bags from a roll myself was roughly a third of the cost compared to purchasing individual bags (when buying 100).
 
-
+As a reference, at MCA we seal 13-26g samples of coffee in 10.5cm x 12cm prepared bags (cut from a 12cm roll of vacuum sealing plastic).
 
 
   ![Sealing a bag - showing 1-2cm gap required](/assets/img/wwk_the_edge.jpg)
@@ -610,6 +601,8 @@ Zaparz Mnie (2021) [Zaparz Mnie](https://www.instagram.com/zaparzmnie)
 ## Changelog
 
 ------
+15/05/2021 - Moved single dose info around a bit
+
 14/05/2021 - Weber Workshops bean cellar info added.
 
 08/05/2021 - Small updates, added info re: reusable containers, grind settings and PSD benefits etc.
