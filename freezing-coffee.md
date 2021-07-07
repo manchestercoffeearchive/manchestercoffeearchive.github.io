@@ -546,7 +546,7 @@ Bean Scene (2018)  [The big freeze: why there’s no longer a barrier to coffee 
 
 Botany Coffee (2018)  - [Down the Vacuum Sealing Rabbit Hole](https://medium.com/e/down-the-vacuum-sealing-rabbit-hole-7b431141240)
 
-Cameron, M. (2017)  [Freeze Beans not Beans](https://strivefortone.com/2017/01/03/freeze-beans-not-peas/)
+Cameron, M. (2017)  [Freeze Beans not Peas](https://strivefortone.com/2017/01/03/freeze-beans-not-peas/)
 
 Cameron, M., Chapman, M., Woodgate R., Mackie, A.G. (2019) IG Chat Discussion 13-21/2/2019- @wayfarerbarista, @onacoffee, @angus_gus_mackie, @1914coffeecompany, @strivefortone
 
