@@ -17,7 +17,7 @@ _Updated: 07/07/2021_
 ------
 This is an attempt to collate all the currently available information on the topic of freezing roasted coffee in order to preserve it for long periods of time. Freezing allows MCA to exist, so it has therefore been important for us to investigate best practices.
 
-I will focus on my own experience as a coffee enthusiast and MCA archivist. I welcome input from anyone willing to share their experiences, either at home or in a professional setting.
+I will focus on my own experience as a coffee enthusiast and MCA archivist; however, I welcome input from anyone willing to share their experiences, either at home or in a professional setting.
 
 I am by no means an expert in freezing coffee: I have researched and learnt from the work of some far better qualified individuals, referenced in this guide. I think there is still much that could be explored in the world of coffee freezing, so if you would like to get in touch to share your own findings, or if you spot any inaccuracies, please drop me an [email](mailto:tom@manchestercoffeearchive.com) or a [DM](https://www.instagram.com/manchestercoffeearchive).
 
