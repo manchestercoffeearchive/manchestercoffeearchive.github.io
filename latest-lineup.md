@@ -83,10 +83,10 @@ share-description: Coffee info from MCA's latest tasting
 **MCA Code**	MK0004  
 **Roaster**	Gardelli  
 **Roaster Location**	Forli, Italy  
-**Coffee Name**	Hartmann Geisha (Ender's lot)  
+**Coffee Name**	Hartmann Gesha (Ender's lot)  
 **Producer/Farm/Region**	Hartmann Family; Finca Ojo de Agua  
 **Country**	Panama  
-**Variety**	Geisha  
+**Variety**	Gesha  
 **Process**	Natural  
 **Altitude (masl)**	1700  
 **Tasting Notes**	Coffee blossom / Mango / Pineapple / Passionfruit / Lemon / Peach   
