@@ -12,7 +12,7 @@ share-description: Coffee info from MCA's latest tasting
 **Roaster**	Climpson & Sons  
 **Roaster Location**	London, UK  
 **Coffee Name**	Las Margaritas  
-**Producer/Farm/Region**	Valle Del Cauca    
+**Producer/Farm/Region**	Cafe Granja La Esperanza, Valle Del Cauca    
 **Country**	Colombia  
 **Variety**	Sudan Rume  
 **Process**	Natural  
@@ -30,7 +30,7 @@ share-description: Coffee info from MCA's latest tasting
 **Roaster**	Standout Coffee  
 **Roaster Location**	Stockholm, Sweden  
 **Coffee Name**	Cafe Granja La Esperanza - Natural Sudan Rume (Slurp Rare #10)  
-**Producer/Farm/Region**	Farm Owner: Rigoberto Herrera; La Esperanza; Valle de Cauca  
+**Producer/Farm/Region**	Farm Owner: Rigoberto Herrera; Cafe Granja La Esperanza; Valle de Cauca  
 **Country**	Colombia  
 **Variety**	Sudan Rume  
 **Process**	Natural  
