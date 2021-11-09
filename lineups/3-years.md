@@ -4,7 +4,7 @@ title: MCA - 3 Years in the Freezer
 share-img: /assets/img/mcalogo_512_noedge.png
 share-description: Line up from MCA's tasting at Manchester Coffee Festival 7/11/21
 ---
-![MCA - Three Years In The Freezer](./assets/img/mca10_poster_2000px.png)
+![MCA - Three Years In The Freezer](../assets/img/mca10_poster_2000px.png)
 
 #### **Coffee Number**	1
 
