@@ -11,7 +11,7 @@ Events Currently on hold - join our [mailing list](http://eepurl.com/gaXOT5) or 
 ## Past Events
 
 ![MCA - Three Years In The Freezer](/assets/img/mca10_poster_2000px.png)
-
+[Line up](/lineups/3-years/)
 
 ![MCA#9 - BIG BEANS](/assets/img/events/mca09poster.jpg) 
 Poster by [Wonder Room Studio](https://wwwonderroom.com/)
