@@ -5,11 +5,13 @@ title: Events
 
 ## Upcoming Events
 
-Events Currently on hold - follow us on [Instagram](https://www.instagram.com/manchestercoffeearchive), [Facebook](https://www.facebook.com/manchestercoffeearchive) or [Eventbrite](https://manchestercoffeearchive.eventbrite.com/) for updates.
-
+Events Currently on hold - join our [mailing list](http://eepurl.com/gaXOT5) or follow us on [Instagram](https://www.instagram.com/manchestercoffeearchive) or [Facebook](https://www.facebook.com/manchestercoffeearchive) for updates.
 
 
 ## Past Events
+
+![MCA - Three Years In The Freezer](/assets/img/mca10_poster_2000px.png)
+
 
 ![MCA#9 - BIG BEANS](/assets/img/events/mca09poster.jpg) 
 Poster by [Wonder Room Studio](https://wwwonderroom.com/)
