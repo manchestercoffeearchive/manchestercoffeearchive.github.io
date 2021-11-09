@@ -5,7 +5,7 @@ title: Events
 
 ## Upcoming Events
 
-Events Currently on hold - join our [mailing list](http://eepurl.com/gaXOT5) or follow us on [Instagram](https://www.instagram.com/manchestercoffeearchive) or [Facebook](https://www.facebook.com/manchestercoffeearchive) for updates.
+Events currently on hold - join our [mailing list](http://eepurl.com/gaXOT5) or follow us on [Instagram](https://www.instagram.com/manchestercoffeearchive) or [Facebook](https://www.facebook.com/manchestercoffeearchive) for updates.
 
 
 ## Past Events
