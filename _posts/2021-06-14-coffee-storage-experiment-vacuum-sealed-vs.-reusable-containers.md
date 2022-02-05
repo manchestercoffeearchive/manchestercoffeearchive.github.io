@@ -3,7 +3,7 @@ layout: post
 title: Experiment method - vacuum sealed bags vs. reusable containers
 subtitle: MCA propose a method for comparing freezer storage methods
 cover-img: /assets/img/reusable_64crop.jpg
-thumbnail-img: /assets/img/reusable_64crop.jpg
+thumbnail-img: ""
 share-img: /assets/img/reusable_64crop.jpg
 tags: [experiment, storage]
 ---
