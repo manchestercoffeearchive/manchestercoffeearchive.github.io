@@ -6,7 +6,7 @@ share-description: MCA presents a summary of the benefits of freezing coffee, wo
 ---
  Tom Finch - Co-founder/Archivist, Manchester Coffee Archive
 
-_Updated: 07/07/2021_
+_Updated: 16/04/2022_
 
 
 ![MCA Freezer - several vacuum sealed bags of coffee](/assets/img/mca_wwk_freezertop_2000px.jpg)
@@ -162,11 +162,7 @@ Freezing makes fear of missing out on limited-run coffees a thing of the past. I
 
 The work of Christopher Hendon at his team, published in [Nature](https://www.nature.com/articles/srep24483) goes into great detail about the effect of temperature upon grind particle distribution and grind consistency. An [explanation](https://baristahustle.com/blog/the-grinder-paper-explained/) of the findings was posted on Barista Hustle, which makes some recommendations based on the paper.
 
-I generally only brew filter coffee, and haven't noticed any particular difference in flavour when using frozen beans; however, it may be that these difference are more noticeable with espresso... or people with a more refined palate may notice differences that I have not. With a well organised blind tasting it would be possible to investigate this effect further, but for now I use freezing as a way to extend the lifespan of coffee, rather than to attempt to improve it.
 
-I would be very interested to hear of any experiments carried out to investigate this area, please get in contact if you have any data you are able to share!
-
- 
 
 ### Contribute coffee to MCA
 
@@ -196,10 +192,20 @@ Reducing temperature reduces how fast the coffee will age, so the freezer takes 
 ## Vacuum sealing and freezing
 ----
 
-Air contains roughly 20% oxygen and this can either be removed by sucking the air out displacing it with an inert gas (such as carbon dioxide or argon). Oxygen causes oxidation, and therefore degradation of coffee, and so ideally needs to be removed as much as possible from the coffee storage. Vacuum sealers are a simple way of removing air from a bag of coffee prior to sealing.
+Air contains roughly 20% oxygen and this can either be removed by sucking the air out displacing it with an inert gas (such as carbon dioxide or argon). Oxygen causes oxidation, and therefore degradation of coffee, and so ideally needs to be removed as much as possible from the coffee storage. Vacuum sealers are a simple way of removing air from a bag of coffee prior to sealing. 
 
- Vacuum sealers vary in their performance, and some will pull a more complete vacuum than others. This is indicated by the kPa rating, which is usually between 70-85kPa for domestic vacuum sealers. When vacuum sealing coffee, the plastic wraps tightly around the beans, reducing the amount of air inside the package; however, air will still remain in the gaps that remain in the package. The amount of oxygen remaining in these gaps depends on the kPa rating of the vacuum sealer, but may be ~80% of atmospheric levels: this can be calculated using the formula and conversion table on The Engineering Toolbox ([link](https://www.engineeringtoolbox.com/vacuum-converter-d_460.html)). Heavy-duty chamber vacuum sealers can pull out closer to a 99% vacuum but these are much more expensive than domestic sealers. 
+Vacuum sealers vary in their performance, and some will pull a more complete vacuum than others. This is indicated by the kPa rating, which is usually between 70-85kPa for domestic vacuum sealers. When vacuum sealing coffee, the plastic wraps tightly around the beans, reducing the amount of air inside the package; however, air will still remain in the gaps that remain in the package. The amount of oxygen remaining in these gaps depends on the kPa rating of the vacuum sealer, but may be ~80% of atmospheric levels: this can be calculated using the formula and conversion table on The Engineering Toolbox ([link](https://www.engineeringtoolbox.com/vacuum-converter-d_460.html)). Heavy-duty chamber vacuum sealers can pull out closer to a 99% vacuum but these are much more expensive than domestic sealers. 
 
+Cutting out the original packaging label and put it inside the bag with the coffee is an easy way to identify the coffee, alternatively a permenant marker can be used, just make sure it is waterproof.
+  
+Most domestic vacuum sealers require **embossed/textured** plastic and will not work with smooth bags. Make sure the plastic roll/bags you buy are suitable before you buy in bulk. 
+
+Vacuum sealing bags come in a variety of sizes, so you will need to pick an appropriate size for your needs - sometimes vacuum sealers come with a few sample bags which can be useful for this purpose. Vacuum sealing plastic is also available on a roll, which can be used for making your own perfectly sized bags; however, you will need to create a bag each time by sealing across the roll. I have found 20cm x15cm wide bags, made from a 15cm wide roll, work well for 100g portions as it allows the bag to be flattened fully.
+
+If you are making your own smaller bags, note that sometimes the vacuuming process will fail if there is not an original edge on the left and right side when vacuum sealing the bag (see examples below). The wide, flat surface of the original edges enable the vacuum sealer to create a seal when vacuuming the bag, and without this it sometimes will not work. When I have been able to pull a vacuum on a bag with heat seals on the left and right side, I have found that some of these bags leaked over time, indicated by the plastic becoming loose. This may be a rare occurrence, but it is something to watch out for if you are making your bags in this way. To minimise potential leaking, I use 12cm and 15cm width rolls for all my freezing, as it provides good flexibility, at the expense of a little bit of time spent making bags.
+
+ ![Heat-sealed vs original edges](/assets/img/heat_vs_originalseal.JPG)
+*Left: heat-sealed edges on left and right side - Right: original edges on left and right side*
 
 
 ### What we use at Manchester Coffee Archive
@@ -310,18 +316,13 @@ There are two main options when using vacuum-sealed plastic bags:
 ### Vacuum sealing and resealing with vacuum bags
 
 This is a good method to use if you just want to make one or two cups of coffee at a time and this is therefore what I do with most coffees at home. This method is great for particularly fancy coffees that you want to hang on to for a while. 
-
-Most domestic vacuum sealers require **embossed/textured** plastic and will not work with smooth bags. Make sure the plastic roll/bags you buy are suitable before you buy in bulk.
-
-With a larger bag, you can cut out the original packaging label and put it inside, but I tend to just hold on to these and record all the information on a spreadsheet so I know exactly what I have in the freezer.
-
  
 
 #### Method
 
-1. Coffee is portioned into a prepared bag (cut from a 12cm or 15cm wide roll); I have found 20cm x15cm wide bags work well for 100g portions as it allows the bag to be flattened. If only removing 12-15g portion at a time a 12cm wide bag may be more appropriate since the empty section after removing this amount may not be sufficient to reseal (in which case you will need either remove more coffee or re-bag the whole lot)
-3. Remove the package from the freezer, cut a small incision just before the seal so I can portion out the dose (usually 12<15g) and immediately reseal the bag and return to the freezer. I reseal and freeze at this point to avoid storing the beans at room temperature as much as possible, and it is good to get it out of the way. 
-4. Grind the frozen coffee and brew.
+1. Coffee is portioned into a prepared bag and frozen. If only removing 12-15g portion at a time a 12cm wide bag may be appropriate, as this will give you enough empty space after removing each dose; larger doses will be better suited to a wider bag, and will require some trial and error.
+2. When you are ready to brew, remove the package from the freezer, cut a small incision so you can portion out the dose (e.g 12<15g) and immediately reseal the bag and return to the freezer. I reseal and freeze at this point to avoid storing the beans at room temperature as much as possible, and it is good to get it out of the way. 
+3. Grind the frozen coffee and brew.
 
 
 
@@ -610,3 +611,6 @@ Zaparz Mnie (2021) [Zaparz Mnie](https://www.instagram.com/zaparzmnie)
 08/05/2021 - Small updates, added info re: reusable containers, grind settings and PSD benefits etc.
 
 25/04/2021 - Major update, lots of small changes - more detail relating to reusable containers
+
+16/04/2022 - Amended vac sealing section - added a bit about original vs heat sealed edges
+
