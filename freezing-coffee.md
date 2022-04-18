@@ -166,9 +166,8 @@ The work of Christopher Hendon at his team, published in [Nature](https://www.na
 
 ### Contribute coffee to MCA
 
-Freezing allows you to keep hold of the coffee sample until you are able to share it with us at one of our events.
+Freezing allows you to keep hold of the coffee sample until you are able to share it with us at one of our tastings, for inclusion in the [Archive](./the-archive/index.html).
 
-More information about how to contribute coffee to MCA can be found [here](./contribute/index.html). ❤️
 
 
 
