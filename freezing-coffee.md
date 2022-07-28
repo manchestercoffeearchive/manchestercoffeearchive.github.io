@@ -6,7 +6,7 @@ share-description: MCA presents a summary of the benefits of freezing coffee, wo
 ---
  Tom Finch - Co-founder/Archivist, Manchester Coffee Archive
 
-_Updated: 16/04/2022_
+_Updated: 28/07/2022_
 
 
 ![MCA Freezer - several vacuum sealed bags of coffee](/assets/img/mca_wwk_freezertop_2000px.jpg)
@@ -390,7 +390,7 @@ One issue to point out though: the *vacuuming* process will remove air and inert
 
 ### The best time to freeze coffee
 
-Since freezing essentially stops the clock: freezing at the time the coffee tastes best seems to be the best option. If the coffee is 30 days past roast, freezing still seems worth doing to preserve the remaining freshness as long as possible. At MCA we freeze on day 7-10 for consistency when possible.
+Since freezing essentially stops the clock, freezing at the time the coffee tastes best is, in my opinion, the best option. However, when the flavour is starting to fade, freezing still seems to be a good option to preserve the coffee as long as possible. At MCA we tend to freeze from 10-30 days post roast, depending on the roast level: lighter roasted coffee may benefit from a longer rest period.
 
 
 
@@ -601,6 +601,8 @@ Zaparz Mnie (2021) [Zaparz Mnie](https://www.instagram.com/zaparzmnie)
 ## Changelog
 
 ------
+28/07/2022 - update re when to freeze
+
 07/07/2021 - Typo fixed (peas...)... Minor change to intro.
 
 15/05/2021 - Moved single dose info around a bit
