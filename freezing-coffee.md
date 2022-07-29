@@ -390,8 +390,7 @@ One issue to point out though: the *vacuuming* process will remove air and inert
 
 ### The best time to freeze coffee
 
-Since freezing essentially stops the clock, freezing at the time the coffee tastes best is, in my opinion, the best option. However, when the flavour is starting to fade, freezing still seems to be a good option to preserve the coffee as long as possible. At MCA we tend to freeze from 10-30 days post roast, depending on the roast level: lighter roasted coffee may benefit from a longer rest period.
-
+Since freezing essentially "stops the clock", freezing at the time the coffee tastes best is, in my opinion, the best time to freeze. However, when the flavour is starting to fade, freezing still might be a good option to preserve the coffee as long as possible. At MCA we tend to freeze from 10-30 days post roast, depending on the roast level: lighter roasted coffee may benefit from a longer rest period.
 
 
 > *"There’s a bunch of literature on degassing effects, and how to test it, but so much is dependent on a) the bean and b) how it was roasted. 7-10 days is the window for \*most\* coffees being fully degassed. I wait 9 days, in a temp controlled environment, bag open, then vac seal and freeze"*
