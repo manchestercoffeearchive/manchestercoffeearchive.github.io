@@ -469,10 +469,9 @@ Vacuum sealing bags appear to be mostly comprised of PA and PA/PE plastic: the r
 
 ### Recycling options for vacuum sealing plastic
 
-[1914 Coffee Company ](https://www.instagram.com/1914coffeecompany/)have advised that vacuum sealer plastic can be recycled in “soft plastic” collections in Canada.
+Recycling options for vacuum sealing plastic will vary depending in your location, and you should check the guidance at your local facilities before putting it any recycling bin. [1914 Coffee Company ](https://www.instagram.com/1914coffeecompany/)have advised that vacuum sealer plastic can be recycled in “soft plastic” collections in Canada, so check and see if this is an option in your country.
 
-Here in Manchester, the local recycling collection does not recycle PA or PA/PE plastic and this is also the case with the majority of other local councils in the UK. MCC has also stated that they do not believe these types of plastic are suitable for plastic shopping bag collections seen at supermarkets. At present there does not seem to be a good, local solution in Manchester.
-
+Here in Manchester, the local recycling collection does not recycle PA or PA/PE plastic so vacuum sealing plastic cannot be recycled in your usual recycling bins. However, Co-op Food now have soft plastic collections at many of their stores: if you are based in the UK, [check to see]( https://www.coop.co.uk/environment/soft-plastics) if your local Co-op has this facility. Other supermarkets may also have similar collections.
 
 
 > *“The collection points in some supermarkets for plastic bags are only for polythene packaging like salad bags and bread bags etc. I’m not aware of any recycling facility for household PA. In Greater Manchester, the only type of plastic that can be recycled in the recycling bins at home is plastic bottles (all types including HDPE, PET and PVC).*
@@ -600,7 +599,7 @@ Zaparz Mnie (2021) [Zaparz Mnie](https://www.instagram.com/zaparzmnie)
 ## Changelog
 
 ------
-28/07/2022 - update re when to freeze
+28/07/2022 - update re when to freeze & added info re: soft plastic recycling
 
 07/07/2021 - Typo fixed (peas...)... Minor change to intro.
 
