@@ -4,8 +4,10 @@ title: Events
 ---
 
 ## Upcoming Events
+[Tickets for our upcoming tastings via Eventbrite](https://manchestercoffeearchive.eventbrite.com/)
 
-Events currently on hold - join our [mailing list](http://eepurl.com/gaXOT5) or follow us on [Instagram](https://www.instagram.com/manchestercoffeearchive) or [Facebook](https://www.facebook.com/manchestercoffeearchive) for updates.
+
+Join our [mailing list](http://eepurl.com/gaXOT5) or follow us on [Instagram](https://www.instagram.com/manchestercoffeearchive) or [Facebook](https://www.facebook.com/manchestercoffeearchive) for updates on future tastings.
 
 
 ## Past Events
