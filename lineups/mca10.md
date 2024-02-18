@@ -2,7 +2,7 @@
 layout: page
 title: MCA 10 - Line Up
 share-img: /assets/img/mcalogo_512_noedge.png
-share-description: MCA 10 - Line Up
+share-description: MCA 10 - Lineup
 ---
 ![MCA10 - Diego Bermudez](/assets/img/events/mca10_poster_final_1080px.png)
 
