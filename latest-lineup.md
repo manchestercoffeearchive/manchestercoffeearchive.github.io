@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MCA 10 - Line Up
+title: MCA - Latest Lineup
 share-img: /assets/img/mcalogo_512_noedge.png
 share-description: Coffee info from MCA's latest tasting
 ---
