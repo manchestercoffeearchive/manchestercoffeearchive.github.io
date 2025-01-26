@@ -25,3 +25,6 @@ Sometimes people ask us to ramble on about freezing coffee...
 
 [Coffee Chat with Tom from Manchester Coffee Archive - James' Coffee Blog](https://jamesg.blog/2021/02/05/coffee-chat-manchester-coffee-archive)  
 05/02/2021
+
+[KaffeePod - Podcast Episode KP025: Manchester Coffee Archive](https://zwcvdl.podcaster.de/kp025-manchester-coffee-archive/)
+08/12/2024
