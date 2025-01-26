@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Press
+title: Media
 ---
 Sometimes people ask us to ramble on about freezing coffee...
 
