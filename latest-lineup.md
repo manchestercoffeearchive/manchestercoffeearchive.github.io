@@ -131,7 +131,7 @@ Kieni Cooperative, Nyeri, Kenya - Roasted by Coffee Collective (Copenhagen, Denm
 
 #### Thanks for coming!
 
-**Join the [mailing list](http://eepurl.com/gaXOT5) and/or follow us on [Instagram](https://www.instagram.com/manchestercoffeearchive) for updates on MCA's future events and other endevours.**
+**Join the [mailing list](https://manchestercoffeearchive.us19.list-manage.com/subscribe?u=3adde26c876e1ab4eb3926ef6&id=0759231d5c&fbclid=PAZXh0bgNhZW0CMTEAAaZAMUzrwEOeopRjkF_0Qd-D66cSt84NUnyD_PkdmSyAjHDGhN3ilVhZOsU_aem_HySRIVt-KOx5ojPSIuySqw) and/or follow us on [Instagram](https://www.instagram.com/manchestercoffeearchive) for updates on MCA's future events and other endevours.**
 
 Lots of love
 
