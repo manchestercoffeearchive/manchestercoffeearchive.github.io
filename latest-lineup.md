@@ -47,7 +47,7 @@ Kieni Cooperative, Nyeri, Kenya - Roasted by Coffee Collective (Copenhagen, Denm
 
 **MCA Code**	 - 	TF0287	  
 **Roaster**	 - 	Coffee Collective	  
-**Coffee Name**	 - 	Kieni (Nov-Dec 2021 harvest)	  
+**Coffee Name**	 - 	Kieni (Nov-Dec 2020 harvest)	  
 **Producer - Farm - Region**	 - 	Josphat Muriuki; Kieni Cooperative; Nyeri	  
 **Country**	 - 	Kenya	  
 **Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
