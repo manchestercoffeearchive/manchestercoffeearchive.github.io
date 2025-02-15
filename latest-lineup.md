@@ -4,168 +4,128 @@ title: MCA - Latest Lineup
 share-img: /assets/img/mcalogo_512_noedge.png
 share-description: Coffee info from MCA's latest tasting
 ---
-![MCA10 - Diego Bermudez](/assets/img/events/mca10_poster_final_1080px.png)
+![MCA11 - Kieni (Washed Kenyans)](/assets/img/events/mca11_poster_final_1080px.png)
 
 #### All coffees from:
-Finca El Paraíso, Cauca, Colombia
+Kieni Cooperative, Nyeri, Kenya - Roasted by Coffee Collective (Copenhagen, Denmark)
 
 ---
 
 #### Coffee Number 1
 
-**MCA Code**	 - 	TF0201	  
-**Roaster**	 - 	Crankhouse Coffee	  
-**Coffee Name**	 - 	Yenni Esperanza Bermuduz [5 Juicy Bangers Quiz - Blue]	  
-**Producer**	 - 	Yenni Esperanza Bermuduz	  
-**Variety**	 - 	Castillo	  
-**Process**	 - 	Experimental Thermal shock	  
-**Altitude (masl)**	 - 	1730	  
-**Tasting Notes**	 - 	Dried Mango and Lychee	  
-**Roast Date**	 - 	25/09/2020	  
-**Freeze Date**	 - 	08/10/2020	   	  
+**MCA Code**	 - 	TF0123	  
+**Roaster**	 - 	Coffee Collective	  
+**Coffee Name**	 - 	Kieni (Nov-Dec 2018 harvest)	  
+**Producer - Farm - Region**	 - 	Produced with Charles Murimi; Kieni dry mill; Kieni Cooperative - 1000 small farmers - managed by Josphat Kariuki	  
+**Country**	 - 	Kenya	  
+**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
+**Process**	 - 	Washed	  
+**Altitude (masl)**	 - 	1818	  
+**Flavour Notes**	 - 	Intense sweetness and juicy acidity. Rich, mouthwatering with a complex aroma of blackberry, blueberry, and vanilla	  
+**Roast Date**	 - 	~11/2019	  
+**Freeze Date**	 - 	23/11/2019	  	  
 
 ---
 
 #### Coffee Number 2	
 
-**MCA Code**	 - 	TF0204	  
-**Roaster**	 - 	Manhattan Coffee Roasters	  
-**Coffee Name**	 - 	Diego Bermudez	  
-**Producer**	 - 	Diego Samuel Bermudez	  
-**Variety**	 - 	Castillo	  
-**Process**	 - 	Thermal shock, Anaerobic	  
-**Altitude (masl)**	 - 	1800	  
-**Tasting Notes**	 - 	turkish delight, raspberry and lychee	  
-**Roast Date**	 - 	01/10/2020	  
-**Freeze Date**	 - 	12/10/2020	  	  			
+**MCA Code**	 - 	TF0189	  
+**Roaster**	 - 	Coffee Collective	  
+**Coffee Name**	 - 	Kieni (Nov-Dec 2019 harvest)	  
+**Producer - Farm - Region**	 - 	Josphat Muriuki; Kieni Cooperative; Nyeri	  
+**Country**	 - 	Kenya	  
+**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
+**Process**	 - 	Washed	  
+**Altitude (masl)**	 - 	1818	  
+**Flavour Notes**	 - 	Juicy acidity and intense sweetness. Full-bodied but refreshing and floral with complex aromas of blackcurrant, blueberry and rhubarb	  
+**Roast Date**	 - 	01/09/2020	  
+**Freeze Date**	 - 	14/09/2020	    	  			
 	
 ---
 
 #### Coffee Number 3	
 
-**MCA Code**	 - 	TF0239	  
-**Roaster**	 - 	Manhattan Coffee Roasters	  
-**Coffee Name**	 - 	Letty Bermudez	  
-**Producer**	 - 	Diego Samuel Bermudez	  
-**Variety**	 - 	Geisha	  
-**Process**	 - 	Double fermenation thermal shock	  
-**Altitude (masl)**	 - 	1960	  
-**Tasting Notes**	 - 	haribo peach, milky oolong, mango	  
-**Roast Date**	 - 	18/01/2021	  
-**Freeze Date**	 - 	28/01/2021	  	  		
+**MCA Code**	 - 	TF0287	  
+**Roaster**	 - 	Coffee Collective	  
+**Coffee Name**	 - 	Kieni (Nov-Dec 2021 harvest)	  
+**Producer - Farm - Region**	 - 	Josphat Muriuki; Kieni Cooperative; Nyeri	  
+**Country**	 - 	Kenya	  
+**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
+**Process**	 - 	Washed	  
+**Altitude (masl)**	 - 	1818	  
+**Flavour Notes**	 - 	Juicy acidity and intense sweetness. Full-bodied but refreshing with complex aromas of blackcurrant, gooseberry and blackberry	  
+**Roast Date**	 - 	03/06/2021	  
+**Freeze Date**	 - 	13/6/21	  	  	  		
 	
 ---
 
 #### Coffee Number 4
 
-**MCA Code**	 - 	TF0294	  
-**Roaster**	 - 	Manhattan Coffee Roasters	  
-**Coffee Name**	 - 	Luna Bermudez	  
-**Producer**	 - 	Diego Samuel Bermudez	  
-**Variety**	 - 	Geisha	  
-**Process**	 - 	Advanced fermentation	  
-**Altitude (masl)**	 - 	1960	  
-**Tasting Notes**	 - 	blueberry poptart; yellow peach; custard	  
-**Roast Date**	 - 	28/06/2021	  
-**Freeze Date**	 - 	08/07/2021	  	  		
+**MCA Code**	 - 	TF0403	  
+**Roaster**	 - 	Coffee Collective	  
+**Coffee Name**	 - 	Kieni (Nov-Dec 2021 harvest)	  
+**Producer - Farm - Region**	 - 	Cooperative of 1000 small farmers - Kieni (dry mill) - managed by Josphat Kariuki - Nyeri	  
+**Country**	 - 	Kenya	  
+**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
+**Process**	 - 	Washed	  
+**Altitude (masl)**	 - 	1818	  
+**Flavour Notes**	 - 	Juicy acidity and intense sweetness. Full-bodied but refreshing with complex aromas of blackcurrant, raspberry and blackberry	  
+**Roast Date**	 - 	01/12/2022	  
+**Freeze Date**	 - 	22/12/2022	  	  	  		
 
 ---
 
 #### Coffee Number 5
 
-**MCA Code**	 - 	TF0339	  
-**Roaster**	 - 	Manhattan Coffee Roasters	  
-**Coffee Name**	 - 	Salma Bermudez	  
-**Producer**	 - 	Diego Samuel Bermudez	  
-**Variety**	 - 	Geisha	  
-**Process**	 - 	Advanced fermentation	  
-**Altitude (masl)**	 - 	1960	  
-**Tasting Notes**	 - 	mango lassi; dulce de leche; elderflower	  
-**Roast Date**	 - 	03/01/2022	  
-**Freeze Date**	 - 	15/01/2022	  	  
+**MCA Code**	 - 	TF0436	  
+**Roaster**	 - 	Coffee Collective	  
+**Coffee Name**	 - 	Kieni (Nov-Dec 2022 harvest)	  
+**Producer - Farm - Region**	 - 	Cooperative of 1000 small farmers - Kieni (dry mill) - managed by Josphat Kariuki - Nyeri	  
+**Country**	 - 	Kenya	  
+**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
+**Process**	 - 	Washed	  
+**Altitude (masl)**	 - 	1818	  
+**Flavour Notes**	 - 	Juicy acidity and intense sweetness. Rich and mouth-watering with a complex aroma of blackcurrant, raspberry and blackberry.	  
+**Roast Date**	 - 	04/07/2023	  
+**Freeze Date**	 - 	25/07/2023	  	  	  
 
 ---
 
 #### Coffee Number 6	
 
-**MCA Code**	 - 	RP0005	  
-**Roaster**	 - 	Sweven Coffee	  
-**Coffee Name**	 - 	El Paraiso	  
-**Producer**	 - 	Cesar Bermudez	  
-**Variety**	 - 	Castillo	  
+**MCA Code**	 - 	TF0474	  
+**Roaster**	 - 	Coffee Collective	  
+**Coffee Name**	 - 	Kieni AB  (Nov-Dec 2023 harvest)	  
+**Producer - Farm - Region**	 - 	1000 smallholder farmers in the Mugaga Farmers Cooperative Society  - managed by Josphat Kariuki - Kieni (washing station) - Nyeri	  
+**Country**	 - 	Kenya	  
+**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
 **Process**	 - 	Washed	  
-**Altitude (masl)**	 - 	1870	  
-**Tasting Notes**	 - 	apricots, juicy, floral	  
-**Roast Date**	 - 	[TBC]	  
-**Freeze Date**	 - 	16/05/2022	  	  			
+**Altitude (masl)**	 - 	1818	  
+**Flavour Notes**	 - 	Light and refreshing. Aroma of gooseberry, plum and marzipan	  
+**Roast Date**	 - 	08/04/2024	  
+**Freeze Date**	 - 	29/04/2024	  	  	  			
 
 ---
 
 #### Coffee Number 7	
 
-**MCA Code**	 - 	TF0391	  
-**Roaster**	 - 	Dak	  
-**Coffee Name**	 - 	Milky Cake	  
-**Producer**	 - 	Diego Samuel Bermudez	  
-**Variety**	 - 	Castillo	  
-**Process**	 - 	Thermal Shock	  
-**Altitude (masl)**	 - 	1730	  
-**Tasting Notes**	 - 	Pistachio; Cardamom; Vanilla Cake; Honey	  
-**Roast Date**	 - 	15/08/2022	  
-**Freeze Date**	 - 	07/09/2022	  	  			
-
----
-
-#### Coffee Number 8	
-
-**MCA Code**	 - 	TF0392	  
-**Roaster**	 - 	Dak	  
-**Coffee Name**	 - 	Gummy Bear	  
-**Producer**	 - 	Alex Bermudez	  
-**Variety**	 - 	Castillo	  
-**Process**	 - 	Thermal Shock	  
-**Altitude (masl)**	 - 	1730	  
-**Tasting Notes**	 - 	Passion fruit; lychee; dragonfruit; green skittles	  
-**Roast Date**	 - 	15/08/2022	  
-**Freeze Date**	 - 	07/09/2022	  		
-	
----
-
-#### Coffee Number 9	
-
-**MCA Code**	 - 	TF0405	  
-**Roaster**	 - 	Manhattan Coffee Roasters	  
-**Coffee Name**	 - 	Samuel Junior Bermudez	  
-**Producer**	 - 	Diego Samuel Bermudez	  
-**Variety**	 - 	Caturra Chiroso	  
-**Process**	 - 	double anaerobic thermal shock washed	  
-**Altitude (masl)**	 - 	1960	  
-**Tasting Notes**	 - 	star anise, dark fudge, and verbena	  
-**Roast Date**	 - 	[TBC]	  
-**Freeze Date**	 - 	02/11/2022	  		
-
----
-
-#### Coffee Number 10
-
-**MCA Code**	 - 	TF0411	  
-**Roaster**	 - 	Plot	  
-**Coffee Name**	 - 	Diego Bermudez [FCP x Plot]	  
-**Producer**	 - 	Diego Samuel Bermudez	  
-**Variety**	 - 	Pink Bourbon	  
-**Process**	 - 	Thermal Shock	  
-**Altitude (masl)**	 - 	[TBC]	  
-**Tasting Notes**	 - 	Peach, White Grape, Jasmine	  
-**Roast Date**	 - 	10/02/2023	  
-**Freeze Date**	 - 	27/02/2023	  
+**MCA Code**	 - 	TF0478	  
+**Roaster**	 - 	Coffee Collective	  
+**Coffee Name**	 - 	Kieni  (Nov-Dec 2023 harvest)	  
+**Producer - Farm - Region**	 - 	1000 smallholder farmers in the Mugaga Farmers Cooperative Society  - managed by Josphat Kariuki - Kieni (washing station) - Nyeri	  
+**Country**	 - 	Kenya	  
+**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
+**Process**	 - 	Washed	  
+**Altitude (masl)**	 - 	1818	  
+**Flavour Notes**	 - 	Sweet and full. Aroma of blackcurrants, currants and plums	  
+**Roast Date**	 - 	30/07/2024	  
+**Freeze Date**	 - 	20/08/2024	  	  	  			
 
 ---
 
 #### References
 
-[Christopher Feran - A sort-of glossary of coffee processes](https://christopherferan.com/2022/08/19/a-sort-of-glossary-of-coffee-processes/)
-
-[Barista Hustle - Deconstructed Fermentation](https://www.baristahustle.com/blog/deconstructed-fermentation/)
+[Kieni - Coffee Collective](https://coffeecollective.dk/shop/kieni/)
 
 ---
 
