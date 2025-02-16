@@ -11,6 +11,8 @@ Join our [mailing list](http://eepurl.com/gaXOT5) for updates on future tastings
 
 
 ## Past Events
+[![MCA11 - Kieni (Washed Kenyans)](/assets/img/events/mca11_poster_final_1080px.png)](/lineups/mca10/)
+
 [![MCA10 - Diego Bermudez](/assets/img/events/mca10_poster_final_1080px.png)](/lineups/mca10/)
 
 [![MCA - Three Years In The Freezer](/assets/img/mca10_poster_2000px.png)](/lineups/3-years/)
