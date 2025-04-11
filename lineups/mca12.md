@@ -152,7 +152,7 @@ share-description: MCA 12 - Lineup
 			
 ---			
 			
-#### Coffee Number 10			  
+#### Coffee Number 10: Palate Cleanser (not a co-ferment!)			  
 			
 **MCA Code**	 - 	IR0002	  
 **Roaster**	 - 	Bonanza	  
