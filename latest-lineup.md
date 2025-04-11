@@ -139,7 +139,7 @@ share-description: Coffee info from MCA's latest tasting
 #### Coffee Number 9			  
 			
 **MCA Code**	 - 	TF0521	  
-**Roaster**	 - 	Kimoi.coffee (roasted @ Moonwake)	  
+**Roaster**	 - 	Kimoi.coffee (roasted @ Moonwake Coffee Roasters, San Jose, CA)	  
 **Coffee Name**	 - 	Asbi's Yeast + Lychee Cofermented Typica/Catimor	  
 **Producer - Farm - Region**	 - 	Asbi in collaboration with the Aalamin Brand and Central Sumatra Coffee Company - Bener Mariah	  
 **Country**	 - 	Sumatra	  
