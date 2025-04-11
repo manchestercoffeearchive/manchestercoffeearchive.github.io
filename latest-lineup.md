@@ -4,128 +4,173 @@ title: MCA - Latest Lineup
 share-img: /assets/img/mcalogo_512_noedge.png
 share-description: Coffee info from MCA's latest tasting
 ---
-![MCA11 - Kieni (Washed Kenyans)](/assets/img/events/mca11_poster_final_1080px.png)
-
-#### All coffees from:
-Kieni Cooperative, Nyeri, Kenya - Roasted by Coffee Collective (Copenhagen, Denmark)
+![MCA12 - Co-ferments](/assets/img/events/mca12_poster_1080px.png)
 
 ---
 
-#### Coffee Number 1
-
-**MCA Code**	 - 	TF0123	  
-**Roaster**	 - 	Coffee Collective	  
-**Coffee Name**	 - 	Kieni (Nov-Dec 2018 harvest)	  
-**Producer - Farm - Region**	 - 	Produced with Charles Murimi; Kieni dry mill; Kieni Cooperative - 1000 small farmers - managed by Josphat Kariuki	  
-**Country**	 - 	Kenya	  
-**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
+#### Coffee Number 1			
+			
+**MCA Code**	 - 	TF0416	  
+**Roaster**	 - 	Dak	  
+**Coffee Name**	 - 	Candy Crush	  
+**Producer - Farm - Region**	 - 	Edwin Noreña - Finca Campo Hermoso - Quindio	  
+**Country**	 - 	Colombia	  
+**Variety**	 - 	Caturra	  
+**Process**	 - 	Mossto carbonic maceration (The initial fermentation begins with a carbonic maceration for 72 hours with mossto (the juice made by compressing coffee cherries). Following that comes another 72 hours of carbonic maceration fermentation for 72 hours with mossto and fruits.)	  
+**Altitude (masl)**	 - 	1900	  
+**Flavour Notes**	 - 	Strawberry Lollipop, Bubble Gum, Marshmallow, Dulce de Leche	  
+**Roast Date**	 - 	21/03/2023	  
+**Freeze Date**	 - 	04/04/2023	  
+			
+---			
+			
+#### Coffee Number 2			  
+			
+**MCA Code**	 - 	TF0469	  
+**Roaster**	 - 	Dak	  
+**Coffee Name**	 - 	Melondo	  
+**Producer - Farm - Region**	 - 	Edwin Noreña - Finca Campo Hermoso - Quindio	  
+**Country**	 - 	Colombia	  
+**Variety**	 - 	Pink Bourbon	  
+**Process**	 - 	Honey; Co-fermented with watermelon	  
+**Altitude (masl)**	 - 	1750	  
+**Flavour Notes**	 - 	Ripe Watermelon, Bubble Gum, Lollipop	  
+**Roast Date**	 - 	08/03/2024	  
+**Freeze Date**	 - 	08/03/2024	  
+			
+---			
+			
+#### Coffee Number 3			  
+			
+**MCA Code**	 - 	TF0508	  
+**Roaster**	 - 	Hydrangea	  
+**Coffee Name**	 - 	El Mirador - Catiope Strawberry Natural	  
+**Producer - Farm - Region**	 - 	Elkin Guzman - Finca El Mirador -  Huila	  
+**Country**	 - 	Colombia	  
+**Variety**	 - 	Catiope	  
+**Process**	 - 	Natural, co-fermented with strawberries	  
+**Altitude (masl)**	 - 	1550-1750	  
+**Flavour Notes**	 - 	Strawberry Jam, Shortcake, Tangerine	  
+**Roast Date**	 - 	06/10/2024	  
+**Freeze Date**	 - 	08/11/2024	  
+			
+---			
+			
+#### Coffee Number 4			  
+			
+**MCA Code**	 - 	TF0509	  
+**Roaster**	 - 	Hydrangea	  
+**Coffee Name**	 - 	Coconut Lemonade	  
+**Producer - Farm - Region**	 - 	Rodrigo Sanchez Valencia - Finca Monteblanco - Huila	  
+**Country**	 - 	Colombia	  
+**Variety**	 - 	Purple Caturra	  
+**Process**	 - 	Coconut Lemonade Co-fermented Natural	  
+**Altitude (masl)**	 - 	1730	  
+**Flavour Notes**	 - 	Tropical, Coconut, Lemonade	  
+**Roast Date**	 - 	06/10/2024	  
+**Freeze Date**	 - 	08/11/2024	  
+			
+---			
+			
+#### Coffee Number 5			  
+			
+**MCA Code**	 - 	TF0513	  
+**Roaster**	 - 	Dak	  
+**Coffee Name**	 - 	Cinnamon Roll	  
+**Producer - Farm - Region**	 - 	Edwin Noreña - Finca Campo Hermoso - Quindio	  
+**Country**	 - 	Colombia	  
+**Variety**	 - 	Caturra & Pink Bourbon	  
+**Process**	 - 	Cinnamon Carbonic Maceration	  
+**Altitude (masl)**	 - 	1900	  
+**Flavour Notes**	 - 	Cinnamon, Gingerbread, Clove, Anise	  
+**Roast Date**	 - 	25/11/2024	  
+**Freeze Date**	 - 	16/12/2024	  
+			
+---			
+			
+#### Coffee Number 6			  
+			
+**MCA Code**	 - 	TF0518	  
+**Roaster**	 - 	Taith	  
+**Coffee Name**	 - 	Jairo Arcila Coferments - Green Apple	  
+**Producer - Farm - Region**	 - 	Jairo Arcila - Santa Mónica - Quindio	  
+**Country**	 - 	Colombia	  
+**Variety**	 - 	Castillo	  
+**Process**	 - 	Green Apple Co-ferment	  
+**Altitude (masl)**	 - 	1450-1500	  
+**Flavour Notes**	 - 	Green apple, lime, chocolate	  
+**Roast Date**	 - 	21/01/2025	  
+**Freeze Date**	 - 	12/02/2025	  
+			
+---			
+			
+#### Coffee Number 7			  
+			
+**MCA Code**	 - 	TF0519	  
+**Roaster**	 - 	Taith	  
+**Coffee Name**	 - 	Jairo Arcila Coferments - Passionfruit	  
+**Producer - Farm - Region**	 - 	Jairo Arcila - Santa Mónica - Quindio	  
+**Country**	 - 	Colombia	  
+**Variety**	 - 	Castillo	  
+**Process**	 - 	Passionfruit Co-ferment	  
+**Altitude (masl)**	 - 	1450-1500	  
+**Flavour Notes**	 - 	Passionfruit, molasses, chocolate	  
+**Roast Date**	 - 	21/01/2025	  
+**Freeze Date**	 - 	12/02/2025	  
+			
+---			
+			
+#### Coffee Number 8			  
+			
+**MCA Code**	 - 	TF0520	  
+**Roaster**	 - 	Taith	  
+**Coffee Name**	 - 	Jairo Arcila Coferments - Blackberry	  
+**Producer - Farm - Region**	 - 	Jairo Arcila - Santa Mónica - Quindio	  
+**Country**	 - 	Colombia	  
+**Variety**	 - 	Castillo	  
+**Process**	 - 	Blackberry Co-ferment	  
+**Altitude (masl)**	 - 	1450-1500	  
+**Flavour Notes**	 - 	Blackberries, molasses, mandarin	  
+**Roast Date**	 - 	21/01/2025	  
+**Freeze Date**	 - 	12/02/2025	  
+			
+---			
+			
+#### Coffee Number 9			  
+			
+**MCA Code**	 - 	TF0521	  
+**Roaster**	 - 	Kimoi.coffee (roasted @ Moonwake)	  
+**Coffee Name**	 - 	Asbi's Yeast + Lychee Cofermented Typica/Catimor	  
+**Producer - Farm - Region**	 - 	Asbi in collaboration with the Aalamin Brand and Central Sumatra Coffee Company - Bener Mariah	  
+**Country**	 - 	Sumatra	  
+**Variety**	 - 	Typica, Regional Catimor	  
+**Process**	 - 	Yeast-inoculated, lychee cofermented, anaerobic wet-hulled	  
+**Altitude (masl)**	 - 	1442	  
+**Flavour Notes**	 - 	Lychee, chocolate, 🤷‍♂️🤷‍♂️🤷‍♂️	  
+**Roast Date**	 - 	[TBC]	  
+**Freeze Date**	 - 	16/01/2025	  
+			
+---			
+			
+#### Coffee Number 10			  
+			
+**MCA Code**	 - 	IR0002	  
+**Roaster**	 - 	Bonanza	  
+**Coffee Name**	 - 	Adola	  
+**Producer - Farm - Region**	 - 	Israel Degfa, Aferara, Guiji	  
+**Country**	 - 	Ethiopia	  
+**Variety**	 - 	Heirloom	  
 **Process**	 - 	Washed	  
-**Altitude (masl)**	 - 	1818	  
-**Flavour Notes**	 - 	Intense sweetness and juicy acidity. Rich, mouthwatering with a complex aroma of blackberry, blueberry, and vanilla	  
-**Roast Date**	 - 	~11/2019	  
-**Freeze Date**	 - 	23/11/2019	  	  
-
----
-
-#### Coffee Number 2	
-
-**MCA Code**	 - 	TF0189	  
-**Roaster**	 - 	Coffee Collective	  
-**Coffee Name**	 - 	Kieni (Nov-Dec 2019 harvest)	  
-**Producer - Farm - Region**	 - 	Josphat Muriuki; Kieni Cooperative; Nyeri	  
-**Country**	 - 	Kenya	  
-**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
-**Process**	 - 	Washed	  
-**Altitude (masl)**	 - 	1818	  
-**Flavour Notes**	 - 	Juicy acidity and intense sweetness. Full-bodied but refreshing and floral with complex aromas of blackcurrant, blueberry and rhubarb	  
-**Roast Date**	 - 	01/09/2020	  
-**Freeze Date**	 - 	14/09/2020	    	  			
-	
----
-
-#### Coffee Number 3	
-
-**MCA Code**	 - 	TF0287	  
-**Roaster**	 - 	Coffee Collective	  
-**Coffee Name**	 - 	Kieni (Nov-Dec 2020 harvest)	  
-**Producer - Farm - Region**	 - 	Josphat Muriuki; Kieni Cooperative; Nyeri	  
-**Country**	 - 	Kenya	  
-**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
-**Process**	 - 	Washed	  
-**Altitude (masl)**	 - 	1818	  
-**Flavour Notes**	 - 	Juicy acidity and intense sweetness. Full-bodied but refreshing with complex aromas of blackcurrant, gooseberry and blackberry	  
-**Roast Date**	 - 	03/06/2021	  
-**Freeze Date**	 - 	13/6/21	  	  	  		
-	
----
-
-#### Coffee Number 4
-
-**MCA Code**	 - 	TF0403	  
-**Roaster**	 - 	Coffee Collective	  
-**Coffee Name**	 - 	Kieni (Nov-Dec 2021 harvest)	  
-**Producer - Farm - Region**	 - 	Cooperative of 1000 small farmers - Kieni (dry mill) - managed by Josphat Kariuki - Nyeri	  
-**Country**	 - 	Kenya	  
-**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
-**Process**	 - 	Washed	  
-**Altitude (masl)**	 - 	1818	  
-**Flavour Notes**	 - 	Juicy acidity and intense sweetness. Full-bodied but refreshing with complex aromas of blackcurrant, raspberry and blackberry	  
-**Roast Date**	 - 	01/12/2022	  
-**Freeze Date**	 - 	22/12/2022	  	  	  		
-
----
-
-#### Coffee Number 5
-
-**MCA Code**	 - 	TF0436	  
-**Roaster**	 - 	Coffee Collective	  
-**Coffee Name**	 - 	Kieni (Nov-Dec 2022 harvest)	  
-**Producer - Farm - Region**	 - 	Cooperative of 1000 small farmers - Kieni (dry mill) - managed by Josphat Kariuki - Nyeri	  
-**Country**	 - 	Kenya	  
-**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
-**Process**	 - 	Washed	  
-**Altitude (masl)**	 - 	1818	  
-**Flavour Notes**	 - 	Juicy acidity and intense sweetness. Rich and mouth-watering with a complex aroma of blackcurrant, raspberry and blackberry.	  
-**Roast Date**	 - 	04/07/2023	  
-**Freeze Date**	 - 	25/07/2023	  	  	  
-
----
-
-#### Coffee Number 6	
-
-**MCA Code**	 - 	TF0474	  
-**Roaster**	 - 	Coffee Collective	  
-**Coffee Name**	 - 	Kieni AB  (Nov-Dec 2023 harvest)	  
-**Producer - Farm - Region**	 - 	1000 smallholder farmers in the Mugaga Farmers Cooperative Society  - managed by Josphat Kariuki - Kieni (washing station) - Nyeri	  
-**Country**	 - 	Kenya	  
-**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
-**Process**	 - 	Washed	  
-**Altitude (masl)**	 - 	1818	  
-**Flavour Notes**	 - 	Light and refreshing. Aroma of gooseberry, plum and marzipan	  
-**Roast Date**	 - 	08/04/2024	  
-**Freeze Date**	 - 	29/04/2024	  	  	  			
-
----
-
-#### Coffee Number 7	
-
-**MCA Code**	 - 	TF0478	  
-**Roaster**	 - 	Coffee Collective	  
-**Coffee Name**	 - 	Kieni  (Nov-Dec 2023 harvest)	  
-**Producer - Farm - Region**	 - 	1000 smallholder farmers in the Mugaga Farmers Cooperative Society  - managed by Josphat Kariuki - Kieni (washing station) - Nyeri	  
-**Country**	 - 	Kenya	  
-**Variety**	 - 	SL28, SL34, Ruiru 11, Batian	  
-**Process**	 - 	Washed	  
-**Altitude (masl)**	 - 	1818	  
-**Flavour Notes**	 - 	Sweet and full. Aroma of blackcurrants, currants and plums	  
-**Roast Date**	 - 	30/07/2024	  
-**Freeze Date**	 - 	20/08/2024	  	  	  			
+**Altitude (masl)**	 - 	[TBC]	  
+**Flavour Notes**	 - 	Lemon sorbet, plum & rooibos tea	  
+**Roast Date**	 - 	05/02/2019	  
+**Freeze Date**	 - 	23/02/2019	  	  			
 
 ---
 
 #### References
 
-[Kieni - Coffee Collective](https://coffeecollective.dk/shop/kieni/)
+[Robert Asami - Into the co-ferment kingdom: A trip to Finca Monteblanco](https://www.robertasami.com/coffee/into-the-coferment-kingdom)
 
 ---
 
@@ -138,3 +183,4 @@ Lots of love
 MCA
 
 xx
+
