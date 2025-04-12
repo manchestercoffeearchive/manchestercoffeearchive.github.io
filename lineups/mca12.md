@@ -35,7 +35,7 @@ share-description: MCA 12 - Lineup
 **Process**	 - 	Honey; Co-fermented with watermelon	  
 **Altitude (masl)**	 - 	1750	  
 **Flavour Notes**	 - 	Ripe Watermelon, Bubble Gum, Lollipop	  
-**Roast Date**	 - 	08/03/2024	  
+**Roast Date**	 - 	26/02/2024	  
 **Freeze Date**	 - 	08/03/2024	  
 			
 ---			
@@ -147,7 +147,7 @@ share-description: MCA 12 - Lineup
 **Process**	 - 	Yeast-inoculated, lychee cofermented, anaerobic wet-hulled	  
 **Altitude (masl)**	 - 	1442	  
 **Flavour Notes**	 - 	Lychee, chocolate, 🤷‍♂️🤷‍♂️🤷‍♂️	  
-**Roast Date**	 - 	[TBC]	  
+**Roast Date**	 - 	12/2024	  
 **Freeze Date**	 - 	16/01/2025	  
 			
 ---			
