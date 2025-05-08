@@ -11,6 +11,8 @@ Join our [mailing list](http://eepurl.com/gaXOT5) for updates on future tastings
 
 
 ## Past Events
+[![MCA12 - Co-ferments](/assets/img/events/mca12_poster_1080px.png)](/lineups/mca12/)
+
 [![MCA11 - Kieni (Washed Kenyans)](/assets/img/events/mca11_poster_final_1080px.png)](/lineups/mca11/)
 
 [![MCA10 - Diego Bermudez](/assets/img/events/mca10_poster_final_1080px.png)](/lineups/mca10/)
